@@ -1,0 +1,6978 @@
+show_id,pos,director
+s1,1,Kirsten Johnson
+s3,1,Julien Leclercq
+s6,1,Mike Flanagan
+s7,1,Robert Cullen
+s7,2,José Luis Ucha
+s8,1,Haile Gerima
+s9,1,Andy Devonshire
+s10,1,Theodore Melfi
+s12,1,Kongkiat Komesiri
+s13,1,Christian Schwochow
+s14,1,Bruno Garotti
+s17,1,Pedro de Echave García
+s17,2,Pablo Azorín Williams
+s19,1,Adam Salky
+s21,1,Olivier Megaton
+s23,1,K.S. Ravikumar
+s24,1,Alex Woo
+s24,2,Stanley Moore
+s25,1,S. Shankar
+s27,1,Rajiv Menon
+s28,1,Dennis Dugan
+s29,1,Scott Stewart
+s30,1,Robert Luketic
+s31,1,Ashwiny Iyer Tiwari
+s31,2,Abhishek Chaubey
+s31,3,Saket Chaudhary
+s36,1,Daniel Sandu
+s37,1,Cédric Jimenez
+s39,1,George Nolfi
+s42,1,Steven Spielberg
+s43,1,Jeannot Szwarc
+s44,1,Joe Alves
+s45,1,Joseph Sargent
+s46,1,Tyler Greco
+s47,1,Daniel Espinosa
+s48,1,Bunmi Ajakaiye
+s49,1,Antoine Fuqua
+s52,1,Toshiya Shinohara
+s53,1,Toshiya Shinohara
+s54,1,Toshiya Shinohara
+s55,1,Toshiya Shinohara
+s57,1,Masahiko Murata
+s58,1,Hajime Kamegaki
+s59,1,Masahiko Murata
+s60,1,Hajime Kamegaki
+s61,1,Masahiko Murata
+s62,1,Hirotsugu Kawasaki
+s63,1,Toshiyuki Tsuru
+s64,1,Tensai Okamura
+s65,1,David Yarovesky
+s69,1,Hanns-Bruno Kammertöns
+s69,2,Vanessa Nöcker
+s69,3,Michael Wech
+s72,1,David A. Vargas
+s74,1,Kemi Adetiba
+s76,1,Ben Simms
+s78,1,Prakash Satam
+s79,1,Delhiprasad Deenadayalan
+s80,1,Delhiprasad Deenadayalan
+s81,1,Tomer Eshed
+s82,1,Cedric Nicolas-Troyan
+s85,1,JJC Skillz
+s85,2,Funke Akindele
+s87,1,Thomas Sieben
+s89,1,Marcus Clarke
+s91,1,Alice Waddington
+s92,1,Mona Achache
+s92,2,Patricia Tourancheau
+s94,1,Alexis Almström
+s95,1,Raja Gosnell
+s97,1,Stephen Kijak
+s102,1,Chapman Way
+s102,2,Maclain Way
+s103,1,Jason Hehir
+s104,1,Yemi Amodu
+s106,1,Lijo Jose Pellissery
+s108,1,David de Vos
+s111,1,Luis Alfaro
+s111,2,Javier Gómez Santander
+s113,1,Sara Colangelo
+s114,1,Stephen Herek
+s115,1,Rahul Rawail
+s116,1,Jane Campion
+s117,1,Nagesh Kukunoor
+s118,1,Luke Holland
+s119,1,Shanker Raman
+s120,1,JP Habac
+s123,1,Jane Campion
+s127,1,Vidhu Vinod Chopra
+s128,1,Mark Rosman
+s129,1,Gilles Paquet-Brenner
+s130,1,Lasse Hallström
+s131,1,Scott Pleydell-Pearce
+s132,1,Ridley Scott
+s134,1,Neill Blomkamp
+s135,1,Phillip Noyce
+s136,1,Renny Harlin
+s137,1,Anthony Minghella
+s138,1,Simon Wincer
+s139,1,Lasse Hallström
+s140,1,Spike Lee
+s141,1,Sebastián Schindel
+s142,1,Steven C. Miller
+s143,1,Richard LaGravenese
+s144,1,Martin Campbell
+s145,1,Reginald Hudlin
+s146,1,George Jackson
+s146,2,Doug McHenry
+s147,1,Eric Meza
+s149,1,Gerhard Mostert
+s150,1,Michael Martin
+s151,1,Michael Rymer
+s152,1,Andrew Lau Wai-keung
+s152,2,Alan Mak
+s153,1,Brett Weiner
+s156,1,Jim Henson
+s157,1,Gary Winick
+s158,1,Danishka Esterhazy
+s159,1,Troy Byer
+s160,1,Pang Ho-cheung
+s162,1,Tim Burton
+s163,1,Reginald Hudlin
+s164,1,David Zucker
+s165,1,Kinka Usher
+s167,1,Sergio Leone
+s168,1,Matthew O'Callaghan
+s168,2,Todd Wilderman
+s169,1,Bobby Farrelly
+s169,2,Peter Farrelly
+s170,1,Wolfgang Petersen
+s171,1,Peter Spirer
+s172,1,Michael Carney
+s173,1,Richard Linklater
+s174,1,Amy Rice
+s175,1,Antoine Fuqua
+s176,1,Randal Kleiser
+s177,1,Michael Ritchie
+s178,1,J. Lee Thompson
+s179,1,Evan Goldberg
+s179,2,Seth Rogen
+s180,1,Tom Shadyac
+s181,1,Peter Segal
+s183,1,Malcolm D. Lee
+s184,1,Wolfgang Petersen
+s186,1,Chapman Way
+s186,2,Maclain Way
+s189,1,Ramzy Bedia
+s189,2,Éric Judor
+s191,1,Sharan Koppisetty
+s192,1,Taylor Sheridan
+s193,1,Sachin Yardi
+s196,1,Saurabh Kabra
+s197,1,Mark Waters
+s199,1,Kemi Adetiba
+s200,1,Partho Mitra
+s201,1,Santram Varma
+s202,1,Anil V. Kumar
+s202,2,Anurag Basu
+s203,1,Sangeeth Sivan
+s204,1,Umesh Ghadge
+s205,1,Sachin Yardi
+s206,1,David Dhawan
+s207,1,Dibakar Banerjee
+s208,1,Apoorva Lakhia
+s209,1,Milan Luthria
+s210,1,Milan Luthria
+s211,1,Pawan Kripalani
+s212,1,Bhushan Patel
+s215,1,Magnus Martens
+s216,1,Apoorva Lakhia
+s217,1,Raj Nidimoru
+s217,2,Krishna D.K.
+s218,1,Milan Luthria
+s222,1,Joshua Rofé
+s223,1,Brad Anderson
+s224,1,Mauricio Dias
+s224,2,Tatiana Villela
+s228,1,Angel Kristi Williams
+s229,1,Roger Donaldson
+s230,1,Christopher Alender
+s231,1,Rush Sturges
+s232,1,David Oyelowo
+s234,1,Mark Lo
+s236,1,Crystal Moselle
+s237,1,Rathindran R Prasad
+s238,1,Rathindran R Prasad
+s239,1,Rathindran R Prasad
+s240,1,Rathindran R Prasad
+s241,1,Han Kwang Il
+s245,1,Karim El Shenawy
+s247,1,Yin Chen-hao
+s248,1,Brian Andrew Mendoza
+s250,1,Dave Needham
+s251,1,Veronica Velasco
+s252,1,Drake Doremus
+s253,1,Miguel Alexandre
+s254,1,Mani Ratnam
+s256,1,Michael Harte
+s257,1,Tosin Igho
+s258,1,Mani Ratnam
+s259,1,Alice Filippi
+s260,1,Paakhi Tyrewala
+s262,1,Bruno Garotti
+s263,1,Laura Brownson
+s265,1,Steve Brill
+s268,1,Jane Campion
+s269,1,Moses Inwang
+s271,1,Ferdinando Cito Filomarino
+s274,1,Juan Carlos Medina
+s277,1,Inma Torrente
+s279,1,Julián Gaviria
+s280,1,Steven Yamamoto
+s282,1,Charles Uwagbai
+s283,1,Julián Hernández
+s284,1,Sam Hobkinson
+s285,1,Vince Marcello
+s286,1,Jonathan Teplitzky
+s288,1,Sakon Tiacharoen
+s291,1,Floyd Russ
+s293,1,Dustin Hoffman
+s294,1,Adze Ugah
+s295,1,Hideaki Takizawa
+s296,1,Quoc Bao Tran
+s298,1,Bejoy Nambiar
+s298,2,Priyadarshan
+s298,3,Karthik Narain
+s298,4,Vasanth Sai
+s298,5,Karthik Subbaraj
+s298,6,Arvind Swamy
+s298,7,Rathindran R Prasad
+s298,8,Sarjun
+s298,9,Gautham Vasudev Menon
+s299,1,Kayode Kasum
+s300,1,Just Philippot
+s301,1,Kirk DeMicco
+s301,2,Brandon Jeffords
+s302,1,Rohit Shetty
+s303,1,Cavi Borges
+s303,2,Luciano Vidigal
+s304,1,Alejandro Doria
+s305,1,Laura Fairrie
+s306,1,Marcelo Piñeyro
+s307,1,Izu Ojukwu
+s308,1,Peter Winther
+s309,1,Susan Lacy
+s311,1,Billy Corben
+s315,1,James Mangold
+s316,1,Chineze Anyaene
+s317,1,Hsu Fu-chun
+s318,1,Kristine Stolakis
+s319,1,Eva Müller
+s319,2,Michael Schmitt
+s326,1,Brian Levant
+s327,1,Rod Daniel
+s328,1,Robert Zemeckis
+s329,1,Todor Chapkanov
+s330,1,Steven Spielberg
+s331,1,Phil Lord
+s331,2,Christopher Miller
+s333,1,Renny Harlin
+s334,1,John Hughes
+s335,1,Justin Baldoni
+s336,1,Joe Roth
+s338,1,Mark Helfrich
+s340,1,Mag Hsu
+s340,2,Hsu Chih-yen
+s341,1,Christopher Nolan
+s342,1,Paul Thomas Anderson
+s343,1,Nick Castle
+s344,1,Howard Zieff
+s345,1,Howard Zieff
+s346,1,David Feiss
+s347,1,David Gordon Green
+s348,1,Jorge Blanco
+s349,1,Zara Hayes
+s350,1,Gary Ross
+s351,1,Clint Eastwood
+s352,1,Trey Parker
+s353,1,Kelly Fremon Craig
+s354,1,Tom Elkins
+s355,1,Tony Scott
+s356,1,Brad Furman
+s357,1,Sylvain White
+s358,1,Brad Anderson
+s359,1,Irwin Winkler
+s360,1,Spike Lee
+s361,1,Garry Marshall
+s363,1,Kenneth Gyang
+s364,1,Jaume Balagueró
+s366,1,Najwa Najjar
+s368,1,Selçuk Metin
+s372,1,Najwa Najjar
+s373,1,Keishi Otomo
+s374,1,David Charhon
+s375,1,Michelle Bello
+s376,1,Steven Tsuchida
+s378,1,Daniel Markowicz
+s379,1,Louie Schwartzberg
+s381,1,Glen Winter
+s384,1,Ram Gopal Varma
+s385,1,David Benullo
+s388,1,Laxman Utekar
+s389,1,Royale Watkins
+s389,2,Rich Schlansker
+s390,1,Yuval Adler
+s393,1,Quentin Tarantino
+s394,1,Clay Glen
+s395,1,Muzi Mthembu
+s396,1,Marcos Bucay
+s397,1,Peter Thorwarth
+s399,1,Kim Seong-hun
+s403,1,Augustine Frizzell
+s406,1,Sidheswar Shukla
+s407,1,Rajiv Chilaka
+s408,1,Rajiv Chilaka
+s409,1,Rajiv Chilaka
+s410,1,Rajiv Chilaka
+s411,1,Rajiv Chilaka
+s412,1,Rajiv Chilaka
+s413,1,Rajiv Chilaka
+s414,1,Rajiv Chilaka
+s415,1,Rajiv Chilaka
+s416,1,Rajiv Chilaka
+s417,1,Rajiv Chilaka
+s418,1,Binayak Das
+s419,1,Arpan Sarkar
+s419,2,Shyamal Chaulia
+s420,1,Rajiv Chilaka
+s421,1,Rajiv Chilaka
+s422,1,Rajiv Chilaka
+s422,2,Owll Mina
+s423,1,Rajiv Chilaka
+s424,1,Rajiv Chilaka
+s425,1,Rajiv Chilaka
+s427,1,Ainsley Gardiner
+s427,2,Briar Grace-Smith
+s428,1,Mahmoud Karim
+s429,1,Kyohei Ishiguro
+s430,1,Seyi Babatope
+s433,1,Johane Matte
+s433,2,Andrew L. Schmidt
+s433,3,Francisco Ruiz Velasco
+s434,1,Morgan Ingari
+s437,1,Abdulaziz Alshlahei
+s438,1,Edward Drake
+s439,1,Kathryn Fasegha
+s440,1,Sita Likitvanichkul
+s440,2,Jetarin Ratanaserikiat
+s440,3,Apirak Samudkitpaisan
+s440,4,Thanabodee Uawithya
+s440,5,Adirek Wattaleela
+s442,1,Leigh Janiak
+s444,1,Luis Estrada
+s445,1,Garrett Bradley
+s446,1,Sofia Coppola
+s447,1,Colin Trevorrow
+s448,1,Bill Condon
+s449,1,Bill Condon
+s450,1,David Slade
+s451,1,Chris Weitz
+s452,1,Catherine Hardwicke
+s453,1,Hadrah Daeng Ratu
+s455,1,Tommy Chong
+s456,1,Fred Ouro Preto
+s458,1,Mayye Zayed
+s459,1,Alessandra de Rossi
+s461,1,Ash Brannon
+s461,2,Chris Buck
+s462,1,Alaa Eddine Aljem
+s463,1,Tom Donahue
+s464,1,Roberto De Feo
+s464,2,Paolo Strippoli
+s465,1,Navot Papushado
+s468,1,Manuel Alcalá
+s469,1,Ricardo Trogi
+s470,1,Semi Chellas
+s472,1,Akay Mason
+s472,2,Abosi Ogba
+s474,1,Viridiana Lieberman
+s475,1,Nima Nourizadeh
+s476,1,Daniel Růžička
+s477,1,Juraj Šajmovič
+s480,1,Leigh Janiak
+s481,1,Femi D. Ogunsanwo
+s482,1,Douglas Attal
+s485,1,Kim Joo-hyung
+s486,1,Avi Federgreen
+s487,1,Jericca Cleland
+s487,2,Kevin Munroe
+s490,1,Ahmed Siddiqui
+s492,1,Hallie Meyers-Shyer
+s493,1,Scott Speer
+s495,1,Barry Levinson
+s496,1,Tolulope Itegboje
+s497,1,Camille Delamarre
+s499,1,Pascal Atuma
+s501,1,Oleg Trofim
+s502,1,Seyi Babatope
+s503,1,Mahmood Ali-Balogun
+s504,1,Jan Holoubek
+s506,1,Anurin Nwunembom
+s506,2,Musing Derrick
+s507,1,Christine Luby
+s508,1,Udoka Oyeka
+s509,1,Yeo Siew Hua
+s519,1,Hardik Mehta
+s529,1,Rajveer Singh Maan
+s529,2,Harpeet Singh
+s530,1,Youssef Chahine
+s532,1,Saw Teong Hin
+s532,2,Nik Amir Mustapha
+s532,3,M.S. Prem Nath
+s535,1,Rano Karno
+s542,1,Pramod Pawar
+s543,1,Naresh Saigal
+s551,1,Leigh Janiak
+s552,1,Vinil Mathew
+s553,1,Neri Parenti
+s555,1,Ramsey Nouah
+s556,1,Bong Joon Ho
+s557,1,Kim Tae-hyung
+s558,1,Michael Spierig
+s558,2,Peter Spierig
+s559,1,Ernie Barbarash
+s560,1,Wolfgang Petersen
+s561,1,Matt Ogens
+s562,1,Jay Roach
+s563,1,Jay Roach
+s564,1,Jay Roach
+s565,1,Paul Thomas Anderson
+s567,1,McG
+s568,1,Frank Marshall
+s569,1,Nick Castle
+s570,1,Victor Vu
+s571,1,Chow Hin Yeung Roy
+s573,1,Joel Hopkins
+s574,1,John Stevenson
+s574,2,Mark Osborne
+s575,1,Jennifer Yuh Nelson
+s576,1,Greg Berlanti
+s577,1,Garth Davis
+s578,1,Malik Nejer
+s579,1,Rob Marshall
+s580,1,Martin Brest
+s581,1,Shuko Murase
+s582,1,Paul W.S. Anderson
+s583,1,Garry Marshall
+s584,1,Ivan Reitman
+s585,1,Joel Gallen
+s586,1,Claire McCarthy
+s587,1,Mary Lambert
+s588,1,Sidharta Tata
+s588,2,Aco Tenriyagelli
+s588,3,Dian Sastrowardoyo
+s588,4,Ifa Isfansyah
+s588,5,Jason Iskandar
+s590,1,Trevor Nunn
+s592,1,Gabriele Muccino
+s593,1,Jim Field Smith
+s594,1,Chris Koch
+s595,1,J.J. Abrams
+s596,1,Rob Minkoff
+s597,1,Lynn Shelton
+s598,1,Adam McKay
+s599,1,Anton Corbijn
+s600,1,Robin Bissell
+s601,1,David Fincher
+s602,1,John G. Avildsen
+s603,1,John G. Avildsen
+s604,1,John G. Avildsen
+s605,1,Alan Parker
+s606,1,Walter Hill
+s607,1,Stephen Frears
+s608,1,Bryan Bertino
+s609,1,Phil Alden Robinson
+s610,1,Florian Henckel von Donnersmarck
+s611,1,Len Wiseman
+s612,1,Måns Mårlind
+s612,2,Björn Stein
+s613,1,Patrick Tatopoulos
+s614,1,Robert O. Peters
+s615,1,Vincent Ward
+s616,1,Gregory Nava
+s617,1,Mary Harron
+s619,1,Matt Thompson
+s620,1,Jameel Buari
+s622,1,Shen Leping
+s623,1,Matt Aselton
+s624,1,Jose Javier Reyes
+s625,1,Jakub Piątek
+s627,1,John Dower
+s630,1,B. T Thomas
+s631,1,Andrew Dominik
+s633,1,Nibal Arakji
+s634,1,Sofie Šustková
+s635,1,Anissa Bonnefont
+s636,1,Bahij Hojeij
+s637,1,Jonathan Hensleigh
+s638,1,Srijit Mukherji
+s638,2,Vasan Bala
+s638,3,Abhishek Chaubey
+s644,1,Justin P. Lange
+s645,1,Kimmy Gatewood
+s646,1,Tània Balló
+s647,1,Manolo Caro
+s650,1,Anurin Nwunembom
+s651,1,Jayme Monjardim
+s652,1,Kingsley Ogoro
+s653,1,Kingsley Ogoro
+s655,1,Cristina Jacob
+s656,1,Cristina Jacob
+s657,1,Cristina Jacob
+s665,1,Fernando Moro
+s667,1,Ivan Andrew Payawal
+s671,1,Yoshiyuki Tomino
+s671,2,Yoshikazu Yasuhiko
+s672,1,Yoshiyuki Tomino
+s672,2,Yoshikazu Yasuhiko
+s673,1,Yoshiyuki Tomino
+s677,1,Rob Seidenglanz
+s682,1,Simon Frederick
+s684,1,Michihito Fujii
+s686,1,Paul Weitz
+s688,1,Karthik Subbaraj
+s689,1,Kayode Kasum
+s690,1,Yoshiyuki Tomino
+s690,2,Yoshikazu Yasuhiko
+s691,1,Keishi Otomo
+s693,1,Hsu Fu-chun
+s694,1,Lucky Kuswandi
+s695,1,Soudade Kaadan
+s696,1,Soudade Kaadan
+s699,1,Antoinette Jadaone
+s702,1,Marie Clements
+s703,1,David O. Russell
+s705,1,Achille Brice
+s706,1,Max Jabs
+s708,1,Sarawut Wichiensarn
+s709,1,Ricardo de Montreuil
+s712,1,Peter Chelsom
+s713,1,Michael Lockshin
+s717,1,Francine Parker
+s719,1,Daniel Schechter
+s722,1,Mike Gunther
+s723,1,David Zeiger
+s724,1,Michael Simon
+s725,1,Jerry Rothwell
+s727,1,Joe Berlinger
+s727,2,Bruce Sinofsky
+s728,1,Ian Cheney
+s728,2,Sharon Shattuck
+s729,1,Bradley Parker
+s736,1,Prabhakaran
+s737,1,Manjari Makijany
+s738,1,Jay Oliva
+s740,1,Chris Appelhans
+s741,1,Michael Tiddes
+s742,1,Lara Saba
+s743,1,Bao Nhan
+s743,2,Namcito
+s744,1,Mark Raso
+s746,1,Tariq Alkazim
+s747,1,Mark Raso
+s748,1,Kenneth Gyang
+s751,1,Yulene Olaizola
+s753,1,Mark Waters
+s755,1,Matthew Heineman
+s757,1,Robert Peters
+s758,1,Jonathan Clay
+s759,1,Ally Pankiw
+s760,1,George Ford
+s761,1,George Ford
+s763,1,Lee Kae-byeok
+s765,1,Jayan Moodley
+s766,1,Daniel Benmayor
+s767,1,Alex Díaz
+s769,1,Helena Bergström
+s770,1,Alejandro De Grazia
+s770,2,Juan Stadler
+s771,1,Myriam Fares
+s772,1,Chiaki Kon
+s774,1,Rae Red
+s775,1,Lance Hool
+s776,1,Nicole Conn
+s777,1,Les Mayfield
+s778,1,Ellen Seidler
+s778,2,Megan Siler
+s780,1,Roger Christian
+s782,1,Peter Galison
+s783,1,Lance Young
+s784,1,Leandro Neri
+s785,1,Thom Fitzgerald
+s787,1,Don Michael Paul
+s788,1,Andrzej Bartkowiak
+s789,1,Harold Becker
+s791,1,Andrew Jenks
+s792,1,Ric Roman Waugh
+s793,1,Rob Reiner
+s794,1,Andy Tennant
+s795,1,Tade Ogidan
+s797,1,Scott Spiegel
+s798,1,Jessie Nelson
+s799,1,Theodore Witcher
+s800,1,Clint Eastwood
+s801,1,Aurora Guerrero
+s802,1,Michael Jai White
+s803,1,James McTeigue
+s804,1,Takuya Igarashi
+s805,1,Michelle MacLaren
+s807,1,Hidenori Inoue
+s808,1,Hidenori Inoue
+s809,1,Don Michael Paul
+s810,1,Todd Phillips
+s811,1,Walter Hill
+s812,1,Steve Ball
+s813,1,Dominic Sena
+s815,1,Alan Alda
+s816,1,Mika Kaurismäki
+s817,1,Sydney Pollack
+s818,1,Lorene Scafaria
+s819,1,Barbra Streisand
+s820,1,Clint Eastwood
+s822,1,Michael Winterbottom
+s823,1,Emma Tammi
+s824,1,Peter Hutchings
+s825,1,George Ratliff
+s827,1,Bo Burnham
+s828,1,Ekene Som Mekwunye
+s829,1,David Frankel
+s830,1,Kevin Johnson
+s832,1,José Larraza
+s832,2,Marc Pons
+s833,1,Gary Sing
+s835,1,Julio Quintana
+s837,1,Paween Purijitpanya
+s839,1,Pablo Faro
+s840,1,Soudade Kaadan
+s841,1,Letizia Lamartire
+s842,1,Ray Jiang
+s845,1,Daniel Vernon
+s846,1,Steve Gukas
+s847,1,Tim Johnson
+s851,1,Vishwesh Krishnamoorthy
+s854,1,Zack Snyder
+s857,1,Uduak-Obong Patrick
+s859,1,Mohamed Diab
+s860,1,Amr Salama
+s861,1,Christopher Amos
+s862,1,Prakash Satam
+s864,1,Robert Rodriguez
+s865,1,Milan Luthria
+s866,1,David Ayer
+s867,1,Eshom Nelms
+s867,2,Ian Nelms
+s868,1,James Moll
+s871,1,James Redford
+s872,1,Kaashvie Nair
+s873,1,J.D. Dillard
+s874,1,Nikhil Pherwani
+s876,1,Mae Czarina Cruz
+s878,1,Praveen Kandregula
+s879,1,Cecilia Verheyden
+s880,1,Daniel Minahan
+s882,1,Donovan Marsh
+s883,1,Brent Dawes
+s886,1,Leli Maki
+s887,1,Uzodinma Okpechi
+s888,1,Daniel Prochaska
+s890,1,Joe Wright
+s892,1,Matthew Vaughn
+s893,1,Aditya Kripalani
+s894,1,Adriano Rudiman
+s895,1,David Pablos
+s896,1,Alexandre Aja
+s898,1,Cai Cong
+s899,1,Samuel Olatunji
+s900,1,Ramon Térmens
+s902,1,Svetlana Cvetko
+s904,1,Martin Prakkat
+s905,1,Baran bo Odar
+s906,1,Zhang Chong
+s907,1,Yılmaz Erdoğan
+s908,1,Shantrelle P. Lewis
+s910,1,Ivan Ayr
+s911,1,Anthony Mandler
+s912,1,Vijay Roche
+s914,1,Stanley Menino D'Costa
+s915,1,Jennifer Brea
+s916,1,Julia von Heinz
+s917,1,Niels Arden Oplev
+s918,1,Don Argott
+s918,2,Sheena M. Joyce
+s920,1,Joshua Zeman
+s923,1,Duncan Skiles
+s925,1,Sean McNamara
+s927,1,Vondie Curtis-Hall
+s929,1,Robert Radler
+s930,1,Roel Reiné
+s931,1,Todd Phillips
+s932,1,Dean Parisot
+s933,1,Paul Greengrass
+s934,1,Lasse Hallström
+s935,1,Justin Kelly
+s936,1,Eric Darnell
+s936,2,Tom McGrath
+s936,3,Conrad Vernon
+s938,1,Suhas Kadav
+s939,1,Suhas Kadav
+s940,1,Suhas Kadav
+s941,1,Suhas Kadav
+s942,1,Suhas Kadav
+s943,1,Clint Eastwood
+s944,1,Jeff Wadlow
+s945,1,Charles Martin
+s946,1,Stella Corradi
+s947,1,Roland Emmerich
+s948,1,Kevin Macdonald
+s949,1,Ann Deborah Fishman
+s950,1,Chris Gorak
+s951,1,Peter Jackson
+s952,1,Roger Kumble
+s953,1,Jonathan Lynn
+s954,1,Courtney Hunt
+s955,1,Pierre Greco
+s955,2,Nancy Florence Savard
+s956,1,Andrew Davis
+s957,1,Kevin Smith
+s959,1,Tosin Igho
+s960,1,Chaitanya Tamhane
+s961,1,Oriol Paulo
+s962,1,Mike Rianda
+s962,2,Jeff Rowe
+s963,1,Johannes Roberts
+s965,1,Robert Pulcini
+s965,2,Shari Springer Berman
+s967,1,Pedro Antonio
+s970,1,John Wells
+s971,1,Jonathan Liebesman
+s972,1,Maria Pulera
+s974,1,Santhosh Viswanath
+s975,1,Seema Pahwa
+s977,1,Ozan Açıktan
+s978,1,Meltem Bozoflu
+s979,1,Hakan Algül
+s980,1,Selçuk Aydemir
+s980,2,Birkan Pusa
+s981,1,Selçuk Aydemir
+s982,1,Ömer Faruk Sorak
+s983,1,Şenol Sönmez
+s984,1,Alexis Morante
+s985,1,Burak Aksak
+s986,1,Kıvanç Baruönü
+s987,1,Kıvanç Baruönü
+s988,1,Rindala Kodeih
+s989,1,Kongkiat Khomsiri
+s990,1,Bedran Güzel
+s991,1,Hakan Algül
+s992,1,Marwan Nabil
+s993,1,MIKIKO
+s993,2,Daito Manabe
+s995,1,Kayode Kasum
+s996,1,Yılmaz Erdoğan
+s996,2,Ömer Faruk Sorak
+s997,1,Takashi Shimizu
+s1000,1,Joe Penna
+s1001,1,Ahishor Solomon
+s1002,1,Curtis Graham
+s1003,1,Gerardo Gatica
+s1007,1,Suhas Kadav
+s1008,1,Suhas Kadav
+s1009,1,Suhas Kadav
+s1010,1,Akshay Sanjeev Chavan
+s1010,2,Sumit Das
+s1014,1,John Madden
+s1016,1,Edward James Olmos
+s1017,1,Abhinay Deo
+s1018,1,Kiran Rao
+s1019,1,Abbas Tyrewala
+s1020,1,Ashutosh Gowariker
+s1021,1,Satyajit Bhatkal
+s1022,1,Anusha Rizvi
+s1022,2,Mahmood Farooqui
+s1023,1,Aamir Khan
+s1024,1,Shashank Khaitan
+s1024,2,Raj Mehta
+s1024,3,Neeraj Ghaywan
+s1024,4,Kayoze Irani
+s1025,1,Ryan Crego
+s1027,1,Cassi Simonds
+s1028,1,Guillermo del Toro
+s1030,1,Tony Abulu
+s1031,1,Mae Czarina Cruz
+s1032,1,Stefan Westerwelle
+s1034,1,Ron Howard
+s1035,1,Justin Benson
+s1035,2,Aaron Moorhead
+s1036,1,Niki Caro
+s1037,1,Mark Dennis
+s1037,2,Ben Foster
+s1038,1,Taranveer Singh
+s1040,1,TT The Artist
+s1042,1,Keiichi Sato
+s1042,2,Yasushi Kawamura
+s1043,1,Glenn Weiss
+s1047,1,Michael Civille
+s1051,1,Ryuichi Hiroki
+s1053,1,Paul Thomas Anderson
+s1054,1,One9
+s1055,1,Adriano Rudiman
+s1056,1,Luis Valdez
+s1067,1,Cheng Wei-hao
+s1068,1,Pass Patthanakumjon
+s1070,1,Buchi Babu Sana
+s1071,1,Fredrick Munk
+s1072,1,Suhas Kadav
+s1073,1,Suhas Kadav
+s1074,1,Suhas Kadav
+s1075,1,Suhas Kadav
+s1076,1,Moyoung Jin
+s1076,2,Caroline Sá
+s1076,3,Deepti Kakkar
+s1076,4,Fahad Mustafa
+s1076,5,Hikaru Toda
+s1076,6,Chico Pereira
+s1076,7,Elaine McMillion Sheldon
+s1077,1,Suhas Kadav
+s1078,1,Suhas Kadav
+s1079,1,Suhas Kadav
+s1081,1,Zhao Ji
+s1084,1,Jamie Babbit
+s1086,1,Park Hoon-jung
+s1087,1,Dare Olaitan
+s1088,1,Hardik Mehta
+s1089,1,Ben Falcone
+s1090,1,Travon Free
+s1090,2,Martin Desmond Roe
+s1091,1,Angga Dwimas Sasongko
+s1097,1,Steve Rolston
+s1098,1,Shalini Kantayya
+s1099,1,Madonne Ashwin
+s1100,1,Enah Johnscott
+s1101,1,Braden R. Duemmler
+s1102,1,Cal Brunker
+s1103,1,Steve Pink
+s1104,1,Xiao Feng
+s1105,1,Vince Marcello
+s1106,1,Ricky Staub
+s1107,1,Patrick Durham
+s1107,2,Paul G. Volk
+s1108,1,BB Sasore
+s1109,1,Naseef Yusuf Izuddin
+s1110,1,Appie Boudellah
+s1110,2,Aram van de Rest
+s1111,1,Sylvie Verheyde
+s1112,1,Nick Moore
+s1113,1,Alex Zamm
+s1114,1,Roland Emmerich
+s1115,1,Rajkumar Hirani
+s1116,1,Rajesh Mapuskar
+s1118,1,Lina Al Abed
+s1119,1,James Wan
+s1120,1,David Hackl
+s1121,1,Takeshi Nozue
+s1122,1,Robert Luketic
+s1123,1,Subhash Kapoor
+s1125,1,Ringo Lam
+s1127,1,George Cukor
+s1129,1,Tony Giglio
+s1131,1,Hidenori Inoue
+s1132,1,Hidenori Inoue
+s1133,1,Hidenori Inoue
+s1134,1,Don Michael Paul
+s1135,1,Shinji Aramaki
+s1135,2,Masaru Matsumoto
+s1136,1,John Luessenhop
+s1137,1,Hanung Bramantyo
+s1137,2,Pandu Adjisurya
+s1138,1,Bashir El Deek
+s1139,1,Roman Polański
+s1140,1,Nelson McCormick
+s1141,1,Mic Rodgers
+s1142,1,Bejoy Nambiar
+s1143,1,Shawn Rech
+s1145,1,Peyton Reed
+s1146,1,Julian Schnabel
+s1147,1,Adrián García Bogliano
+s1148,1,Jose Gomez
+s1151,1,Jonathon Link
+s1152,1,Blair Simmons
+s1154,1,Justin Chadwick
+s1155,1,John Hillcoat
+s1156,1,Nadine Ibrahim
+s1157,1,Roman White
+s1160,1,Fermín Muguruza
+s1161,1,Mike Hodges
+s1163,1,Eylem Kaftan
+s1165,1,Fernando Ayllón
+s1166,1,Umesh Bist
+s1168,1,Massimiliano Camaiti
+s1171,1,Aleksey Tsitsilin
+s1172,1,Ali Tabrizi
+s1173,1,Kagiso Lediga
+s1174,1,Jung-ah Im
+s1176,1,Stephen Frears
+s1177,1,Takuma Sato
+s1178,1,Brody Chu
+s1179,1,Dimitri Logothetis
+s1184,1,Taketoshi Sado
+s1185,1,Li Weiran
+s1186,1,Chinaza Onuzo
+s1188,1,Anna Elizabeth James
+s1189,1,Vitor Brandt
+s1190,1,Troy Miller
+s1191,1,Liam O'Donnell
+s1192,1,Manny Rodriguez
+s1192,2,Jay Lavender
+s1193,1,Farah Nabulsi
+s1194,1,Adriano Rudiman
+s1195,1,Walter Taylaur
+s1196,1,Chris Smith
+s1197,1,Alain Brunard
+s1198,1,Tate Taylor
+s1199,1,Ladislaus Kiraly
+s1200,1,Oliver Stone
+s1203,1,Hemambar Jasti
+s1204,1,Steven Spielberg
+s1205,1,Taylor Morden
+s1208,1,Helena Coan
+s1209,1,Muharrem Gülmez
+s1210,1,Dolapo Adeleke
+s1212,1,Mahsun Kırmızıgül
+s1213,1,Can Ulkay
+s1215,1,Luis Alejandro Pérez
+s1216,1,Ketche
+s1217,1,Erol Özlevi
+s1219,1,Miguel Arteta
+s1220,1,Tolga Örnek
+s1221,1,Pablo Agüero
+s1222,1,Mohammad Irfan Ramly
+s1223,1,Kevin McManus
+s1223,2,Matthew McManus
+s1224,1,Ange Basterga
+s1224,2,Nicolas Lopez
+s1229,1,Gitanjali Rao
+s1231,1,Halitha Shameem
+s1233,1,Carlos Moreno
+s1234,1,Kayode Kasum
+s1235,1,Maribel Sánchez-Maroto
+s1237,1,Julien Leclercq
+s1238,1,Fajar Bustomi
+s1240,1,Taylor Hackford
+s1241,1,Lasse Hallström
+s1242,1,Amy Poehler
+s1243,1,Jared Hess
+s1243,2,Tyler Measom
+s1244,1,Mike Binder
+s1245,1,Abir Sengupta
+s1247,1,Sunny Lau
+s1248,1,Hidenori Inoue
+s1249,1,Emmett Malloy
+s1250,1,Xavier Maingon
+s1250,2,Marc-Antoine Hélard
+s1251,1,Milton Kremer
+s1252,1,Kevin Costner
+s1253,1,Marco Petry
+s1254,1,Andrew Duncan
+s1254,2,Ken Cunningham
+s1255,1,Barry Levinson
+s1256,1,Hidenori Inoue
+s1257,1,Liam Lynch
+s1259,1,Jérémie Degruson
+s1259,2,Ben Stassen
+s1260,1,Matt Ross
+s1261,1,Dani de la Orden
+s1262,1,Pablo Larraín
+s1264,1,John Erick Dowdle
+s1265,1,Jesse Peretz
+s1266,1,Ribhu Dasgupta
+s1267,1,Pablo Larraín
+s1268,1,Baran bo Odar
+s1270,1,Rizki Balki
+s1274,1,Shunsuke Kariyama
+s1277,1,Jeferson De
+s1279,1,Troy Miller
+s1280,1,Barry Avrich
+s1281,1,David Tryhorn
+s1281,2,Ben Nicholas
+s1282,1,Tirumala Kishore
+s1284,1,James Wan
+s1285,1,James Wan
+s1287,1,Huang Hsin-Yao
+s1289,1,Chris Weitz
+s1290,1,Saron Sakina
+s1291,1,J Blakeson
+s1292,1,Khalid Rahman
+s1293,1,Luis Ara
+s1294,1,Tharun Bhascker Dhaassyam
+s1294,2,B. V. Nandini Reddy
+s1294,3,Nag Ashwin
+s1294,4,Sankalp Reddy
+s1296,1,Prateek Vats
+s1298,1,Alex Merkin
+s1304,1,Ian Cheney
+s1305,1,Ben Simms
+s1306,1,Vikram Bhatt
+s1308,1,Dallas Jenkins
+s1310,1,Damián Romay
+s1312,1,Hamisha Daryani Ahuja
+s1313,1,Hong Khaou
+s1316,1,Mario Briongos
+s1317,1,Vinay Bharadwaj
+s1319,1,Michael Fimognari
+s1320,1,Eric D. Cabello Díaz
+s1323,1,Clara Martínez-Lázaro
+s1324,1,Monty Tiwa
+s1325,1,Ava DuVernay
+s1326,1,Alain Darborg
+s1327,1,Filip Zylber
+s1328,1,Ava DuVernay
+s1329,1,Joe Berlinger
+s1330,1,Julien Royal
+s1331,1,Brian Baugh
+s1334,1,Todd Phillips
+s1335,1,Henri Wong
+s1337,1,Maïa Sandoz
+s1338,1,Mostofa Sarwar Farooki
+s1341,1,Joseph Hsu
+s1342,1,Sam Levinson
+s1343,1,Jo Sung-hee
+s1344,1,Michèle Ohayon
+s1345,1,Rocco Ricciardulli
+s1346,1,Guo Jingming
+s1347,1,Jan Belcl
+s1348,1,Esteban Crespo
+s1352,1,Noé González
+s1354,1,Dennis Dugan
+s1358,1,Sarah Gavron
+s1359,1,Martin Scorsese
+s1360,1,Roger Donaldson
+s1361,1,Richard Arellano
+s1365,1,Jon Favreau
+s1367,1,Marco Pontecorvo
+s1368,1,Gregory Plotkin
+s1369,1,Lluís Quílez
+s1370,1,Jude Weng
+s1371,1,Simon Stone
+s1373,1,Noviandra Santosa
+s1375,1,Jeremy Grant
+s1377,1,Jeo Baby
+s1379,1,Glendyn Ivin
+s1380,1,Okey Oku
+s1382,1,Ifeanyi Ikpoenyi
+s1383,1,Chris Eneng Enaji
+s1387,1,Ángeles Reiné
+s1388,1,Paul Haggis
+s1389,1,Ramin Bahrani
+s1390,1,Nicol Paone
+s1391,1,Nick Rowland
+s1392,1,RZA
+s1394,1,Cooper Karl
+s1397,1,Gary Fleder
+s1398,1,J.A. Bayona
+s1399,1,Darren Lynn Bousman
+s1400,1,Lydia Dean Pilcher
+s1400,2,Ginny Mohler
+s1404,1,Cris D'Amato
+s1406,1,Mikael Håfström
+s1407,1,Eric Darnell
+s1407,2,Simon J. Smith
+s1408,1,Byeon Hee-sun
+s1410,1,Peter Facinelli
+s1411,1,Renuka Shahane
+s1412,1,Ross Kauffman
+s1413,1,Sung Do-jun
+s1414,1,Hanung Bramantyo
+s1415,1,Charles Gozali
+s1415,2,Bagus Bramanti
+s1416,1,James Toback
+s1417,1,Tiller Russell
+s1418,1,Francisco D'Eufemia
+s1419,1,Chris Rock
+s1420,1,Juliet May
+s1421,1,Stanley Nelson
+s1422,1,Olivier Nakache
+s1422,2,Éric Toledano
+s1423,1,Prakash Jha
+s1424,1,Rohan Sippy
+s1425,1,Ross Venokur
+s1427,1,Prakash Jha
+s1429,1,Rohena Gera
+s1433,1,Maite Ruiz De Austri
+s1434,1,Jastis Arimba
+s1435,1,Eric Summer
+s1435,2,Éric Warin
+s1436,1,Kornél Mundruczó
+s1437,1,Alejandro Ruax
+s1437,2,Ramiro Martínez
+s1439,1,Florent Bodin
+s1442,1,Sohail Khan
+s1445,1,Gabriele Muccino
+s1446,1,Hallvard Bræin
+s1447,1,Jeff Tremaine
+s1448,1,Christian Alvart
+s1451,1,Robert Townsend
+s1452,1,Jeff Deverett
+s1453,1,Ron Krauss
+s1454,1,Brian Robbins
+s1455,1,Jeff Stilson
+s1457,1,Sean Penn
+s1459,1,Mark McQueen
+s1460,1,Melanie Mayron
+s1462,1,Donald Petrie
+s1464,1,Tony Collingwood
+s1465,1,Jennifer Beamish
+s1465,2,Toby Trackman
+s1468,1,Jaume Collet-Serra
+s1469,1,Kim Dong-kyu
+s1470,1,Lasse Hallström
+s1471,1,Shaz Bennett
+s1473,1,Samar Shaikh
+s1475,1,Archie Hekagery
+s1476,1,Sabrina Rochelle Kalangie
+s1480,1,Cosima Spender
+s1482,1,Liao Shih-han
+s1485,1,Arnon Manor
+s1485,2,Timothy Ware-Hill
+s1486,1,Gore Verbinski
+s1487,1,Al Campbell
+s1487,2,Alice Mathias
+s1489,1,Maïwenn
+s1491,1,Richard Weston
+s1492,1,Vikramaditya Motwane
+s1494,1,Prime Cruz
+s1495,1,Robert Rodriguez
+s1496,1,Andibachtiar Yusuf
+s1497,1,Yandy Laurens
+s1498,1,Cathy Garcia-Molina
+s1499,1,John Mitchell
+s1499,2,Jeremy Kipp Walker
+s1500,1,George Clooney
+s1501,1,Liu Kuang-hui
+s1502,1,Roger Kumble
+s1503,1,Kristian Mercado
+s1505,1,Daan Jansen
+s1505,2,Stijn Verlinde
+s1508,1,Jay Grace
+s1510,1,Paul Dugdale
+s1511,1,James Haslam
+s1512,1,Muhammad Ali
+s1513,1,Thomas Toby Parkinson
+s1514,1,John Putch
+s1516,1,Sam Macaroni
+s1518,1,George C. Wolfe
+s1520,1,Yasmin Ahmad
+s1521,1,Sudha Kongara
+s1521,2,Vignesh Shivan
+s1521,3,Gautham Vasudev Menon
+s1521,4,Vetri Maaran
+s1522,1,Yasmin Ahmad
+s1523,1,Yasmin Ahmad
+s1524,1,Juan Camilo Pinzon
+s1525,1,Lin Oeding
+s1526,1,Naya Anindita
+s1527,1,Antoinette Jadaone
+s1530,1,JP Habac
+s1531,1,Alexx Media
+s1532,1,Farishad I. Latjuba
+s1533,1,Andrucha Waddington
+s1533,2,Pedro Waddington
+s1534,1,Picky Talarico
+s1535,1,Jun Lana
+s1537,1,Brad Peyton
+s1538,1,Lee Daniels
+s1541,1,Tom Ford
+s1542,1,Ellena Wood
+s1542,2,Jesse Vile
+s1543,1,Vir Das
+s1545,1,Miranda de Pencier
+s1550,1,Farhad Safinia
+s1551,1,Shaun Paul Piccinino
+s1557,1,Eddie Rosas
+s1558,1,Frank E. Abney III
+s1559,1,James D. Stern
+s1559,2,Fernando Villena
+s1561,1,Ryan Murphy
+s1562,1,Girish Malik
+s1564,1,Deepa Mehta
+s1565,1,Lai Chun-yu
+s1566,1,Theodore Boborol
+s1567,1,Mae Czarina Cruz
+s1568,1,Jun Lana
+s1569,1,Jun Lana
+s1572,1,Sydney Sibilia
+s1576,1,Josiah Ng
+s1577,1,Kirk Wise
+s1581,1,Beth Sleven
+s1581,2,Allan Jacobsen
+s1581,3,Kevin Wotton
+s1582,1,Steve Ball
+s1583,1,John Hillcoat
+s1585,1,Tate Taylor
+s1587,1,Jalil Lespert
+s1588,1,Su I-Hsuan
+s1588,2,Chuang Shiang-an
+s1588,3,Liu Yi
+s1589,1,Clint Butler
+s1592,1,Erik Kling
+s1592,2,Kevin Peaty
+s1593,1,Detlev Buck
+s1596,1,David Fincher
+s1598,1,Amanda Raymond
+s1599,1,Jason Paul Laxamana
+s1600,1,Marc Fouchard
+s1601,1,Darragh O'Connell
+s1602,1,Roberto Santucci
+s1603,1,Dado C. Lumibao
+s1605,1,August Jakobsson
+s1607,1,Anna Wieczur-Bluszcz
+s1609,1,McG
+s1610,1,Damien O’Connor
+s1611,1,Ron Howard
+s1613,1,Jon Favreau
+s1614,1,Richard Laxton
+s1617,1,Gil Kenan
+s1618,1,Phil Burgers
+s1621,1,Pierre Morel
+s1622,1,Simon Wincer
+s1625,1,Ron Howard
+s1627,1,Brian Henson
+s1630,1,Derick Cabrido
+s1631,1,Marla M. Ancheta
+s1632,1,Jen McGowan
+s1633,1,Bernie Denk
+s1634,1,Brian Skiba
+s1636,1,Stanley Moore
+s1636,2,Alex Woo
+s1637,1,Oliver Bokelberg
+s1638,1,Ángel Gómez Hernández
+s1643,1,Ludovico Di Martino
+s1644,1,Lee Chung-hyun
+s1645,1,Barry Gonzalez
+s1646,1,Brian Volk-Weiss
+s1647,1,Matthew Michael Carnahan
+s1648,1,Cathy Garcia-Molina
+s1649,1,Eric Bress
+s1651,1,Paul Dugdale
+s1652,1,Chris Columbus
+s1653,1,V Vignarajan
+s1654,1,V Vignarajan
+s1655,1,BB Sasore
+s1656,1,Greg Rankin
+s1656,2,TJ Sullivan
+s1657,1,Ron Howard
+s1658,1,Carlos Sorín
+s1660,1,Matt Eskandari
+s1661,1,Grant Singer
+s1663,1,Mohammad Adel
+s1664,1,Debbie Allen
+s1665,1,Robert Rodriguez
+s1666,1,Victor Gatonye
+s1667,1,Stephen Chiodo
+s1670,1,Will McCormack
+s1670,2,Michael Govier
+s1672,1,Monica Floyd
+s1674,1,Anurag Kashyap
+s1675,1,Siddique
+s1676,1,Danish Aslam
+s1677,1,Vibhu Virender Puri
+s1678,1,Cathy Garcia-Molina
+s1679,1,Anurag Kashyap
+s1680,1,Rohit Shetty
+s1681,1,Ribhu Dasgupta
+s1682,1,Mike Rohl
+s1683,1,Cathy Garcia-Molina
+s1684,1,Shyam Benegal
+s1686,1,Takeshi Fukunaga
+s1687,1,Leslie Small
+s1690,1,Jeff Nichols
+s1691,1,Sabaah Folayan
+s1691,2,Damon Davis
+s1692,1,Justin G. Dyck
+s1695,1,Cody Cameron
+s1695,2,Kris Pearn
+s1696,1,Justin G. Dyck
+s1700,1,Michael Curtiz
+s1701,1,Damián Romay
+s1703,1,Avinash Walzade
+s1704,1,David E. Talbert
+s1705,1,Renata Terra
+s1706,1,Edoardo Ponti
+s1707,1,Mateo Gil
+s1708,1,Cathy Garcia-Molina
+s1710,1,Paul Soriano
+s1711,1,Ryan Coogler
+s1713,1,Anurag Basu
+s1714,1,Lucas Santa Ana
+s1715,1,Nelson McCormick
+s1716,1,Carla Barros
+s1721,1,Ulrike Kofler
+s1722,1,Steven Bognar
+s1722,2,Julia Reichert
+s1726,1,Kunle Afolayan
+s1728,1,Weica Wang
+s1729,1,Aitor Arregi
+s1729,2,Jon Garaño
+s1729,3,Jose Mari Goenaga
+s1730,1,Kevin Pollak
+s1732,1,Otoja Abit
+s1733,1,Antoinette Jadaone
+s1734,1,Alejandro Hartmann
+s1735,1,Maxwell McGuire
+s1736,1,Ruel S. Bayani
+s1737,1,Martin Wood
+s1740,1,Justin G. Dyck
+s1742,1,Narendra Nath
+s1743,1,Jan-Peter Horns
+s1744,1,Tatsushi Omori
+s1745,1,Estela Renner
+s1748,1,Zeek Earl
+s1748,2,Christopher Caldwell
+s1750,1,Michael Kampa
+s1752,1,Chanda Bell
+s1753,1,Chanda Bell
+s1754,1,Jennifer Westcott
+s1762,1,Richard Greenberg
+s1763,1,Peter Berg
+s1764,1,Nicolas Pesce
+s1765,1,Oliver Stone
+s1768,1,J.A. Bayona
+s1769,1,Christopher Cain
+s1771,1,Shaun Paul Piccinino
+s1772,1,Juliana Vicente
+s1773,1,Harald Zwart
+s1775,1,Stacia Crawford
+s1776,1,Remi Weekes
+s1777,1,Tope Oshin
+s1778,1,Terrie Samundra
+s1781,1,Olivier Marchal
+s1784,1,Santiago Alvarado Ilarri
+s1785,1,Frasco Mortiz
+s1786,1,John Whitesell
+s1787,1,Antonio Díaz
+s1788,1,Nimród Antal
+s1789,1,Bartosz M. Kowalski
+s1790,1,James Tovell
+s1793,1,Matías Gueilburt
+s1794,1,Natasha Lyonne
+s1795,1,Chang Chin-jung
+s1795,2,Chen Rong-hui
+s1796,1,Rajkumar Santoshi
+s1797,1,Lance Daly
+s1798,1,Unjoo Moon
+s1799,1,Gil Baroni
+s1801,1,Thierry Demaizière
+s1801,2,Alban Teurlai
+s1802,1,Glen Keane
+s1803,1,Chris Sivertson
+s1806,1,Kief Davidson
+s1806,2,Pedro Kos
+s1807,1,Jarand Herdal
+s1808,1,Dan Villegas
+s1809,1,Chris Foggin
+s1810,1,Cathy Garcia-Molina
+s1811,1,Kim Nguyen
+s1812,1,Karen Maine
+s1813,1,Tim Neeves
+s1815,1,Ben Wheatley
+s1816,1,Richard Weston
+s1817,1,Don Michael Paul
+s1818,1,Maroun Baghdadi
+s1819,1,Philippe Aractingi
+s1820,1,Amin Dora
+s1821,1,Philippe Aractingi
+s1822,1,Philippe Aractingi
+s1823,1,Maroun Baghdadi
+s1824,1,Rana Eid
+s1825,1,Daniel Joseph
+s1826,1,Randa Chahal Sabbag
+s1827,1,Maroun Baghdadi
+s1828,1,Philippe Aractingi
+s1830,1,Ziad Doueiri
+s1831,1,Shady Hanna
+s1832,1,Maroun Baghdadi
+s1833,1,Josef Fares
+s1834,1,Sam Fell
+s1834,2,Chris Butler
+s1836,1,Ross Boyask
+s1837,1,David 'Tosh' Gitonga
+s1837,2,Michael Jones
+s1839,1,Ti West
+s1841,1,Manolo Caro
+s1843,1,Aaron Sorkin
+s1844,1,Levan Gabriadze
+s1845,1,Rachel Talalay
+s1846,1,Sam Liu
+s1847,1,Peter Mimi
+s1850,1,Hanung Bramantyo
+s1851,1,Lasja Fauzia Susatyo
+s1854,1,Pavitra Chalam
+s1854,2,Akshay Shankar
+s1856,1,Kevin Ko
+s1856,2,Peter Tsi
+s1857,1,Caroline Suh
+s1858,1,Carlos Pérez Osorio
+s1859,1,Ken Ghosh
+s1860,1,Blair Simmons
+s1862,1,Indra Kumar
+s1863,1,B. Subhash
+s1864,1,Harshavardhan Kulkarni
+s1866,1,Neeraj Vora
+s1867,1,Rajkumar Santoshi
+s1868,1,Alex Merkin
+s1870,1,Puneet Khanna
+s1871,1,Meltem Bozoflu
+s1873,1,Radha Blank
+s1875,1,Bigflo & Oli
+s1875,2,Jérémie Levypon
+s1877,1,Eduardo Pinto
+s1880,1,Steve Brill
+s1881,1,Pavel Kostomarov
+s1882,1,Mike Elliott
+s1883,1,Francis Whately
+s1884,1,Jon Izen
+s1885,1,Christopher Nolen
+s1887,1,Alastair Fothergill
+s1887,2,Jonnie Hughes
+s1887,3,Keith Scholey
+s1888,1,Amy Segal
+s1889,1,Umut Aral
+s1892,1,Umut Kirca
+s1893,1,Alex Woo
+s1893,2,Stanley Moore
+s1897,1,Kenneth Gyang
+s1898,1,Sudhir Mishra
+s1899,1,Domenico de Feudis
+s1900,1,Burak Aksak
+s1901,1,Oz Rodriguez
+s1902,1,Salvador Espinosa
+s1903,1,Adrian Teh
+s1904,1,Brad Silberling
+s1905,1,Elsa Flores Almaraz
+s1905,2,Richard J Montoya
+s1906,1,Carey McKenzie
+s1910,1,Gary Ross
+s1912,1,Adam Bolt
+s1913,1,Taika Waititi
+s1914,1,Lindsey Cordero
+s1914,2,Armando Croda
+s1917,1,David LaChapelle
+s1920,1,Mostafa Abu Seif
+s1921,1,Faris Godus
+s1922,1,Rod Lurie
+s1925,1,Stacie Passon
+s1927,1,Jenny Popplewell
+s1928,1,Florian Schott
+s1931,1,Tom Whitworth
+s1932,1,Joe Mantello
+s1935,1,Lee Hirsch
+s1936,1,Page Hurwitz
+s1937,1,Dallas Jackson
+s1938,1,Lee Hirsch
+s1939,1,Rajat Kapoor
+s1940,1,Abhishek Chaubey
+s1941,1,Rohit Shetty
+s1942,1,Ken Ghosh
+s1943,1,Abhishek Chaubey
+s1944,1,Imtiaz Ali
+s1945,1,Indra Kumar
+s1946,1,Navdeep Singh
+s1947,1,Anees Bazmee
+s1951,1,Rikhil Bahadur
+s1954,1,Ozan Açıktan
+s1958,1,Shawn Levy
+s1960,1,Harry Bradbeer
+s1961,1,Joshua Tickell
+s1961,2,Rebecca Harrell Tickell
+s1963,1,Sophia Nahli Allison
+s1964,1,Norihisa Hiranuma
+s1965,1,Shigeaki Kubo
+s1966,1,Shigeaki Kubo
+s1966,2,Tsuyoshi Nakakuki
+s1967,1,Shigeaki Kubo
+s1967,2,Tsuyoshi Nakakuki
+s1968,1,Yudai Yamaguchi
+s1969,1,Shigeaki Kubo
+s1970,1,Shigeaki Kubo
+s1971,1,Marwan Hamed
+s1972,1,Smeep Kang
+s1973,1,Raja Chanda
+s1975,1,Tigmanshu Dhulia
+s1976,1,Akashdeep
+s1977,1,Rajesh Ganguly
+s1978,1,Alankrita Shrivastava
+s1982,1,Chandra Liow
+s1983,1,Sekhar Kammula
+s1985,1,Florent Bodin
+s1986,1,Gary Andrews
+s1987,1,Sekhar Kammula
+s1988,1,Merawi Gerima
+s1993,1,Kubhaer T. Jethwani
+s1996,1,Antonio Campos
+s1997,1,Carles Torras
+s1998,1,James Watkins
+s1999,1,Philippa Lowthorpe
+s2000,1,Pailin Wedel
+s2001,1,Chris Howe
+s2002,1,Peter Sollett
+s2004,1,Raja Gosnell
+s2005,1,Steve Bencich
+s2006,1,Tosin Coker
+s2008,1,Javier Colinas
+s2011,1,Dean DeBlois
+s2012,1,Reinhard Klooss
+s2015,1,Shaun Mir
+s2016,1,Satish Rajwade
+s2017,1,Abhijeet Deshpande
+s2018,1,Mahesh Manjrekar
+s2019,1,Mahesh Manjrekar
+s2020,1,Prakash Kunte
+s2021,1,Manish Saini
+s2023,1,Kenny Ortega
+s2024,1,Makarand Mane
+s2025,1,Hakan Algül
+s2026,1,Vijay Maurya
+s2027,1,Sameer Patil
+s2028,1,Kenzo Maihara
+s2028,2,Amandha Wyanto
+s2029,1,Ahmed Nader Galal
+s2030,1,McG
+s2031,1,Arati Kadav
+s2032,1,Maïmouna Doucouré
+s2034,1,Pepe Mora
+s2035,1,Marcos Carnevale
+s2036,1,Jeff Orlowski
+s2037,1,Cho Il
+s2039,1,Pippa Ehrlich
+s2039,2,James Reed
+s2040,1,Tolga Karaçelik
+s2042,1,Davis Guggenheim
+s2044,1,Philip Barantini
+s2046,1,Charlie Kaufman
+s2047,1,Jayan Moodley
+s2049,1,Abba T. Makama
+s2050,1,Antoinette Jadaone
+s2051,1,Junior Carelli
+s2051,2,Rudge Campos
+s2052,1,Ertanto Robby Soediskam
+s2053,1,Mark Steven Johnson
+s2056,1,Felix Binder
+s2057,1,Thor Freudenthal
+s2058,1,Nguyen Thanh Tung
+s2060,1,Baltasar Kormákur
+s2061,1,Dan Villegas
+s2062,1,Conrad Helten
+s2066,1,Ayumu Watanabe
+s2068,1,Hitoshi Namba
+s2072,1,Chris Miller
+s2073,1,Sean Anders
+s2075,1,Abbas Mustan
+s2076,1,Duncan McMath
+s2077,1,Dan Forgione
+s2077,2,Pete Jacobs
+s2077,3,Matt Whitlock
+s2078,1,Francesco Carnesecchi
+s2080,1,Raja Gosnell
+s2081,1,Greg Tiernan
+s2082,1,Mark Thornton
+s2082,2,Todd Kauffman
+s2083,1,Shamzu Zayba
+s2084,1,Jesse V. Johnson
+s2085,1,Brett Haley
+s2088,1,Chris Roland
+s2088,2,Maradona Dias Dos Santos
+s2089,1,David Galán Galindo
+s2091,1,David Moreton
+s2092,1,Lester Hsi
+s2093,1,Cyrus Nowrasteh
+s2095,1,Isabel Sandoval
+s2096,1,Nathan Wiley
+s2101,1,Wayne Blair
+s2104,1,Atul Sabharwal
+s2105,1,Bernardo Arellano
+s2108,1,Trish Sie
+s2109,1,Hong Won-ki
+s2111,1,Khaled Marei
+s2112,1,Sebastián Schindel
+s2115,1,Prakash Satam
+s2116,1,Fred Wolf
+s2117,1,Niyi Akinmolayan
+s2118,1,Sammaria Sari Simanjuntak
+s2120,1,Chairun Nissa
+s2121,1,Tom Hooper
+s2122,1,Sergei Bodrov
+s2127,1,Ashutosh Gowariker
+s2129,1,Anna Stone
+s2130,1,Cory Edwards
+s2131,1,Faraday Okoro
+s2132,1,Blair Simmons
+s2133,1,Henry Joost
+s2133,2,Ariel Schulman
+s2138,1,Rebecca Zlotowski
+s2139,1,Antonio Campos
+s2140,1,Antonio Campos
+s2142,1,Sharan Sharma
+s2143,1,Rob Minkoff
+s2144,1,Tyler Spindel
+s2147,1,Vicky Wight
+s2148,1,Kunle Afolayan
+s2150,1,Marc Meyers
+s2151,1,Franziska Meyer Price
+s2155,1,Steven Rinella
+s2156,1,Richard Weston
+s2160,1,Laura Terruso
+s2162,1,Martín Sastre
+s2164,1,Franck Nataf
+s2165,1,Pascal Amanfo
+s2167,1,Stanley Moore
+s2167,2,Alex Woo
+s2168,1,Savage Steve Holland
+s2170,1,Kristian Mercado
+s2172,1,Mike Doyle
+s2173,1,Darren Grant
+s2177,1,Mike Gunther
+s2178,1,Steve Ball
+s2180,1,Joseph Ruben
+s2183,1,Mfanelo Ngoma
+s2184,1,Colin Minihan
+s2186,1,Regina Welker
+s2186,2,Nina Wels
+s2187,1,Honey Trehan
+s2188,1,Katleho Ramaphakela
+s2188,2,Rethabile Ramaphakela
+s2189,1,Ariel Boles
+s2192,1,Álvaro Delgado-Aparicio L.
+s2194,1,Venkatesh Maha
+s2195,1,Nopparoj Chotmunkongsit
+s2196,1,Aniedi Anwah
+s2197,1,Mickey Fonseca
+s2198,1,Matias Mariani
+s2199,1,Jan Komasa
+s2200,1,Sue Kim
+s2201,1,Paul Solet
+s2203,1,Ben Kasulke
+s2205,1,Gagan Puri
+s2206,1,Teddy Chan
+s2207,1,Bhavin Wadia
+s2208,1,Tony Bancroft
+s2208,2,Scott Christian Sava
+s2209,1,Greg Rankin
+s2209,2,TJ Sullivan
+s2210,1,Tope Alake
+s2211,1,Fernando González Molina
+s2212,1,Yuki Tanada
+s2214,1,Vince Marcello
+s2215,1,Alex Gibney
+s2216,1,Ahn Byoung-wook
+s2217,1,Sibusiso Khuzwayo
+s2220,1,Lisa Cortés
+s2220,2,Farah X
+s2221,1,Wilson Yip
+s2222,1,Dave Skinner
+s2222,2,Freddie Waters
+s2225,1,Denis Do
+s2229,1,Leslye Davis
+s2229,2,Catrin Einhorn
+s2232,1,Toka McBaror
+s2232,2,Tunde Apalowo
+s2233,1,Peter Sullivan
+s2234,1,Axelle Laffont
+s2235,1,Moses Inwang
+s2240,1,Daniel Oriahi
+s2241,1,Stefano Mordini
+s2243,1,Hayden Guppy
+s2244,1,Stéphane de Freitas
+s2245,1,André Odendaal
+s2245,2,Johan Vorster
+s2246,1,Cassia Dian
+s2248,1,Amro Salah
+s2249,1,Sue Ding
+s2251,1,Gina Prince-Bythewood
+s2252,1,Wouter Bouvijn
+s2253,1,Funke Akindele
+s2257,1,Bryn Evans
+s2258,1,Cristina Costantini
+s2258,2,Kareem Tabsch
+s2260,1,Hannah Fidell
+s2261,1,Chris Renaud
+s2261,2,Kyle Balda
+s2262,1,Scott Zabielski
+s2263,1,Coodie
+s2263,2,Chike
+s2264,1,QLF
+s2265,1,Sachin Kundalkar
+s2266,1,Puri Jagannadh
+s2267,1,Vishal Mahadkar
+s2268,1,Anurag Kashyap
+s2268,2,Dibakar Banerjee
+s2268,3,Karan Johar
+s2268,4,Zoya Akhtar
+s2269,1,Anthony D'Souza
+s2270,1,Soumendra Padhi
+s2271,1,David Dhawan
+s2272,1,Fuwad Khan
+s2273,1,Nishikant Kamat
+s2274,1,Krish
+s2275,1,Kabir Sadanand
+s2276,1,Rachit Kusonkoonsiri
+s2277,1,Sudhir Mishra
+s2278,1,Shoojit Sircar
+s2279,1,Omung Kumar
+s2280,1,Ribhu Dasgupta
+s2281,1,Satish Rajwade
+s2282,1,Umesh Shukla
+s2283,1,Devika Bhagat
+s2284,1,Takashi Doscher
+s2285,1,Shubham Singh
+s2286,1,Abbas Alibhai Burmawalla
+s2286,2,Mastan Alibhai Burmawalla
+s2287,1,Luv Ranjan
+s2288,1,Vikas Bahl
+s2289,1,Bejoy Nambiar
+s2290,1,Neeraj Pandey
+s2291,1,Aanand Rai
+s2292,1,Gurmmeet Singh
+s2295,1,LP
+s2296,1,Rako Prijanto
+s2297,1,Raoul Peck
+s2301,1,Shirley Frimpong-Manso
+s2303,1,Fabio Ock
+s2303,2,Joana Mazzucchelli
+s2305,1,Sabina Fedeli
+s2305,2,Anna Migotto
+s2308,1,Kyran Kelly
+s2309,1,Salvador Calvo
+s2310,1,Cem Yılmaz
+s2311,1,Barry Avrich
+s2312,1,Bruce Beresford
+s2313,1,Cem Yılmaz
+s2315,1,Matthew Vaughn
+s2316,1,Michael Duggan
+s2317,1,Almudena Carracedo
+s2317,2,Robert Bahar
+s2318,1,Paul Verhoeven
+s2320,1,Younuts!
+s2322,1,Troy Miller
+s2324,1,Obi Emelonye
+s2325,1,Rako Prijanto
+s2326,1,Daniel Effiong
+s2327,1,Abhijit Panse
+s2329,1,Rachel Griffiths
+s2331,1,David Dobkin
+s2333,1,Oluseyi Asurf
+s2334,1,Eduardo Roy Jr.
+s2337,1,Abhijit Panse
+s2339,1,Ravikanth Perepu
+s2340,1,Sooraj R. Barjatya
+s2341,1,Sooraj R. Barjatya
+s2342,1,Bonni Cohen
+s2342,2,Jon Shenk
+s2343,1,Anvita Dutt
+s2345,1,Gaspar Antillo
+s2346,1,Eric Notarnicola
+s2348,1,Musthafa
+s2349,1,Ishaya Bako
+s2351,1,Kate Mulleavy
+s2351,2,Laura Mulleavy
+s2352,1,Akhigbe Ilozobhie
+s2354,1,Apurva Dhar Badgaiyann
+s2355,1,Youssef Chahine
+s2357,1,Elissa Down
+s2359,1,Guillaume Pierret
+s2361,1,Ozan Açıktan
+s2362,1,Youssef Chahine
+s2364,1,Olivier Assayas
+s2365,1,Junichi Sato
+s2365,2,Tomotaka Shibayama
+s2366,1,Youssef Chahine
+s2367,1,Youssef Chahine
+s2368,1,Youssef Chahine
+s2369,1,Youssef Chahine
+s2370,1,Youssef Chahine
+s2371,1,Pablo Aulita
+s2372,1,Eduardo Roy Jr.
+s2373,1,Manatsanun Phanlerdwongsakul
+s2374,1,Youssef Chahine
+s2375,1,Georges Hachem
+s2376,1,Youssef Chahine
+s2377,1,Youssef Chahine
+s2378,1,Peter Lepeniotis
+s2380,1,Jim Hosking
+s2381,1,Paco Aguilar
+s2382,1,Obi Emelonye
+s2383,1,Greg McLean
+s2386,1,Juan José Campanella
+s2387,1,Adrian Teh
+s2388,1,Ishaya Bako
+s2390,1,A. Raajdheep
+s2392,1,Fajar Bustomi
+s2392,2,Pidi Baiq
+s2393,1,Nicholas Kharkongor
+s2394,1,Spike Lee
+s2398,1,Michael McKay
+s2399,1,Kitaro Kosaka
+s2403,1,Ali F. Mostafa
+s2404,1,Ayman Makram
+s2406,1,Rob Seidenglanz
+s2408,1,George Gallo
+s2411,1,Park Hoon-jung
+s2412,1,Ry Russo-Young
+s2413,1,Barbara Białowąs
+s2413,2,Tomasz Mandes
+s2414,1,Akhil Paul
+s2414,2,Anas Khan
+s2415,1,Kanika Batra
+s2417,1,Michael Cristofer
+s2419,1,Mohamed Khan
+s2420,1,Adriana Trigiani
+s2421,1,Anurag Kashyap
+s2422,1,Moses Inwang
+s2424,1,Phil Sgriccia
+s2425,1,Olivier Megaton
+s2428,1,Andaç Haznedaroğlu
+s2429,1,Murat Kepez
+s2430,1,Ahmed Nader Galal
+s2431,1,Greta Gerwig
+s2432,1,Sam Rega
+s2434,1,Wael Ehsan
+s2435,1,Inas El-Degheidy
+s2436,1,Wael Ehsan
+s2437,1,Ahmed Al-Badry
+s2438,1,Sameh Abdulaziz
+s2439,1,Khaled Marei
+s2440,1,Wael Ihsan
+s2442,1,Izidore K. Musallam
+s2443,1,Sherif Arafa
+s2444,1,Yasir Al Yasiri
+s2446,1,Safdar Rahman
+s2447,1,Tomas Brickhill
+s2449,1,Hani Al-Shaibani
+s2452,1,Mamoru Hosoda
+s2455,1,James Franco
+s2456,1,Niall Johnson
+s2457,1,Michael Damian
+s2458,1,Ahmed Zain
+s2459,1,Angshuman Ghosh
+s2461,1,Youssef Chahine
+s2464,1,Ahmed Zein
+s2465,1,Ahmed Zein
+s2466,1,Alejandro Montiel
+s2468,1,Fernando Frías de la Parra
+s2469,1,Madeleine Parry
+s2470,1,Yu Yang
+s2471,1,Jesse Warn
+s2472,1,Josh Safdie
+s2472,2,Benny Safdie
+s2475,1,Angga Dwimas Sasongko
+s2476,1,Rano Karno
+s2478,1,Ramsey Nouah
+s2479,1,Hiromasa Yonebayashi
+s2479,2,Yoshiyuki Momose
+s2479,3,Akihiko Yamashita
+s2480,1,Michael Showalter
+s2481,1,Norm Hiscock
+s2481,2,Gary Howsam
+s2481,3,Mike Smith
+s2481,4,John Paul Tremblay
+s2481,5,Robb Wells
+s2482,1,Rako Prijanto
+s2483,1,Almunsif Alsuwaisi
+s2484,1,Fouad Al Shatti
+s2485,1,Fouad El-Mohandes
+s2486,1,Andrés Feddersen
+s2488,1,Samir Al Asfory
+s2489,1,Hussein Kamal
+s2490,1,Hussein Kamal
+s2491,1,Hassan AbdulSalam
+s2492,1,Houssam El-Din Mustafa
+s2493,1,Muhammad Fadl
+s2493,2,Hany Motawie
+s2494,1,Lonzo Nzekwe
+s2495,1,Alex Timbers
+s2495,2,Sam Wrench
+s2497,1,Rebecca Johnson
+s2498,1,Ava DuVernay
+s2499,1,Carlos Morett
+s2501,1,Megha Ramaswamy
+s2502,1,Saeed Hamed
+s2503,1,Sherif Arafa
+s2504,1,Ahmed Al-Badry
+s2505,1,Ali Ragab
+s2506,1,Ahmad El-Badri
+s2507,1,Ahmad El-Badri
+s2508,1,Marcus Raboy
+s2510,1,Wael Ehsan
+s2511,1,Ali Ragab
+s2512,1,Haifaa Al-Mansour
+s2513,1,Wael Ihsan
+s2514,1,Ekene Som Mekwunye
+s2517,1,Mohammed Alhmly
+s2521,1,Lucien Bourjeily
+s2522,1,Laura Mañá
+s2523,1,Ziad Doueiri
+s2528,1,Sivaroj Kongsakul
+s2532,1,Fajar Bustomi
+s2532,2,Pidi Baiq
+s2533,1,Fajar Bustomi
+s2533,2,Pidi Baiq
+s2534,1,Salmeen AlMurry Amer
+s2535,1,Mohit Suri
+s2536,1,Obaid Alhmoudi
+s2537,1,Julián Hernández
+s2538,1,Adekunle Nodash Adejuyigbe
+s2539,1,Sadeq Behbehani
+s2540,1,Dylan Mohan Gray
+s2541,1,Tyler Spindel
+s2542,1,Hussein El Ansary
+s2544,1,Claire Scanlon
+s2545,1,Vipul Amrutlal Shah
+s2546,1,Rajkumar Santoshi
+s2548,1,Donick Cary
+s2550,1,Will Forbes
+s2551,1,Francesco Amato
+s2554,1,Damien Chazelle
+s2554,2,Houda Benyamina
+s2554,3,Laïla Marrakchi
+s2554,4,Alan Poul
+s2556,1,S.A. Zaidi
+s2557,1,Hamad AlSarraf
+s2558,1,He Xiaofeng
+s2559,1,Rano Karno
+s2560,1,Nadia Hallgren
+s2561,1,Pedro Flores Maldonado
+s2562,1,Joe DeMaio
+s2563,1,Aaron Woodley
+s2564,1,Lucas Margutti
+s2565,1,Ashok Nanda
+s2566,1,Hernán Guerschuny
+s2567,1,Alex Ranarivelo
+s2568,1,Fernando Ayllón
+s2571,1,Shaun Paul Piccinino
+s2572,1,Seth Barrish
+s2573,1,Shaun Paul Piccinino
+s2574,1,Brett Hedlund
+s2577,1,Joe Robert Cole
+s2578,1,Michelle Esrick
+s2579,1,Olivier Abbou
+s2580,1,Alex Woo
+s2580,2,Stanley Moore
+s2582,1,Jeffrey Schwarz
+s2583,1,Eric Darnell
+s2583,2,Tom McGrath
+s2585,1,Craig Freimond
+s2588,1,Shirish Kunder
+s2590,1,Mysskin
+s2592,1,Alice Wu
+s2593,1,Bobby Farrelly
+s2593,2,Peter Farrelly
+s2594,1,Joey So
+s2595,1,Joey So
+s2596,1,Joey So
+s2597,1,Dennie Gordon
+s2598,1,Michael M. Scott
+s2602,1,Bruno Garotti
+s2603,1,Sion Sono
+s2604,1,David Chuang
+s2604,2,Chen Kuan-chung
+s2605,1,Chris Bolan
+s2606,1,Yılmaz Erdoğan
+s2608,1,Omoni Oboli
+s2611,1,Saravana Rajan
+s2613,1,Muharrem Gülmez
+s2613,2,Sırrı Süreyya Önder
+s2614,1,Sermiyan Midyat
+s2615,1,Ahmed Yousry
+s2615,2,Hazem Fouda
+s2616,1,Handan İpekçi
+s2617,1,Kıvanç Baruönü
+s2618,1,Ferzan Özpetek
+s2619,1,Bedran Güzel
+s2620,1,Ashraf Fayeq
+s2621,1,Yılmaz Erdoğan
+s2622,1,Yılmaz Erdoğan
+s2623,1,Paul Munger
+s2624,1,Ahmed Nader Galal
+s2625,1,Matei Dima
+s2626,1,Imtiaz Ali
+s2627,1,Jonathan Augustin
+s2630,1,Venky Kudumula
+s2631,1,Khaled Marei
+s2633,1,Martin Scorsese
+s2634,1,Amr Arafa
+s2635,1,Michel Hazanavicius
+s2636,1,Ahmed Saleh
+s2637,1,Ahmed Medhat
+s2638,1,Mohamed Yassin
+s2639,1,Ahmed Nader Galal
+s2643,1,Chakri Toleti
+s2645,1,Neville Shah
+s2647,1,Upi Avianto
+s2648,1,Upi Avianto
+s2650,1,Hanung Bramantyo
+s2651,1,Yoon Sung-hyun
+s2653,1,Rachel Mason
+s2654,1,Patryk Vega
+s2655,1,Niyi Akinmolayan
+s2656,1,Marc Vigil
+s2657,1,Kris Pearn
+s2660,1,Ryan Polito
+s2664,1,Anoop Sathyan
+s2668,1,Müfit Can Saçıntı
+s2669,1,Julien Leclercq
+s2672,1,Cüneyt Kaya
+s2673,1,Greg Barker
+s2674,1,Fernando González Molina
+s2675,1,Leticia Jorge Romero
+s2676,1,Adrien Lagier
+s2676,2,Ousmane Ly
+s2678,1,Ethan Coen
+s2678,2,Joel Coen
+s2679,1,Jon M. Chu
+s2680,1,Diego Pignataro
+s2681,1,Ian Edelman
+s2682,1,Ali Yorgancıoğlu
+s2683,1,Digo Ricio
+s2684,1,Emcy Joseph
+s2686,1,Kranthi Madhav
+s2687,1,Matt D'Elia
+s2688,1,Tope Oshin
+s2689,1,Omoni Oboli
+s2691,1,Jeff Chan
+s2694,1,Dean Craig
+s2695,1,Grand Corps Malade
+s2695,2,Mehdi Idir
+s2696,1,Jay Karas
+s2697,1,Stefano Lodovichi
+s2698,1,Alan Yang
+s2701,1,Perci Intalan
+s2702,1,M. Night Shyamalan
+s2703,1,Chris Robinson
+s2704,1,Eddie Mensore
+s2705,1,Sean Baker
+s2706,1,Padraig Reynolds
+s2707,1,Yorgos Lanthimos
+s2708,1,Ric Roman Waugh
+s2710,1,Michael Dowse
+s2712,1,Pablo Lejarreta
+s2712,2,Luis Alfaro
+s2713,1,Armando Iannucci
+s2714,1,Akira Saitoh
+s2715,1,Haruka Fujita
+s2716,1,Mukul Anand
+s2717,1,Karan Malhotra
+s2718,1,Rajiv Chilaka
+s2720,1,David Batra
+s2720,2,Jon Rudberg
+s2721,1,Tarun Mansukhani
+s2722,1,Ramesh Talwar
+s2723,1,Mahesh Bhatt
+s2724,1,Raj Khosla
+s2725,1,Punit Malhotra
+s2726,1,Mahesh Bhatt
+s2727,1,Vinil Mathew
+s2729,1,Shashank Khaitan
+s2730,1,Soham Shah
+s2731,1,Karan Johar
+s2732,1,Karan Johar
+s2733,1,Nikkhil Advani
+s2734,1,Shakun Batra
+s2735,1,Karan Johar
+s2736,1,Vikas Bahl
+s2738,1,Rajiv Chilaka
+s2738,2,Anirban Majumder
+s2738,3,Alka Amarkant Dubey
+s2739,1,Prakash Mehra
+s2742,1,Anand Ravichandran
+s2745,1,Richard Claus
+s2745,2,Karsten Kiilerich
+s2746,1,Floria Sigismondi
+s2748,1,Renzil D'Silva
+s2750,1,Fritz Böhm
+s2751,1,Ravishankar Venkateswaran
+s2753,1,Vijay S. Bhanushali
+s2755,1,David Hunt
+s2756,1,Stephen S. Campanelli
+s2757,1,Rakesh Ranjan Kumar
+s2758,1,Sam Irvin
+s2759,1,Gary Stretch
+s2761,1,Desingh Periyasamy
+s2763,1,Mike Gunther
+s2764,1,TJ Sullivan
+s2764,2,Greg Rankin
+s2767,1,Neeraj Udhwani
+s2769,1,Patrice Laliberté
+s2770,1,Ellen Page
+s2770,2,Ian Daniel
+s2771,1,Todd Kauffman
+s2771,2,Mark Thornton
+s2772,1,Prentice Penny
+s2774,1,Zsolt Pálfi
+s2776,1,Nawapol Thamrongrattanarit
+s2777,1,Marlene Melchior
+s2779,1,Aaron Lieber
+s2781,1,Tamas Yvan Topolanszky
+s2782,1,Àlex Pastor
+s2782,2,David Pastor
+s2783,1,Rami Hachache
+s2787,1,Francisco Macri
+s2790,1,Gabriela García Rivas
+s2796,1,Eric Goode
+s2796,2,Rebecca Chaiklin
+s2797,1,Francesco Lettieri
+s2799,1,John Suits
+s2800,1,Takeru Nakajima
+s2800,2,Yoshiyuki Okada
+s2801,1,Malik Nejer
+s2802,1,Susan Walter
+s2804,1,Masaaki Yuasa
+s2806,1,Pierre Deschamps
+s2807,1,Jeff Tomsic
+s2810,1,Scot Armstrong
+s2811,1,Naman Nitin Mukesh
+s2812,1,Joey So
+s2813,1,Joey So
+s2814,1,Lynn Novick
+s2815,1,Joey So
+s2816,1,Navjot Gulati
+s2818,1,Stephanie Zwane
+s2820,1,Owen Trevor
+s2821,1,Stephanie Turner
+s2822,1,Kim Seong-hun
+s2823,1,Liz Garbus
+s2824,1,Mehmet Ada Öztekin
+s2829,1,Jos Humphrey
+s2830,1,Lynn Shelton
+s2831,1,Sharmeen Obaid-Chinoy
+s2832,1,Toyin Abraham
+s2833,1,Adze Ugah
+s2834,1,Ruchi Narain
+s2835,1,Christophe Charrier
+s2836,1,Stanley Nelson
+s2837,1,Peter Berg
+s2838,1,Daniel Calparsoro
+s2840,1,Steve Gukas
+s2841,1,Trivikram Srinivas
+s2843,1,Kittiphak Thonguam
+s2844,1,Cristi Puiu
+s2845,1,Sebastian Jones
+s2845,2,Ramez Silyan
+s2846,1,Cristi Puiu
+s2847,1,Carlos Sedes
+s2848,1,Adam B. Stein
+s2848,2,Zach Lipovsky
+s2849,1,Lucas Margutti
+s2850,1,Marcus Raboy
+s2851,1,Athiyan Athirai
+s2852,1,Zuko Nodada
+s2853,1,Madonna
+s2854,1,Milton Horowitz
+s2857,1,Sneha Taurani
+s2859,1,Momoko Kamiya
+s2860,1,Matthew Ross
+s2861,1,Martin Scorsese
+s2862,1,Lee Kirk
+s2863,1,Ziggy Hofmeyr
+s2864,1,Paul Thomas Anderson
+s2865,1,Gustavo Ron
+s2866,1,Yacine Belhousse
+s2867,1,Sam Dunn
+s2868,1,Brett Haley
+s2874,1,Trivikram Srinivas
+s2877,1,Kunihiko Yuyama
+s2877,2,Motonori Sakakibara
+s2878,1,Ali Kalthami
+s2878,2,Meshal Aljaser
+s2878,3,Faris Godus
+s2878,4,Mohamed al Salman
+s2878,5,Faisal al Amer
+s2879,1,Tolu Awobiyi
+s2880,1,Walter Taylaur
+s2882,1,Daniel Oriahi
+s2883,1,Niyi Akinmolayan
+s2885,1,Oyefunke Fayoyin
+s2886,1,Seyi Babatope
+s2887,1,Jason Orley
+s2888,1,Robert Eagar
+s2890,1,Travis Stevens
+s2891,1,Mick Grogan
+s2896,1,Nora Fingscheidt
+s2897,1,Jeethu Joseph
+s2898,1,Dee Rees
+s2899,1,Sooni Taraporevala
+s2900,1,Linda Korsten
+s2902,1,Tom Barton-Humphreys
+s2904,1,Angelina Jolie
+s2905,1,R.J. Daniel Hanna
+s2906,1,Paco Cabezas
+s2907,1,Tosin Coker
+s2908,1,Peter Billingsley
+s2909,1,Jason Zada
+s2910,1,Avgousta Zourelidi
+s2912,1,Richard Phelan
+s2912,2,Will Becher
+s2913,1,Rod Cabatana Marmol
+s2914,1,Michał Tylka
+s2915,1,Oliver Kienle
+s2916,1,Brian Webber
+s2917,1,Ashutosh Gowariker
+s2919,1,Charles Uwagbai
+s2920,1,Takashi Yamazaki
+s2920,2,Ryuichi Yagi
+s2920,3,Makoto Hanafusa
+s2924,1,Pantham Thongsang
+s2924,2,Cheewatan Pusitsuksa
+s2925,1,Paul Krüger
+s2925,2,Anél Stolp
+s2926,1,Michael Fimognari
+s2929,1,Benny Safdie
+s2929,2,Josh Safdie
+s2930,1,Andres Clariond
+s2931,1,Andibachtiar Yusuf
+s2933,1,Andrew Dean
+s2934,1,Lars Klevberg
+s2935,1,Lukasz Kosmicki
+s2936,1,Shanavas K. Bavakutty
+s2937,1,Kwabena Gyansah
+s2940,1,Jeff Baena
+s2941,1,Kumaran
+s2944,1,Jared Moshé
+s2947,1,Austin Peck
+s2947,2,Anneliese Vandenberg
+s2948,1,James Bamford
+s2949,1,Julia Willoughby Nason
+s2949,2,Jenner Furst
+s2950,1,Nate Adams
+s2950,2,Adam Carolla
+s2951,1,Ivan Silvestrini
+s2952,1,Robert Krantz
+s2953,1,Gregory Jacobs
+s2955,1,Jeethu Joseph
+s2956,1,Alfonso Cortés-Cavanillas
+s2957,1,Xavier Manrique
+s2958,1,Sooraj R. Barjatya
+s2961,1,Richard Gabai
+s2962,1,Alfons Adetuyi
+s2963,1,Thomas Astruc
+s2964,1,Erwin van den Eshof
+s2969,1,G.J. Echternkamp
+s2970,1,Sooraj R. Barjatya
+s2971,1,Hikari
+s2973,1,Jean-Claude Flamand-Barny
+s2974,1,Oluseyi Asurf
+s2976,1,Lana Wilson
+s2979,1,Shannon Hartman
+s2982,1,David Oelhoffen
+s2986,1,Ramesh Sippy
+s2987,1,Halitha Shameem
+s2988,1,Vir Das
+s2988,2,Ajay Bhuyan
+s2989,1,Josh Z. Weinstein
+s2989,2,Joshua Z. Weinstein
+s2990,1,Chung Mong-hong
+s2991,1,Johnny Breedt
+s2996,1,César Rodrigues
+s2997,1,Alex Díaz
+s3000,1,Quek Shio-chuan
+s3003,1,Pablo Stoll
+s3003,2,Juan Pablo Rebella
+s3004,1,Krysia Plonka
+s3005,1,Madhumita
+s3007,1,Debamitra Biswal
+s3008,1,David Lynch
+s3009,1,Sofia Coppola
+s3010,1,Tyler Perry
+s3015,1,Caryn Waechter
+s3017,1,Tim Hill
+s3018,1,Numa Perrier
+s3019,1,Brian Helgeland
+s3020,1,Yoshiyuki Momose
+s3022,1,Danny Boyle
+s3023,1,Rima Das
+s3024,1,Paco Plaza
+s3026,1,Andrew Goth
+s3027,1,William Kaufman
+s3028,1,David Benioff
+s3028,2,D.B. Weiss
+s3030,1,Patryk Vega
+s3032,1,Steve Boettcher
+s3033,1,Mikhil Musale
+s3037,1,Soumendra Padhi
+s3039,1,Tom Green
+s3042,1,Don Michael Paul
+s3044,1,David Lowery
+s3045,1,Maria Ripoll
+s3047,1,Yibrán Asuad
+s3049,1,Mohit Suri
+s3052,1,Edwin
+s3055,1,Vadim Jean
+s3058,1,Mark A.Z. Dippé
+s3058,2,Kyung Ho Lee
+s3059,1,Mark A.Z. Dippé
+s3059,2,Eondeok Han
+s3060,1,Mark A.Z. Dippé
+s3061,1,Anurag Kashyap
+s3061,2,Dibakar Banerjee
+s3061,3,Karan Johar
+s3061,4,Zoya Akhtar
+s3062,1,Michael Simon
+s3063,1,John A. Davis
+s3065,1,Lucas Margutti
+s3068,1,Justin Webster
+s3069,1,Guillermo del Toro
+s3070,1,Tetsuo Yajima
+s3071,1,Edwin
+s3073,1,John Lyde
+s3074,1,Steve Rash
+s3078,1,Ravi Babu
+s3079,1,Soumitra Ranade
+s3081,1,Jon Rosenbaum
+s3082,1,Bruce Leddy
+s3090,1,Yuki Yamato
+s3091,1,Andrew Wessels
+s3092,1,Emir Kusturica
+s3094,1,Odunlade Adekola
+s3095,1,Elisa Fuksas
+s3097,1,Lee Toland Krieger
+s3098,1,Tony Giglio
+s3099,1,Akiyuki Shinbo
+s3099,2,Nobuyuki Takeuchi
+s3100,1,Ron Oliver
+s3101,1,Don Michael Paul
+s3102,1,Shojiro Nishimi
+s3102,2,Guillaume Renard
+s3103,1,J.D. Dillard
+s3105,1,Pepe Bojórquez
+s3106,1,Rhys Thomas
+s3108,1,David M. Rosenthal
+s3110,1,Louise Alston
+s3111,1,Sunkanmi Adebayo
+s3113,1,Omoni Oboli
+s3114,1,Falz
+s3115,1,Frank Rajah Arase
+s3116,1,Omoni Oboli
+s3117,1,Fernando Meirelles
+s3119,1,Rodrigo Reyes
+s3122,1,Mark Lewis
+s3124,1,Sebastian DiNatale
+s3125,1,Nuhash Humayun
+s3125,2,Syed Ahmed Shawki
+s3125,3,Rahat Rahman
+s3125,4,Robiul Alam Robi
+s3125,5,Golam Kibria Farooki
+s3125,6,Mir Mukarram Hossain
+s3125,7,Tanvir Ahsan
+s3125,8,Mahmudul Islam
+s3125,9,Abdullah Al Noor
+s3125,10,Krishnendu Chattopadhyay
+s3125,11,Syed Saleh Ahmed Sobhan
+s3126,1,Tom Hooper
+s3127,1,Karan Anshuman
+s3131,1,Obi Emelonye
+s3132,1,Farhan Akhtar
+s3133,1,Zoya Akhtar
+s3134,1,Farhan Akhtar
+s3135,1,Farhan Akhtar
+s3136,1,Mrighdeep Singh Lamba
+s3137,1,Abhinay Deo
+s3138,1,Tsutomu Mizushima
+s3139,1,Fernando Ayllón
+s3140,1,Reema Kagti
+s3141,1,Jadesola Osiberu
+s3142,1,Vijay Lalwani
+s3143,1,Farhan Akhtar
+s3144,1,Zoya Akhtar
+s3145,1,Shirley Frimpong-Manso
+s3146,1,Abhishek Kapoor
+s3148,1,Reema Kagti
+s3150,1,Zoya Akhtar
+s3151,1,Michael Bay
+s3152,1,Robert O. Peters
+s3153,1,Bunmi Ajakaiye
+s3154,1,Omoni Oboli
+s3155,1,Biodun Stephen
+s3156,1,Ding-Lin Wang
+s3157,1,Robert O. Peters
+s3158,1,Richard van't Riet
+s3159,1,Shonali Bose
+s3160,1,Sameh Abdulaziz
+s3161,1,Lance Bangs
+s3162,1,Robbie Countryman
+s3163,1,Trey Edward Shults
+s3164,1,Sujeeth
+s3165,1,Alexandre Avancini
+s3167,1,BB Sasore
+s3168,1,Pascal Amanfo
+s3170,1,Noah Baumbach
+s3171,1,Atsuko Ishizuka
+s3172,1,Eric Aghimien
+s3175,1,Michel Tikhomiroff
+s3176,1,Robert Kenner
+s3176,2,Taki Oldham
+s3179,1,Omoni Oboli
+s3180,1,Omoni Oboli
+s3181,1,John Schultz
+s3187,1,Linda Mendoza
+s3189,1,Michelle Johnston
+s3190,1,Vijay Kumar Arora
+s3191,1,Matt Shakman
+s3192,1,Mikhail Red
+s3194,1,Pankaj Batra
+s3195,1,Serge Ou
+s3196,1,Navaniat Singh
+s3198,1,Gaurav Bavdankar
+s3199,1,Jagdeep Sidhu
+s3201,1,Tanawat Aiemjinda
+s3202,1,Mukesh Vohra
+s3203,1,Syrine Boulanouar
+s3203,2,Nekfeu
+s3204,1,Tudor Giurgiu
+s3206,1,Luis Ara
+s3206,2,Ignacio Jaunsolo
+s3207,1,Abhishek Sharma
+s3208,1,Mati Diop
+s3210,1,Moses Inwang
+s3211,1,Jérémy Clapin
+s3212,1,Mandla Dube
+s3214,1,Mike Ezuruonye
+s3215,1,Cheta Chukwu
+s3216,1,Roger Russell
+s3218,1,Toka McBaror
+s3219,1,Leslie Small
+s3224,1,Edward Zwick
+s3225,1,Basava Shankar Eeday
+s3226,1,Prakash Satam
+s3227,1,Elle-Máijá Tailfeathers
+s3227,2,Kathleen Hepburn
+s3228,1,Martin Scorsese
+s3229,1,Seth Barrish
+s3230,1,Steve Ball
+s3234,1,Sanjiv Jaiswal
+s3235,1,Marta Jaenes
+s3235,2,Rosa Márquez
+s3236,1,Ric Roman Waugh
+s3238,1,Julien Abraham
+s3240,1,Tsutomu Mizushima
+s3245,1,Nate Adams
+s3245,2,Adam Carolla
+s3249,1,Monika Mitchell
+s3251,1,Eva Orner
+s3252,1,KVR Mahendra
+s3254,1,Juan Carlos Rulfo
+s3255,1,Raj R
+s3257,1,Steve Paley
+s3260,1,Timo Vuorensola
+s3261,1,Robb Dipple
+s3262,1,Sarah Gavron
+s3263,1,Eli Roth
+s3265,1,Wash Westmoreland
+s3266,1,Alessandro Angulo
+s3267,1,Mauro Scandolari
+s3268,1,Arjun Jandyala
+s3269,1,Shashanka Ghosh
+s3269,2,Samit Basu
+s3273,1,Naoko Yamada
+s3274,1,Sergio Pablos
+s3279,1,Valli Bindana
+s3281,1,Makoto Shinkai
+s3286,1,Gautier & Leduc
+s3290,1,Christopher Storer
+s3291,1,Tom Ford
+s3293,1,Josh Aronson
+s3297,1,Luke Snellin
+s3298,1,Xavier Durringer
+s3300,1,Pawan Kumar
+s3301,1,Phillip Youmans
+s3303,1,Zhang Yimou
+s3304,1,Lucas Margutti
+s3306,1,Neal Brennan
+s3308,1,Azazel Jacobs
+s3309,1,Jung Ji-woo
+s3310,1,Leslie Small
+s3312,1,Matt D'Avella
+s3313,1,Parthiban
+s3316,1,Savage Steve Holland
+s3318,1,Savage Steve Holland
+s3319,1,Scott McAboy
+s3320,1,Raymie Muzquiz
+s3320,2,Stu Livingston
+s3321,1,Stephen Herek
+s3322,1,Joe Menendez
+s3323,1,Vince Marcello
+s3324,1,Eric Bross
+s3325,1,Will Eisenberg
+s3327,1,Marina Seresesky
+s3330,1,Kenny Leon
+s3332,1,Harvey Lowry
+s3333,1,James Dearden
+s3335,1,Tarun Mansukhani
+s3336,1,Drea Cooper
+s3336,2,Zackary Canepari
+s3338,1,Ernie Barbarash
+s3339,1,Michael A. Nickles
+s3344,1,Blayne Weaver
+s3347,1,Manolo Caro
+s3348,1,David Michôd
+s3349,1,Marco Bonfanti
+s3350,1,Everardo González
+s3354,1,Rodrigo Guardiola
+s3354,2,Gabriel Cruz Rivas
+s3355,1,Juani Libonatti
+s3357,1,DJ Chen
+s3359,1,Park Joon-hwa
+s3360,1,Saravana Rajendran
+s3363,1,Brian Volk-Weiss
+s3366,1,Everardo González
+s3367,1,Matt Kay
+s3372,1,Ozan Açıktan
+s3373,1,Craig Brewer
+s3375,1,Billy Lyons
+s3377,1,Michael Steed
+s3380,1,Zak Hilditch
+s3381,1,Michael Steiner
+s3384,1,Andrew Slater
+s3385,1,Glen Goei
+s3385,2,Gavin Yap
+s3387,1,Huw Cordey
+s3388,1,Yuen Woo-ping
+s3389,1,Gillian Robespierre
+s3390,1,Ben Wheatley
+s3391,1,Prakash Satam
+s3392,1,Thomas Vinterberg
+s3393,1,Adze Ugah
+s3399,1,Ciarán Foy
+s3400,1,Frank Rajah Arase
+s3403,1,Yılmaz Erdoğan
+s3406,1,Daniel Sánchez Arévalo
+s3408,1,Don Omope
+s3409,1,Ed Perkins
+s3410,1,Steven Soderbergh
+s3412,1,Tope Oshin
+s3413,1,Udai Singh Pawar
+s3414,1,Guntur Soeharjanto
+s3418,1,Bassam Tariq
+s3419,1,Leslie Iwerks
+s3420,1,Kim Joo-hyung
+s3422,1,Ciarán Foy
+s3423,1,Louie Psihoyos
+s3424,1,Ahmet Katıksız
+s3425,1,Jean-François Blais
+s3426,1,Leïla Sy
+s3426,2,Kery James
+s3428,1,Hakan Algül
+s3429,1,Vince Gilligan
+s3430,1,Brad Anderson
+s3432,1,Bolanle Austen-Peters
+s3433,1,Sion Sono
+s3435,1,Dennis Rovira van Boekholt
+s3437,1,Naoto Amazutsumi
+s3439,1,Jenny Gage
+s3440,1,Kaila York
+s3442,1,Ryan Polito
+s3444,1,Andibachtiar Yusuf
+s3447,1,Vandana Kataria
+s3449,1,Onur Bilgetay
+s3451,1,Vincenzo Natali
+s3452,1,Tugçe Soysop
+s3457,1,Jacob Joice
+s3457,2,Steve Ball
+s3460,1,Luis Javier Henaine
+s3461,1,Anand Kamalakar
+s3462,1,Lee Yoon-jung
+s3466,1,Roy Poortmans
+s3469,1,Vrinda Samartha
+s3472,1,Nicholaus Goossen
+s3473,1,Stig Bergqvist
+s3473,2,Paul Demeyer
+s3476,1,Igor Kovalyov
+s3476,2,Norton Virgien
+s3477,1,Noah Baumbach
+s3478,1,Danny Cannon
+s3479,1,Chris Howe
+s3480,1,Mana Yasuda
+s3481,1,Mana Yasuda
+s3483,1,Gupse Özay
+s3485,1,Jim Mickle
+s3486,1,Jumpei Mizusaki
+s3486,2,Koji Morimoto
+s3486,3,Michael Arias
+s3486,4,Masaru Matsumoto
+s3486,5,Arthell Isom
+s3486,6,Henry Thurlow
+s3486,7,Takanobu Mizuno
+s3486,8,Elsa Nakamichi
+s3486,9,Hajime Sasaki
+s3486,10,Shinji Takagi
+s3487,1,Mangesh Hadawale
+s3488,1,Wong Kar Wai
+s3491,1,Otilia Portillo Padua
+s3493,1,B. V. Nandini Reddy
+s3494,1,B. V. Nandini Reddy
+s3495,1,Michael J. Bassett
+s3496,1,Troy Miller
+s3497,1,Rahul Ravindran
+s3498,1,Archie Borders
+s3499,1,Deepti Naval
+s3501,1,Scott Aukerman
+s3504,1,Mariano Barroso
+s3507,1,Kiko Cruz Claverol
+s3507,2,Patricia Font
+s3508,1,Bedran Güzel
+s3510,1,Sandeep Reddy Vanga
+s3512,1,Jesse V. Johnson
+s3513,1,Manny Rodriguez
+s3514,1,Tom Donahue
+s3515,1,Michèle Ohayon
+s3517,1,B. V. Nandini Reddy
+s3518,1,Randall Lobb
+s3519,1,Alex Stapleton
+s3521,1,Kıvanç Baruönü
+s3523,1,Teng Huatao
+s3524,1,Nzingha Stewart
+s3529,1,Mike Binder
+s3530,1,Orlando von Einsiedel
+s3531,1,Anubhav Sinha
+s3532,1,Maha Venkatesh
+s3533,1,Tharun Bhascker
+s3534,1,Şenol Sönmez
+s3537,1,Farhan Alam
+s3538,1,A. L. Vijay
+s3539,1,Petra Costa
+s3542,1,Hayato Date
+s3543,1,Petra Costa
+s3543,2,Lea Glob
+s3545,1,Bernie Denk
+s3546,1,Ahmed Zain
+s3548,1,Rémy Four
+s3548,2,Julien War
+s3549,1,Fernando Ayllón
+s3550,1,Alejandro Fernández Almendras
+s3555,1,Jota Linares
+s3556,1,Roger Kumble
+s3557,1,Wagner de Assis
+s3558,1,White Trash Tyler
+s3560,1,Stan Lathan
+s3561,1,Yeung Yat-Tak
+s3564,1,Rai Yuvraj Bains
+s3565,1,Sunil Thakur
+s3566,1,Muh Chen
+s3567,1,Saurabh Sinha
+s3568,1,Steven Bognar
+s3568,2,Julia Reichert
+s3569,1,Ashwin Saravanan
+s3570,1,Ashwin Saravanan
+s3571,1,Ashwin Saravanan
+s3573,1,Jun Lana
+s3575,1,Julia Knowles
+s3583,1,Tarsem Singh
+s3584,1,Michael Tiddes
+s3587,1,Kepa Sojo
+s3590,1,Vikramaditya Motwane
+s3590,2,Anurag Kashyap
+s3591,1,Cho Li
+s3591,2,Chen Hung-yi
+s3591,3,Weica Wang
+s3591,4,Liu Bang-yao
+s3591,5,Lin Guan-fu
+s3591,6,Shen Chi
+s3591,7,YC Tom Lee
+s3592,1,Diego Pignataro
+s3594,1,Manu Ashokan
+s3595,1,Anita Udeep
+s3596,1,Vlad Yudin
+s3597,1,Alberto Arnaut Estrada
+s3600,1,Robert Moresco
+s3603,1,Aadish Keluskar
+s3604,1,Joe Murray
+s3604,2,Cosmo Segurson
+s3606,1,Jesse Moss
+s3614,1,Shin Won-ho
+s3615,1,Shin Won-ho
+s3617,1,Sujoy Ghosh
+s3618,1,John Asher
+s3619,1,Mae Czarina Cruz
+s3620,1,Lance Bangs
+s3621,1,Shannon Hartman
+s3622,1,Billy Corben
+s3623,1,Joe DeMaio
+s3624,1,Alex Burunova
+s3626,1,Jesús Torres Torres
+s3627,1,Erwin van den Eshof
+s3629,1,Camille Shooshani
+s3631,1,Vijay Kumar
+s3632,1,Phanindra Narsetti
+s3635,1,Gideon Raff
+s3636,1,Marcus Raboy
+s3638,1,Jorge M. Fontana
+s3639,1,Mikhail Red
+s3640,1,Olivier Afonso
+s3642,1,Sebastián Schindel
+s3644,1,Karim Amer
+s3644,2,Jehane Noujaim
+s3646,1,Jay Chapman
+s3647,1,Jay Karas
+s3647,2,Demetri Martin
+s3648,1,Dante Lam
+s3649,1,Chi Keung Fung
+s3650,1,Corey Yuen
+s3650,2,Patrick Leung
+s3651,1,To-hoi Kong
+s3653,1,Frank Ariza
+s3654,1,Jerry Seinfeld
+s3658,1,Peter Sullivan
+s3659,1,Aditya Sarpotdar
+s3662,1,Nisheeta Keni
+s3663,1,Daniel Gray Longino
+s3669,1,Gerardo Olivares
+s3671,1,Wi Ding Ho
+s3673,1,Thomas Sieben
+s3676,1,Joe Lynch
+s3677,1,Andreas Pichler
+s3679,1,Daniel Arasanz
+s3680,1,Spike Jonze
+s3682,1,Marcelo Altmark
+s3682,2,Mariano Mucci
+s3682,3,Luis A. Scalella
+s3684,1,Michèle Ohayon
+s3694,1,Linda Mendoza
+s3698,1,Hernán Zin
+s3699,1,Sittisiri Mongkolsiri
+s3700,1,Robbie Grewal
+s3702,1,Thiagarajan Kumararaja
+s3704,1,Kate Horne
+s3707,1,Roberto Girault Facha
+s3710,1,Paul Thomas Anderson
+s3712,1,Alex Díaz
+s3712,2,Marcos Bucay
+s3714,1,Sujoy Ghosh
+s3715,1,Svati Chakravarty Bhatkal
+s3716,1,Kevin Bray
+s3718,1,Jesse V. Johnson
+s3718,2,Jesse Johnson
+s3719,1,Miguel Cohan
+s3720,1,Luis Alberto Restrepo
+s3720,2,Andrés Beltrán
+s3720,3,Jaime Rayo
+s3721,1,Hideaki Anno
+s3729,1,Hideaki Anno
+s3729,2,Kazuya Tsurumaki
+s3730,1,Abhijit Kokate
+s3730,2,Srivinay Salian
+s3731,1,Antonin Baudry
+s3732,1,Chris Robinson
+s3733,1,Petra Costa
+s3734,1,Jay Karas
+s3735,1,Jon Watts
+s3736,1,Jakob Lass
+s3739,1,John Haptas
+s3739,2,Kristine Samuelson
+s3740,1,Sanjay Jadhav
+s3741,1,Vinod Kapri
+s3744,1,Elías León
+s3748,1,Bruno Garotti
+s3754,1,Kyle Newacheck
+s3757,1,Mark Ritchie
+s3758,1,Rocky Soraya
+s3759,1,Shannon Hartman
+s3760,1,Martin Scorsese
+s3762,1,Federico Veiroj
+s3764,1,Isabel Coixet
+s3765,1,Grant Sputore
+s3766,1,Laxman Utekar
+s3767,1,Juan Antin
+s3768,1,Hanno Olderdissen
+s3769,1,Amar Kaushik
+s3772,1,Reginald Hudlin
+s3773,1,Eva Trobisch
+s3774,1,Naoko Yamada
+s3776,1,Mathieu Auvray
+s3777,1,Marcus Raboy
+s3778,1,Limbert Fabian
+s3778,2,Brandon Oldenburg
+s3782,1,Datta Mohan Bhandare
+s3784,1,Sanjib Dey
+s3786,1,Cristina Jacob
+s3787,1,Daniel Yee Heng Chan
+s3789,1,Sachin Yardi
+s3791,1,Rakeysh Omprakash Mehra
+s3792,1,Han Han
+s3794,1,Jang Jae-hyun
+s3796,1,Nadia Hallgren
+s3798,1,Sudabeh Mortezai
+s3799,1,McG
+s3801,1,Richard Shepard
+s3803,1,Mike Diva
+s3803,2,Akiva Schaffer
+s3804,1,Trisha Ziff
+s3805,1,Vasan Bala
+s3806,1,Linda Mendoza
+s3809,1,Diego Enrique Osorno
+s3810,1,Hernán Zin
+s3811,1,Hernán Zin
+s3812,1,Hernán Zin
+s3814,1,Pedring A. Lopez
+s3815,1,Sam Cullman
+s3816,1,Francesco Imperato
+s3817,1,Stefon Bristol
+s3819,1,Kate Melville
+s3820,1,Aditya Vikram Sengupta
+s3821,1,Mandie Fletcher
+s3823,1,Aijaz Khan
+s3826,1,Gonzalo López-Gallego
+s3829,1,Abby Epstein
+s3830,1,Savage Steve Holland
+s3831,1,Hepi Mita
+s3833,1,Che Sandoval
+s3834,1,Jean-Bernard Marlin
+s3835,1,Yee Tung-Shing
+s3837,1,Patricia Font
+s3842,1,Amy Poehler
+s3843,1,Yen Cheng-kuo
+s3858,1,Alex Parkinson
+s3858,2,Richard da Costa
+s3859,1,Frant Gwo
+s3860,1,Hao Wu
+s3861,1,Felipe Cano
+s3863,1,Gabriela Tagliavini
+s3864,1,Joe Berlinger
+s3866,1,Lee Jeong-beom
+s3867,1,William Bindley
+s3869,1,Manav Shah
+s3870,1,Antoine Fuqua
+s3872,1,Michael Epstein
+s3873,1,Rachel Lears
+s3874,1,Syamsul Yusof
+s3875,1,Mangesh Kanthale
+s3876,1,Herman Yau
+s3878,1,Marcus Raboy
+s3886,1,Dar Gai
+s3889,1,Fernando Ayllón
+s3890,1,Yılmaz Erdoğan
+s3891,1,Sathyan Anthikad
+s3892,1,Brian Oakes
+s3894,1,Quentin Tarantino
+s3895,1,Bille August
+s3896,1,Fab Five Freddie
+s3897,1,Sandra Restrepo
+s3900,1,Sarthak Dasgupta
+s3904,1,Jennifer Kaytin Robinson
+s3905,1,Renato De Maria
+s3906,1,Alan Rickman
+s3907,1,Ulises Valencia
+s3908,1,Beyoncé Knowles-Carter
+s3909,1,Richard Curtis
+s3911,1,Nagesh Kukunoor
+s3912,1,Suparn Verma
+s3913,1,Vlad Yudin
+s3914,1,Sudhir Mishra
+s3915,1,Sujoy Ghosh
+s3916,1,Anant Balani
+s3917,1,Soukarya Ghosal
+s3918,1,Leena Yadav
+s3919,1,Amitabha Singh
+s3920,1,Dallas Jackson
+s3922,1,Jota Linares
+s3923,1,Hasan Karacadağ
+s3924,1,Hasan Karacadağ
+s3927,1,Chris Nelson
+s3929,1,Lee Kyoungmi
+s3929,2,Yim Pilsung
+s3929,3,Jeon Go-woon
+s3929,4,Kim Jong-kwan
+s3930,1,Fernando Ayllón
+s3931,1,John R. Leonetti
+s3933,1,Rajiv Menon
+s3934,1,Karthik Subbaraj
+s3936,1,Jeremiah Jones
+s3940,1,Karthik Subbaraj
+s3946,1,Brie Larson
+s3948,1,Fernando Ayllón
+s3949,1,Rocky Soraya
+s3949,2,Anggy Umbara
+s3951,1,Shelly Chopra Dhar
+s3952,1,Shanjey Kumar Perumal
+s3953,1,Leslie Small
+s3955,1,Tianyu Zhao
+s3956,1,Shazia Ali Khan
+s3958,1,Erik White
+s3960,1,Owen Egerton
+s3961,1,"Sam ""Blitz"" Bazawule"
+s3963,1,Swapnaneel Jayakar
+s3964,1,Kyzza Terrazas
+s3967,1,John Lee Hancock
+s3968,1,Theo Love
+s3973,1,Awi Suryadi
+s3974,1,Hanung Bramantyo
+s3975,1,Ryan Polito
+s3976,1,Raj Babu
+s3978,1,Javier Ruiz Caldera
+s3979,1,Chanon Yingyong
+s3979,2,Phuwanit Pholdee
+s3983,1,Oriol Paulo
+s3984,1,Stuart Sender
+s3986,1,Jeff Tremaine
+s3991,1,Wenn V. Deramas
+s3992,1,Joyce Bernal
+s3993,1,Jason Paul Laxamana
+s3994,1,Maryo J. De los Reyes
+s3995,1,Theodore Boborol
+s3996,1,Luis Ara
+s3998,1,Karan Shivajirao Chavan
+s3998,2,Vikram Tanajirao Patil
+s4000,1,Amy Schumer
+s4001,1,Richard Loncraine
+s4003,1,Pia Sukanya
+s4004,1,Yann Gozlan
+s4005,1,Francesco Imperato
+s4006,1,Lukas Dhont
+s4008,1,Manny Rodriguez
+s4009,1,Michael Simon
+s4009,2,Matthew McNeil
+s4010,1,Manny Rodriguez
+s4011,1,Michael Simon
+s4012,1,Frank W Chen
+s4014,1,Adrian Teh
+s4018,1,Maryo J. De los Reyes
+s4019,1,Olivia M. Lamasan
+s4020,1,Joyce Bernal
+s4021,1,Theodore Boborol
+s4022,1,Cathy Garcia-Molina
+s4025,1,J.C. Chandor
+s4026,1,Brian Klein
+s4032,1,Ibrahim Bin Mohamed
+s4032,2,Hasan Aljaberi
+s4034,1,Clark Johnson
+s4035,1,Emmanuel Mouret
+s4037,1,Conor Allyn
+s4038,1,Haifaa Al-Mansour
+s4039,1,Wenn V. Deramas
+s4040,1,Olivia M. Lamasan
+s4041,1,Antoinette Jadaone
+s4042,1,Nuel Naval
+s4046,1,Keoni Waxman
+s4047,1,Mae Czarina Cruz
+s4048,1,Ruel S. Bayani
+s4049,1,Isao Yukisada
+s4050,1,A.R. Murugadoss
+s4051,1,Fritz Ofner
+s4052,1,Nottapon Boonprakob
+s4053,1,Nawapol Thamrongrattanarit
+s4054,1,Xavier Gens
+s4059,1,Jonathan A. Rosenbaum
+s4060,1,Franck Phelizon
+s4061,1,Peter Howitt
+s4062,1,Rajiv Menon
+s4063,1,Chiwetel Ejiofor
+s4065,1,Rodrigo Salomón
+s4065,2,Pietro Scappini
+s4066,1,Mark Waters
+s4067,1,Miguel Ángel Vivas
+s4068,1,Carlos Vermut
+s4069,1,Cathy Garcia-Molina
+s4070,1,Wenn V. Deramas
+s4071,1,Mae Czarina Cruz
+s4072,1,Mae Czarina Cruz
+s4073,1,Sridhar Rangayan
+s4074,1,Cathy Garcia-Molina
+s4075,1,Cathy Garcia-Molina
+s4076,1,Cathy Garcia-Molina
+s4077,1,Cathy Garcia-Molina
+s4078,1,Dan Villegas
+s4079,1,Olivia M. Lamasan
+s4081,1,Michael Blieden
+s4082,1,Pawan K Shrivastava
+s4083,1,Mar Targarona
+s4084,1,Ryan Polito
+s4086,1,Aruna Raje
+s4087,1,Alex Lehmann
+s4088,1,Elisabeth Vogler
+s4089,1,Parambrata Chatterjee
+s4092,1,Woo Min-ho
+s4093,1,Paul Miller
+s4094,1,Michael Del Monte
+s4095,1,Suseenthiran
+s4096,1,Kevin MacDonald
+s4097,1,Matt Tyrnauer
+s4098,1,Prasanth Varma
+s4099,1,Gangadhar Salimath
+s4100,1,Daniel J. Clark
+s4101,1,Marcelo Galvão
+s4102,1,Shanawaz Nellikunnil
+s4103,1,Sudhir Mishra
+s4104,1,Rajat Kapoor
+s4105,1,Lars Kaalund
+s4107,1,Hari Nath
+s4108,1,Saket Chaudhary
+s4109,1,Tanuja Chandra
+s4111,1,Jackie van Beek
+s4111,2,Madeleine Sami
+s4113,1,Sachin Kamlakar Khot
+s4114,1,Daniel Monzón
+s4116,1,Jon M. Chu
+s4118,1,Rayka Zehtabchi
+s4121,1,Steven Soderbergh
+s4122,1,Tom Stern
+s4124,1,Kelly Duane de la Vega
+s4125,1,Julio Medem
+s4129,1,Michael Showalter
+s4134,1,Johnny Kevorkian
+s4135,1,Amshan Kumar
+s4136,1,Adam Davis
+s4136,2,Jerry Kolber
+s4136,3,Trey Nelson
+s4136,4,Erich Sturm
+s4137,1,Hsu Chih-yen
+s4137,2,Mag Hsu
+s4139,1,Rick Morales
+s4140,1,Michael D. Black
+s4147,1,Dan Gilroy
+s4148,1,Mamat Khalid
+s4149,1,Pang Ho-cheung
+s4151,1,Amarjit Virdi
+s4152,1,Pankaj Batra
+s4153,1,Nishil Sheth
+s4154,1,Manny Rodriguez
+s4155,1,Byun Hyuk
+s4156,1,Zoe Berriatúa
+s4157,1,Adam Bhala Lough
+s4158,1,Faozan Rizal
+s4159,1,Mansore
+s4160,1,Hanung Bramantyo
+s4161,1,Kuntz Agus
+s4162,1,Hanung Bramantyo
+s4162,2,Meisa Felaroze
+s4165,1,Jerrold Tarog
+s4166,1,Laura Alvea
+s4166,2,José Ortuño
+s4170,1,Gastón Duprat
+s4174,1,Andy Caballero
+s4174,2,Diego Corsini
+s4175,1,Seren Yüce
+s4177,1,Chris Smith
+s4178,1,Jonathan Helpert
+s4181,1,André D'Elia
+s4182,1,Matías Gueilburt
+s4183,1,Ivan Ayr
+s4186,1,Skye Borgman
+s4187,1,Hashim Nadeem Khan
+s4189,1,Sarjun
+s4191,1,Feroz
+s4192,1,Syed Atif Ali
+s4193,1,Lee Seung-won
+s4194,1,Rik Reinholdtsen
+s4195,1,Rocky Soraya
+s4196,1,Rocky Soraya
+s4198,1,Gauravv K Chawla
+s4199,1,Dan Villegas
+s4204,1,Bent-Jorgen Perlmutt
+s4205,1,Hugo Stuven
+s4206,1,Greg Pritikin
+s4209,1,Kobun Shizuno
+s4209,2,Hiroyuki Seshita
+s4210,1,Kunal Kohli
+s4211,1,Noor Imran Mithu
+s4212,1,Nonzee Nimibutr
+s4213,1,Ísold Uggadóttir
+s4214,1,Lorena Munoz
+s4215,1,Genevieve Nnaji
+s4218,1,Terry Gilliam
+s4218,2,Terry Jones
+s4220,1,Yanyong Kuruaungkoul
+s4222,1,Lenin Bharathi
+s4223,1,Jay Chapman
+s4224,1,Kunihiko Yuyama
+s4225,1,Ranjit Jeyakodi
+s4226,1,Ram
+s4229,1,John Fortenberry
+s4230,1,John Fortenberry
+s4232,1,Chris Bould
+s4233,1,Chris Bould
+s4234,1,Kevin Booth
+s4234,2,David Johndrow
+s4235,1,Paul M. Green
+s4237,1,Julio Fernández Talamantes
+s4238,1,Walter C. Miller
+s4239,1,Walter C. Miller
+s4240,1,Walter C. Miller
+s4243,1,Paul Dugdale
+s4244,1,Noriyuki Abe
+s4245,1,Ellen Brown
+s4247,1,Matt Askem
+s4248,1,Matt Askem
+s4249,1,Jay Chapman
+s4250,1,Rob Zombie
+s4253,1,Álvaro Brechner
+s4256,1,Rakesh Mehta
+s4259,1,Eduardo Chauvet
+s4260,1,Gonzalo Bendala
+s4263,1,Noam Murro
+s4268,1,Kheiron
+s4269,1,Susanne Bier
+s4276,1,Irek Dobrowolski
+s4278,1,Gilbert Chan
+s4279,1,Rarecho
+s4281,1,Steve Cheng
+s4282,1,Sam Loh
+s4283,1,Jason Lai
+s4284,1,Samit Kakkad
+s4285,1,Joel Gallen
+s4285,2,Tig Notaro
+s4286,1,Prasobh Vijayan
+s4287,1,Jon Rosenbaum
+s4288,1,Sriram Raghavan
+s4290,1,Elaine Bogan
+s4290,2,John Sanford
+s4292,1,Michael Cuesta
+s4293,1,David Cronenberg
+s4294,1,Thom Zimny
+s4295,1,James Marsh
+s4296,1,Sean Olson
+s4298,1,Sigrid Andrea Bernardo
+s4300,1,Matt Askem
+s4302,1,Matt Askem
+s4303,1,Guillermo de Oliveira
+s4304,1,Manoj Beedha
+s4307,1,Alfonso Cuarón
+s4314,1,John Hoffman
+s4314,2,Nanfu Wang
+s4315,1,Marcus Raboy
+s4316,1,Marco Risi
+s4318,1,Anne Fletcher
+s4319,1,Marek Losey
+s4320,1,Andy Serkis
+s4322,1,Mat King
+s4323,1,Brian Oakes
+s4324,1,Jacob Joice
+s4325,1,Bert Marcus
+s4326,1,Chris Howe
+s4329,1,Ahsan Rahim
+s4330,1,Andrew Lau Wai-Keung
+s4331,1,Cheang Pou Soi
+s4332,1,Enrique García Meza
+s4333,1,Katarina Launing
+s4334,1,Johnnie To
+s4335,1,Lawrence Cheng
+s4336,1,Prakash Balwant Saini
+s4337,1,Nam Ron
+s4338,1,Johnnie To
+s4339,1,Johnnie To
+s4340,1,Baljit Singh Deo
+s4342,1,Leung Lok Man
+s4342,2,Luk Kim-ching
+s4343,1,Jazz Boon
+s4344,1,Andrew Lau Wai-Keung
+s4346,1,Felix Chong
+s4347,1,Dhanush
+s4349,1,Gary Mak
+s4350,1,Liu Jiang
+s4352,1,John Schultz
+s4353,1,Damien O’Connor
+s4355,1,Joseduardo Giordano
+s4355,2,Sergio Goyri Jr.
+s4356,1,Alice Rohrwacher
+s4358,1,Nandita Das
+s4359,1,Leena Yadav
+s4361,1,Romain Gavras
+s4362,1,Sebastián Hofmann
+s4365,1,Denny Lu
+s4365,2,Mike Myhre
+s4370,1,Clay Kaytis
+s4371,1,Fernando Colomo
+s4374,1,Robert Vince
+s4375,1,Rocky Soraya
+s4376,1,Raditya Dika
+s4378,1,David Paul Meyer
+s4379,1,Leslie Iwerks
+s4383,1,Daniel Goldhaber
+s4384,1,Fred Cavayé
+s4386,1,Joel Coen
+s4386,2,Ethan Coen
+s4389,1,V C Abhilash
+s4391,1,Justin G. Dyck
+s4392,1,Nila Madhab Panda
+s4393,1,Timo Tjahjanto
+s4394,1,Nakul Singh Sawhney
+s4395,1,Nishanth Ravindaran
+s4395,2,Jathin Sanker Raj
+s4396,1,Swapna Waghmare Joshi
+s4397,1,Aitor Arregi
+s4397,2,Jon Garaño
+s4398,1,Erik Matti
+s4399,1,Christopher Guest
+s4402,1,Vincent Kok
+s4403,1,Christian Zübert
+s4405,1,David Mackenzie
+s4412,1,Tejas Prabha Vijay Deoskar
+s4415,1,Matheus Souza
+s4417,1,Sara Dosa
+s4418,1,Bradley Walsh
+s4419,1,Orson Welles
+s4420,1,Morgan Neville
+s4421,1,Indrajit Nattoji
+s4422,1,Raj Kumar Gupta
+s4423,1,Remo D'Souza
+s4424,1,Remo D'Souza
+s4425,1,Arnab Chaudhuri
+s4426,1,Rana Ranbir
+s4427,1,Anurag Basu
+s4428,1,Ken Ghosh
+s4429,1,Justin G. Dyck
+s4430,1,Priyadarshan
+s4430,2,Kookie V. Gulati
+s4432,1,Vivek Agnihotri
+s4433,1,Umesh Shukla
+s4434,1,Habib Faisal
+s4435,1,Bobby Roth
+s4436,1,Halder Gomes
+s4438,1,Amitoj Mann
+s4439,1,Raj Kumar Gupta
+s4440,1,B. Unnikrishnan
+s4441,1,Milan Luthria
+s4442,1,Madhur Bhandarkar
+s4443,1,Sajid Khan
+s4444,1,Saji Surendran
+s4445,1,Ksshitij Chaudhary
+s4446,1,Abhishek Kapoor
+s4447,1,Sundar C.
+s4448,1,Gary Binkow
+s4449,1,Nikhil Advani
+s4450,1,Anurag Basu
+s4451,1,Lance Bangs
+s4452,1,Nishikant Kamat
+s4453,1,Navinder Pal Singh
+s4454,1,Raj Kumar Gupta
+s4455,1,Dibakar Banerjee
+s4456,1,Tigmanshu Dhulia
+s4457,1,Kunal Deshmukh
+s4458,1,Prakash Jha
+s4459,1,R. Kannan
+s4460,1,Gaurav Narayanan
+s4461,1,Kevin Layne
+s4463,1,Jennifer M. Kroot
+s4464,1,Akin Omotoso
+s4465,1,Shyam Benegal
+s4467,1,Satyajit Bhatkal
+s4468,1,Dani de la Torre
+s4469,1,Jerrold Tarog
+s4471,1,Wilson Yip
+s4472,1,Tinge Krishnan
+s4473,1,Aleksey German
+s4474,1,Sergio Barrejón
+s4476,1,Sandi Tan
+s4478,1,Vijay Yelakanti
+s4481,1,Vlad Yudin
+s4482,1,S.S. Rajamouli
+s4483,1,Steve Brill
+s4485,1,Don Michael Paul
+s4487,1,Joanna Lombardi
+s4487,2,Bruno Ascenzo
+s4491,1,Marcos Bucay
+s4493,1,Peter Lepeniotis
+s4494,1,Kim Jee-woon
+s4497,1,Rajesh Touchriver
+s4500,1,David Lam
+s4501,1,Timo Tjahjanto
+s4503,1,Thiru
+s4506,1,Tom Forrest
+s4507,1,Anik Datta
+s4508,1,Rajkumar Hirani
+s4510,1,Shaad Ali
+s4511,1,Gareth Evans
+s4513,1,Paul Urkijo Alijo
+s4514,1,Johanna Demetrakas
+s4515,1,Padraic McKinley
+s4516,1,Rizal Mantovani
+s4517,1,Kief Davidson
+s4520,1,Sara Colangelo
+s4523,1,Paul Greengrass
+s4525,1,Rusty Cundieff
+s4525,2,Darin Scott
+s4526,1,Stan Lathan
+s4527,1,Kabir Bhatia
+s4529,1,Chris Eigeman
+s4533,1,Olaf de Fleur
+s4534,1,Tamara Jenkins
+s4538,1,Kavi Raz
+s4539,1,Nick Simon
+s4540,1,Don Michael Paul
+s4541,1,Eric Idle
+s4541,2,Aubrey Powell
+s4542,1,Anthony Giordano
+s4544,1,Will Yapp
+s4545,1,Eric Idle
+s4546,1,Will Yapp
+s4548,1,Terry Hughes
+s4548,2,Ian MacNaughton
+s4549,1,Roger Graef
+s4549,2,James Rogan
+s4553,1,Terry Jones
+s4555,1,Ian MacNaughton
+s4556,1,Albert Sharpe
+s4557,1,Simranjit Singh Hundal
+s4558,1,Justin G. Dyck
+s4559,1,Ram Gopal Varma
+s4560,1,N. Linguswamy
+s4561,1,Deep Joshi
+s4562,1,Rakeysh Omprakash Mehra
+s4563,1,Anurag Kashyap
+s4564,1,Manjeet Maan
+s4565,1,Shagufta Rafique
+s4566,1,Shakun Batra
+s4567,1,Tinu Pappachan
+s4568,1,Amitoj Mann
+s4569,1,Amarpreet G S Chabbra
+s4570,1,Paresh Mokashi
+s4572,1,Anurag Basu
+s4573,1,Rohit Jugraj
+s4574,1,Ashutosh Gowariker
+s4575,1,Atharv Baluja
+s4576,1,Vishal Bhardwaj
+s4577,1,Rohit Jugraj
+s4578,1,Shashanka Ghosh
+s4579,1,Puneet Sira
+s4580,1,Aziz Mirza
+s4581,1,Renzil D'Silva
+s4582,1,Smeep Kang
+s4583,1,Sameer Sharma
+s4584,1,Chandan Arora
+s4585,1,Baljit Singh Deo
+s4586,1,Amitoj Mann
+s4587,1,Mysskin
+s4588,1,Rajan Madhav
+s4589,1,Raaghav Dar
+s4590,1,Ishi Rudell
+s4591,1,Ishi Rudell
+s4592,1,David Lee Miller
+s4593,1,Thiru
+s4594,1,Amit Saxena
+s4595,1,Pankaj Batra
+s4596,1,Jaivi Dhanda
+s4597,1,Suman Ghosh
+s4598,1,Kabir Khan
+s4599,1,Akshay Akkineni
+s4600,1,Nidhi Sharma
+s4601,1,Mastan Alibhai Burmawalla
+s4601,2,Abbas Alibhai Burmawalla
+s4602,1,Abbas Alibhai Burmawalla
+s4602,2,Mastan Alibhai Burmawalla
+s4603,1,Vipin Parashar
+s4604,1,Vikram Pradhan
+s4606,1,Vijay
+s4607,1,Eduardo Chauvet
+s4608,1,Sundar C.
+s4610,1,Sartaj Singh Pannu
+s4611,1,Vikramaditya Motwane
+s4612,1,N. Linguswamy
+s4613,1,Ayaan Mukherji
+s4614,1,Sidharth Malhotra
+s4615,1,Saket Behl
+s4616,1,Anjum Shahzad
+s4617,1,Ken Kwapis
+s4618,1,Monique Gardenberg
+s4619,1,Han Yan
+s4620,1,Jeremy Saulnier
+s4621,1,Kim A. Snyder
+s4625,1,Rocky Soraya
+s4626,1,Álvaro Longoria
+s4626,2,Gerardo Olivares
+s4627,1,Anthony Byrne
+s4631,1,Rashida Jones
+s4631,2,Alan Hicks
+s4642,1,Ariel Vromen
+s4643,1,Nicole Holofcener
+s4647,1,Alessio Cremonini
+s4650,1,Joram Lürsen
+s4654,1,Madeleine Gavin
+s4657,1,Kevin R. Adams
+s4657,2,Joe Ksander
+s4658,1,Ian Samuels
+s4660,1,Franck Ribière
+s4661,1,Rajkumar Hirani
+s4662,1,Jesse V. Johnson
+s4665,1,Peter Ho
+s4666,1,Olivier Marchal
+s4667,1,Qaushiq Mukherjee
+s4668,1,Onir
+s4669,1,Jatla Siddartha
+s4670,1,Kanwal Sethi
+s4672,1,Samuel Jouy
+s4676,1,Mateo Gil
+s4680,1,Shivam Nair
+s4681,1,Tanuja Chandra
+s4682,1,A.R. Murugadoss
+s4684,1,Jordan Brady
+s4685,1,Todd Biermann
+s4686,1,Patrick Graham
+s4687,1,Mike Clattenburg
+s4688,1,Han Qing
+s4689,1,Ian Edelman
+s4691,1,Ashwiny Iyer Tiwari
+s4692,1,Atlee Kumar
+s4693,1,Ravi Udyawar
+s4694,1,R. Balki
+s4695,1,Shree Narayan Singh
+s4698,1,Manuel Martín Cuenca
+s4699,1,Susan Johnson
+s4700,1,Y. Joon Chung
+s4701,1,Vikramaditya Motwane
+s4702,1,Rucha Humnabadkar
+s4706,1,Mike Newell
+s4707,1,Jake Szymanski
+s4708,1,Floyd Russ
+s4709,1,Alejandro Montiel
+s4713,1,Abhishek Varman
+s4714,1,Sabir Khan
+s4715,1,Nikhil Nagesh Bhat
+s4716,1,Xiaoxing Yi
+s4716,2,Yoshitaka Takeuchi
+s4716,3,Haoling Li
+s4719,1,Lauren Miller Rogen
+s4720,1,Vishal Bhardwaj
+s4721,1,Vikas Bahl
+s4721,2,Nitesh Tiwari
+s4722,1,Madhur Bhandarkar
+s4723,1,Abhishek Kapoor
+s4724,1,Khalid Mohamed
+s4725,1,Sanjay Leela Bhansali
+s4726,1,Vishal Bhardwaj
+s4727,1,Imtiaz Ali
+s4728,1,Punit Malhotra
+s4729,1,Shirish Kunder
+s4730,1,Prem Soni
+s4731,1,Ashutosh Gowariker
+s4732,1,Prakash Jha
+s4733,1,Rakeysh Omprakash Mehra
+s4734,1,Prabhu Deva
+s4735,1,Imtiaz Ali
+s4736,1,Mandeep Kumar
+s4737,1,Anees Bazmee
+s4738,1,Vishal Bhardwaj
+s4740,1,Jesse Handsher
+s4740,2,Olivier Roland
+s4741,1,Pablo Giorgelli
+s4746,1,Ted Emery
+s4747,1,Ted Emery
+s4749,1,Tony Datis
+s4750,1,Raúl Campos
+s4750,2,Jan Suter
+s4752,1,Ben Young
+s4754,1,Kirby Dick
+s4756,1,Abhishek Sharma
+s4757,1,Steve Paley
+s4758,1,Daniel Calparsoro
+s4761,1,Chris Jenkins
+s4766,1,Alexandre Avancini
+s4769,1,Alexis Morante
+s4770,1,Kobun Shizuno
+s4770,2,Hiroyuki Seshita
+s4771,1,Clay Glen
+s4774,1,David M. Rosenthal
+s4775,1,Scott Zabielski
+s4776,1,Diego Cohen
+s4780,1,Lee Eung-bok
+s4782,1,Raúl Campos
+s4782,2,Jan Suter
+s4783,1,Jody Hill
+s4784,1,Samu Fuentes
+s4785,1,Alexandre Espigares
+s4786,1,Kevin Layne
+s4787,1,Scott L. Montoya
+s4788,1,Scott L. Montoya
+s4789,1,Marcus Raboy
+s4790,1,Sam Voutas
+s4791,1,Raj Kaushal
+s4792,1,Bo Burnham
+s4792,2,Christopher Storer
+s4793,1,Aziz Mirza
+s4794,1,K.C. Bokadia
+s4795,1,Miguel Arteta
+s4796,1,Nila Madhab Panda
+s4797,1,Samir Soni
+s4798,1,Vipul Amrutlal Shah
+s4800,1,Juan Antonio de la Riva
+s4801,1,Kabir Sadanand
+s4802,1,Bert Marcus
+s4802,2,Cyrus Saidi
+s4803,1,Shlok Sharma
+s4804,1,Jay Karas
+s4806,1,Yayo Herrero
+s4807,1,Matt Palmer
+s4809,1,Raúl Campos
+s4809,2,Jan Suter
+s4811,1,Rodrigo Triana
+s4812,1,Elaine McMillion Sheldon
+s4813,1,Federico D'Alessandro
+s4815,1,Shannon Hartman
+s4817,1,Seiji Mizushima
+s4818,1,Myriam Aziza
+s4820,1,Gerard Barrett
+s4823,1,Rene Liu
+s4824,1,Madeleine Parry
+s4824,2,Jon Olb
+s4826,1,Zoya Akhtar
+s4826,2,Karan Johar
+s4826,3,Anurag Kashyap
+s4826,4,Dibakar Banerjee
+s4827,1,Oded Raz
+s4828,1,Mariana Tschudi
+s4828,2,Héctor Gálvez
+s4829,1,Claire Scanlon
+s4830,1,Ramón Salazar
+s4831,1,Eduardo Mendoza de Echave
+s4834,1,Craig Johnson
+s4835,1,Jeffrey Walker
+s4836,1,Ulises Valencia
+s4840,1,Shadab Khan
+s4841,1,Nattawut Poonpiriya
+s4843,1,Lynn Shelton
+s4844,1,Felix Starck
+s4848,1,Norberto López Amado
+s4850,1,Raúl Campos
+s4850,2,Jan Suter
+s4851,1,Alex Richanbach
+s4852,1,Marcus Raboy
+s4855,1,Tig Notaro
+s4856,1,Kagiso Lediga
+s4859,1,Brit McAdams
+s4860,1,Mercedes Cordova
+s4861,1,Neeraj Pandey
+s4862,1,Hayao Miyazaki
+s4864,1,Jay Karas
+s4865,1,Anthony Abrams
+s4865,2,Adam Larson Broder
+s4867,1,Raúl Campos
+s4867,2,Jan Suter
+s4868,1,Trey Borzillieri
+s4868,2,Barbara Schroeder
+s4869,1,Vince Marcello
+s4871,1,Bobcat Goldthwait
+s4872,1,Dani Levy
+s4873,1,Sonny Mallhi
+s4874,1,Robert Vince
+s4876,1,Andrew Niccol
+s4877,1,Isabelle Nanty
+s4878,1,Rob Epstein
+s4878,2,Jeffrey Friedman
+s4879,1,Antonio Morabito
+s4881,1,Rene Bueno
+s4882,1,John Woo
+s4883,1,Patricia Ferreira
+s4884,1,Fernando Ayllón
+s4885,1,Jimmy Henderson
+s4886,1,Devashish Makhija
+s4887,1,Amal Neerad
+s4888,1,Fluvio Iannuci
+s4888,2,Roly Santos
+s4889,1,Julius R. Nasso
+s4890,1,Lucas Figueroa
+s4891,1,Alex Timbers
+s4892,1,Justin G. Dyck
+s4894,1,Alfonso Rodríguez
+s4898,1,Guillermo Garcia
+s4898,2,David Cantolla
+s4900,1,Priyadarshan
+s4902,1,Dito Montiel
+s4903,1,Vicente Villanueva
+s4905,1,Amit Roy
+s4906,1,Teddy Lussi-Modeste
+s4907,1,Dawn Porter
+s4908,1,Ben Shelton
+s4910,1,Curro Velázquez
+s4912,1,Laura Brownson
+s4913,1,Robert Smigel
+s4916,1,Max Amini
+s4917,1,Jason Sussberg
+s4917,2,David Alvarado
+s4918,1,Célia Catunda
+s4918,2,Kiko Mistrorigo
+s4918,3,Rodrigo Eba
+s4919,1,Sang-ho Yeon
+s4920,1,Andy Fickman
+s4921,1,Olivia Milch
+s4922,1,Mark Raso
+s4923,1,David Sington
+s4923,2,Heather Walsh
+s4924,1,Pedro Coutinho
+s4928,1,Liam O'Donnell
+s4929,1,Joshua Marston
+s4930,1,Eleonore Pourriat
+s4932,1,Peter Webber
+s4933,1,Peter Orton
+s4935,1,Marja Lewis Ryan
+s4936,1,Ryan Koo
+s4937,1,Hatem Khraiche
+s4938,1,Derek Peck
+s4939,1,Ryan Polito
+s4940,1,Jennifer Morrison
+s4941,1,Raúl Campos
+s4941,2,Jan Suter
+s4944,1,Hèctor Hernández Vicens
+s4945,1,Kader Aoun
+s4946,1,Abhay Chopra
+s4948,1,Diego Lerman
+s4949,1,Priyadarshan
+s4951,1,Ryan Polito
+s4953,1,Farah Khan
+s4954,1,Ananda Krishnan
+s4955,1,Farah Khan
+s4956,1,Amol Palekar
+s4957,1,Aziz Mirza
+s4959,1,Joe Miale
+s4960,1,Olivia Newman
+s4961,1,Jared Stern
+s4963,1,Raúl Campos
+s4963,2,Jan Suter
+s4964,1,Lennart Ruff
+s4966,1,Mike Clattenburg
+s4967,1,Mike Clattenburg
+s4969,1,Dan Lucchesi
+s4970,1,Mikhail Red
+s4971,1,Kyle Newacheck
+s4972,1,Mijke de Jong
+s4973,1,Daryl Hannah
+s4975,1,Michael Larnell
+s4976,1,Advait Chandan
+s4978,1,Brandon Camp
+s4980,1,Alison Klayman
+s4982,1,Yoo Byung-jae
+s4983,1,Sunao Katabuchi
+s4984,1,Johan Brisinger
+s4987,1,Maria Sadowska
+s4988,1,Yang Woo-seok
+s4990,1,John L. Spencer
+s4991,1,Victor Cook
+s4992,1,Kazuya Murata
+s4994,1,Martin Zandvliet
+s4996,1,Uraaz Bahl
+s4997,1,Paul Solet
+s4997,2,Rick Benattar
+s4999,1,Michael Simon
+s5000,1,Ben Wallis
+s5002,1,Raúl Campos
+s5002,2,Jan Suter
+s5003,1,Raúl Campos
+s5003,2,Jan Suter
+s5004,1,Robin Aubert
+s5007,1,Mitch Gould
+s5008,1,Mani Ratnam
+s5009,1,Mani Ratnam
+s5010,1,David Dhawan
+s5011,1,RZA
+s5012,1,Lars Büchel
+s5013,1,Amit Barot
+s5014,1,Carlo Padial
+s5015,1,Ashutosh Gowariker
+s5016,1,Mike Smith
+s5016,2,John Paul Tremblay
+s5016,3,Robb Wells
+s5017,1,Mike Smith
+s5017,2,John Paul Tremblay
+s5017,3,Robb Wells
+s5018,1,Mike Smith
+s5018,2,John Paul Tremblay
+s5018,3,Robb Wells
+s5019,1,Mike Clattenburg
+s5020,1,Mike Clattenburg
+s5021,1,Milind Dhaimade
+s5022,1,Mani Ratnam
+s5023,1,Hong-seon Kim
+s5025,1,Marcus Raboy
+s5026,1,Paco Plaza
+s5029,1,Duncan Jones
+s5032,1,Hang-Jun Jang
+s5034,1,Fumihiko Sori
+s5035,1,Mariano Baez
+s5038,1,Stephanie Laing
+s5040,1,Bo Burnham
+s5041,1,Anand Tiwari
+s5042,1,Roberta Grossman
+s5042,2,Sophie Sartain
+s5043,1,David Bruckner
+s5044,1,Tamta Gabrichidze
+s5045,1,Ari Sandel
+s5046,1,Lance Bangs
+s5048,1,Julius Onah
+s5050,1,Michael McKay
+s5051,1,Ildiko Enyedi
+s5052,1,You-Jeong Chang
+s5054,1,Drake Doremus
+s5055,1,Dan Forrer
+s5056,1,Selima Taibi
+s5057,1,Marty Callner
+s5059,1,Javier Ambrossi
+s5059,2,Javier Calvo
+s5060,1,David Wain
+s5061,1,Michael McKay
+s5063,1,Raúl Campos
+s5063,2,Jan Suter
+s5065,1,Isaac Florentine
+s5067,1,Raúl Campos
+s5067,2,Jan Suter
+s5068,1,Scott Moran
+s5069,1,Santiago Diaz
+s5069,2,Pablo Martin Farina
+s5072,1,Michael McKay
+s5073,1,Charles Stone III
+s5074,1,Matt Angel
+s5074,2,Suzanne Coote
+s5075,1,Chris Baugh
+s5077,1,Raúl Campos
+s5077,2,Jan Suter
+s5078,1,Kobun Shizuno
+s5078,2,Hiroyuki Seshita
+s5080,1,Latif Faiziyev
+s5080,2,Umesh Mehra
+s5081,1,Rajiv Mehra
+s5082,1,Rhiannon Bannenberg
+s5084,1,David Mrnka
+s5085,1,Maya Forbes
+s5086,1,Choi Jin-seong
+s5087,1,Jay Karas
+s5089,1,Milind Rau
+s5092,1,Mike Flanagan
+s5093,1,Masaaki Yuasa
+s5094,1,Craig Elrod
+s5095,1,Jose Manuel Colón
+s5097,1,Yasuhiro Irie
+s5101,1,Stan Lathan
+s5102,1,Alethea Jones
+s5103,1,Jay Baruchel
+s5105,1,Ludovic Bernard
+s5107,1,Detlev Buck
+s5108,1,Noël Wells
+s5109,1,Jay Chapman
+s5111,1,Patrick Brice
+s5112,1,Daniel Kontur
+s5114,1,David Ayer
+s5115,1,Diego Kaplan
+s5116,1,Marco Deufemia
+s5116,2,Justin G. Dyck
+s5117,1,Lydia Tenaglia
+s5118,1,Peter Orton
+s5122,1,Ernie Barbarash
+s5123,1,Varun Narvekar
+s5124,1,Seth Henrikson
+s5125,1,Benson Lee
+s5128,1,Marcus Raboy
+s5130,1,David E. Talbert
+s5131,1,Umesh Mehra
+s5132,1,Latif Faiziyev
+s5132,2,Umesh Mehra
+s5133,1,Drew Heriot
+s5134,1,Joel Crawford
+s5135,1,Jay Chapman
+s5136,1,Imtiaz Ali
+s5137,1,Michael Barrett
+s5138,1,Evan Spiridellis
+s5138,2,Jeff Gill
+s5143,1,Leopoldo Aguilar
+s5144,1,Nana Ekvtimishvili
+s5144,2,Simon Gross
+s5145,1,Olivier Jean-Marie
+s5147,1,Ali F. Mostafa
+s5149,1,Myles Kane
+s5149,2,Josh Koury
+s5152,1,Shreyas Talpade
+s5153,1,Jon Alpert
+s5154,1,Ibai Abad
+s5157,1,David Ayer
+s5159,1,Barbra Streisand
+s5159,2,Jim Gable
+s5161,1,Josh Wakely
+s5162,1,Troy Miller
+s5163,1,Jacob Kornbluth
+s5164,1,Alex Zamm
+s5165,1,Chris Smith
+s5168,1,Dee Rees
+s5172,1,Marcus Raboy
+s5173,1,Alain Desrochers
+s5175,1,Go Koga
+s5177,1,Raúl Campos
+s5177,2,Jan Suter
+s5178,1,Marcelo Galvão
+s5180,1,Christian Charles
+s5182,1,Bronwen Hughes
+s5183,1,John Ridley
+s5184,1,Anees Bazmee
+s5185,1,Pali Yahya
+s5187,1,Alo Sarkar
+s5188,1,Iñaki Dorronsoro
+s5189,1,Ali Bin Matar
+s5189,2,Ibrahim Bin Mohamed
+s5190,1,Ali Samadi Ahadi
+s5191,1,D Ho
+s5197,1,Judah Friedlander
+s5198,1,Errol Morris
+s5199,1,Alex Israel
+s5200,1,Robert Vince
+s5202,1,Griffin Dunne
+s5203,1,Katherine Dieckmann
+s5204,1,Quentin Tarantino
+s5205,1,Brian Klein
+s5208,1,Zak Hilditch
+s5210,1,Heidi Ewing
+s5210,2,Rachel Grady
+s5212,1,Jeremy Rush
+s5213,1,Reem Kherici
+s5214,1,Bobcat Goldthwait
+s5215,1,Milan Luthria
+s5218,1,Ranjit Tiwari
+s5219,1,David Stubbs
+s5221,1,Shakti Samanta
+s5223,1,Mahmoud al Massad
+s5224,1,Yesim Ustaoglu
+s5225,1,Jan Suter
+s5226,1,Lucy Cohen
+s5227,1,McG
+s5228,1,Noah Baumbach
+s5229,1,Mahmoud Sabbagh
+s5230,1,Borja Cobeaga
+s5231,1,Jay Karas
+s5234,1,David France
+s5235,1,Brandon Jones
+s5236,1,Geun-hyun Cho
+s5239,1,Carlos Therón
+s5240,1,Francesco Carrozzini
+s5241,1,Vlad Yudin
+s5242,1,Karen J. Lloyd
+s5249,1,Vibeke Idsøe
+s5250,1,Carlos Algara
+s5250,2,Alejandro Martinez-Beltran
+s5253,1,Mike Flanagan
+s5254,1,Jacob LaMendola
+s5256,1,Ritesh Batra
+s5257,1,Dylan Howitt
+s5261,1,Nabil Ayouch
+s5262,1,Louis J. Horvitz
+s5265,1,Warren P. Sonoda
+s5266,1,Álex de la Iglesia
+s5267,1,Chris Moukarbel
+s5268,1,Ana Lily Amirpour
+s5269,1,Michael Bonfiglio
+s5270,1,Conrad Helten
+s5271,1,Angelina Jolie
+s5272,1,Yance Ford
+s5274,1,Ben Wallis
+s5276,1,Elaine McMillion Sheldon
+s5277,1,Michael Simon
+s5278,1,Fernando Lebrija
+s5280,1,Rodrigo Toro
+s5280,2,Francisco Schultz
+s5282,1,José Miguel Contreras
+s5283,1,Susan Johnson
+s5284,1,Lynn Shelton
+s5291,1,Rajiv Mehra
+s5293,1,Toshiyuki Kubooka
+s5294,1,Toshiyuki Kubooka
+s5295,1,Todd S. Yellin
+s5297,1,Rajiv Mehra
+s5301,1,Mohammed Hussain
+s5303,1,Eli Craig
+s5304,1,Shammi Kapoor
+s5305,1,Umesh Mehra
+s5307,1,Florian Schnell
+s5308,1,Josh Izenberg
+s5308,2,Wynn Padula
+s5309,1,Thierry Demaizière
+s5309,2,Alban Teurlai
+s5310,1,Latif Faiziyev
+s5310,2,Umesh Mehra
+s5311,1,Gastón Duprat
+s5311,2,Mariano Cohn
+s5312,1,Gary Wang
+s5313,1,Raz Degan
+s5314,1,Israel Adrián Caetano
+s5315,1,Mariano Cohn
+s5315,2,Gastón Duprat
+s5316,1,Marcus Raboy
+s5317,1,Sarah Adina Smith
+s5318,1,Cate Shortland
+s5319,1,Adam Wingard
+s5320,1,Marcus Raboy
+s5323,1,Daniel Lindsay
+s5323,2,T.J. Martin
+s5324,1,Tommy Wirkola
+s5326,1,Jay Chapman
+s5327,1,Jay Chapman
+s5329,1,Peter Hutchings
+s5330,1,Jean-Claude La Marre
+s5331,1,Jorge Hernandez Aldana
+s5332,1,Michael Tiddes
+s5333,1,Will Canon
+s5334,1,Ernie Barbarash
+s5335,1,S.S. Rajamouli
+s5336,1,S.S. Rajamouli
+s5337,1,S.S. Rajamouli
+s5338,1,S.S. Rajamouli
+s5339,1,S.S. Rajamouli
+s5340,1,S.S. Rajamouli
+s5341,1,Rob Silvestri
+s5342,1,Matthias Hoene
+s5343,1,Raúl Campos
+s5343,2,Jan Suter
+s5344,1,Bryan Fogel
+s5345,1,Fabrice Du Welz
+s5347,1,Fernando González Molina
+s5352,1,John Butler
+s5354,1,Ali Scher
+s5358,1,Maz Jobrani
+s5359,1,Isaac Rentz
+s5360,1,Clay Glen
+s5362,1,Christopher Murray
+s5365,1,Claude Lelouch
+s5368,1,Vanessa Roth
+s5369,1,Jim Strouse
+s5370,1,Daniel Gray Longino
+s5371,1,Kasper Collin
+s5372,1,Fazila Allana
+s5373,1,Eric Abrams
+s5374,1,Agustí Villaronga
+s5375,1,Esteban Crespo
+s5376,1,Harry Chaskin
+s5377,1,Jeff Orlowski
+s5378,1,Marti Noxon
+s5379,1,Jay Chapman
+s5380,1,Jay Chapman
+s5382,1,Stefan Brogren
+s5386,1,Pat Healy
+s5388,1,Nicolas Brossette
+s5389,1,Serdar Akar
+s5390,1,Clay Glen
+s5392,1,Lekh Tandon
+s5395,1,Doesjka van Hoogdalem
+s5397,1,Sushil Majumdar
+s5399,1,Geetu Mohandas
+s5401,1,Lekh Tandon
+s5403,1,Paulo Oriol
+s5409,1,Umesh Mehra
+s5412,1,Oskar Santos
+s5416,1,Bong Joon Ho
+s5417,1,Bill D'Elia
+s5418,1,Justin Kelly
+s5419,1,Brian Knappenberger
+s5420,1,Brent Bonacorso
+s5421,1,Nitesh Tiwari
+s5424,1,Roy Burdine
+s5424,2,Johnny Castuciano
+s5425,1,Scott Moran
+s5427,1,Jay Bulger
+s5428,1,Kip Andersen
+s5428,2,Keegan Kuhn
+s5429,1,Iginio Straffi
+s5430,1,Arun Chidambaram
+s5431,1,Caio Cobra
+s5432,1,Cal Seville
+s5433,1,Michael John Warren
+s5436,1,Chang-Min Lee
+s5441,1,Oren Uziel
+s5442,1,Manika Sharma
+s5443,1,Timo Tjahjanto
+s5443,2,Kimo Stamboel
+s5444,1,Salvador Calvo
+s5447,1,Jun-seong Kim
+s5448,1,Umesh Mehra
+s5449,1,Edward Cotterill
+s5450,1,Onur Tukel
+s5451,1,Cal Seville
+s5452,1,Edward Cotterill
+s5453,1,Jayaprakash Radhakrishnan
+s5454,1,Rob Meyer
+s5455,1,Anita Barbosa
+s5456,1,Ketan Mehta
+s5457,1,Daniel Wilner
+s5461,1,Ketan Mehta
+s5462,1,Lekh Tandon
+s5463,1,Umesh Mehra
+s5464,1,Alberto Rodríguez
+s5467,1,Edward Cotterill
+s5468,1,Cosima Spender
+s5469,1,Liam Lynch
+s5470,1,Vishal Bhardwaj
+s5472,1,Joe Piscatella
+s5473,1,Rahul Dholakia
+s5474,1,David Michôd
+s5475,1,Jean-Patrick Benes
+s5476,1,Christopher Storer
+s5477,1,Hiroyuki Seshita
+s5479,1,Lygia Barbosa da Silva
+s5479,2,Eliane Brum
+s5481,1,Ryan Polito
+s5482,1,Rajiv Mehra
+s5483,1,Kundan Shah
+s5484,1,So Yong Kim
+s5485,1,Alina Teodorescu
+s5486,1,Rajiv Mehra
+s5487,1,Filip Renc
+s5488,1,Andy Tennant
+s5490,1,Dylan Bank
+s5490,2,Daniel DiMauro
+s5490,3,Morgan Pehme
+s5491,1,Sean Foley
+s5492,1,Pierre Coré
+s5493,1,Liz Plonka
+s5494,1,Jeff Garlin
+s5496,1,Jan Suter
+s5496,2,Raúl Campos
+s5497,1,Michael Barnett
+s5498,1,Jessica Yu
+s5499,1,K. Rajagopal
+s5500,1,Mahesh Bhatt
+s5501,1,Praveen Nischol
+s5502,1,Lucien Jean-Baptiste
+s5503,1,Jalil Lespert
+s5504,1,Edward Cotterill
+s5505,1,Sean Cisterna
+s5506,1,Sudhanshu Saria
+s5507,1,Dilip Mehta
+s5508,1,Isaki Lacuesta
+s5508,2,Isa Campo
+s5509,1,Kitty Green
+s5512,1,Spike Lee
+s5513,1,Evan Katz
+s5516,1,Gauri Shinde
+s5517,1,Oliver Schmitz
+s5518,1,Felix Herngren
+s5518,2,Måns Herngren
+s5519,1,Marcus Raboy
+s5522,1,Jill Bauer
+s5522,2,Ronna Gradus
+s5522,3,Rashida Jones
+s5523,1,Fernando Coimbra
+s5525,1,Adam Leon
+s5526,1,Jay Chapman
+s5527,1,Detlev Buck
+s5528,1,Detlev Buck
+s5529,1,Detlev Buck
+s5530,1,Andrea Molaioli
+s5531,1,Kemi Adetiba
+s5532,1,Marie Madinier
+s5533,1,Miguel Ángel Lamata
+s5534,1,Steven Brill
+s5535,1,Antonio Serrano
+s5536,1,Leslie Small
+s5537,1,Grant S. Johnson
+s5537,2,Ippsie Jones
+s5540,1,Gerardo Olivares
+s5541,1,Joe Swanberg
+s5542,1,Louis C.K.
+s5544,1,Alexandre Reinecke
+s5545,1,Jamal Hill
+s5546,1,K. Ramanlal
+s5547,1,Maris Curran
+s5548,1,Avinash Arun
+s5549,1,Jason Spingarn-Koff
+s5550,1,A. Salaam
+s5551,1,Eduardo Casanova
+s5552,1,Daniel Burman
+s5553,1,Kike Maíllo
+s5555,1,Laurent Bouzereau
+s5556,1,Gordon Anderson
+s5557,1,Charlie McDowell
+s5558,1,Shannon Hartman
+s5560,1,Diego Pignataro
+s5561,1,Meghan O'Hara
+s5562,1,Tommy O'Haver
+s5563,1,Stan Lathan
+s5565,1,Lonny Price
+s5566,1,Sydney Freeland
+s5569,1,Jung-woo Park
+s5571,1,James Ivory
+s5572,1,Santosh Sivan
+s5573,1,Erik Canuel
+s5574,1,Peter Middleton
+s5574,2,James Spinney
+s5575,1,Shashilal K. Nair
+s5577,1,Shannon Hartman
+s5578,1,Marcel Barrena
+s5580,1,Gerard McMurray
+s5582,1,Yılmaz Erdoğan
+s5583,1,Amy Schumer
+s5585,1,Selvamani Selvaraj
+s5587,1,Seth Barrish
+s5587,2,Mike Birbiglia
+s5588,1,Abhinay Deo
+s5589,1,Lô Politi
+s5590,1,Tomas Portella
+s5591,1,Macon Blair
+s5595,1,David Paul Meyer
+s5596,1,Mar Targarona
+s5597,1,Keith Scholey
+s5598,1,Juan Pablo Buscarini
+s5600,1,Nishikant Kamat
+s5601,1,Thomas Stuber
+s5603,1,Sam Dunn
+s5603,2,Scot McFadyen
+s5605,1,Raúl Arévalo
+s5606,1,Matías Bize
+s5607,1,Michael Paul Stephenson
+s5608,1,Colin Dench
+s5611,1,Ricky Gervais
+s5613,1,Joachim Fest
+s5613,2,Christian Herrendoerfer
+s5614,1,Scott Aukerman
+s5614,2,Akiva Schaffer
+s5615,1,Raúl Campos
+s5615,2,Jan Suter
+s5616,1,Malik Vitthal
+s5617,1,Rohit Shetty
+s5618,1,Farah Khan
+s5619,1,Shlok Sharma
+s5620,1,Joaquín Mazón
+s5621,1,Jonás Trueba
+s5622,1,Peter DeLuise
+s5623,1,Jay Karas
+s5624,1,Alejandra Márquez Abella
+s5625,1,Sébastien Betbeder
+s5626,1,Adam Randall
+s5627,1,Marco Dutra
+s5628,1,Marcus Raboy
+s5629,1,Mario Rouleau
+s5630,1,Aniruddha Roy Chowdhury
+s5631,1,Chester Tam
+s5632,1,Neal Brennan
+s5633,1,Hannes Stöhr
+s5634,1,Andreas Prochaska
+s5635,1,Maximilian Erlenwein
+s5636,1,Burhan Qurbani
+s5637,1,Hubert Woroniecki
+s5638,1,Alistair Legrand
+s5639,1,Mir-Jean Bou Chaaya
+s5640,1,Jeannie Gaffigan
+s5642,1,Babak Anvari
+s5643,1,Emily Hagins
+s5644,1,Greg Richardson
+s5645,1,Uwe Boll
+s5646,1,Mitch Schauer
+s5647,1,Lance Bangs
+s5648,1,Rohit Mittal
+s5649,1,Steve Hickner
+s5649,2,Simon J. Smith
+s5650,1,Jalil Lespert
+s5652,1,Abhishek Chaubey
+s5653,1,Diego Luna
+s5657,1,Jorge Michel Grau
+s5658,1,Riki Lindhome
+s5658,2,Jeremy Konner
+s5660,1,Thomas Astruc
+s5661,1,Manny Rodriguez
+s5662,1,Vikram Gandhi
+s5664,1,Sean Hanish
+s5665,1,Sinan Akkuş
+s5667,1,Matt Bell
+s5675,1,James Hawes
+s5677,1,Elite Zexer
+s5679,1,Raúl Campos
+s5679,2,Jan Suter
+s5680,1,Alex Lehmann
+s5682,1,James Yukich
+s5683,1,Nic Mathieu
+s5686,1,Chris Kelly
+s5688,1,Alex Lehmann
+s5689,1,Roman Gackowski
+s5690,1,Benjamin Dickinson
+s5692,1,Sacha Wolff
+s5694,1,Adam Nimoy
+s5695,1,Elizabeth Wood
+s5696,1,Robert McCullough Jr.
+s5697,1,Shrihari Sathe
+s5698,1,Ralph Macchio
+s5699,1,Ricardo Maldonado
+s5702,1,Vetrimaaran
+s5703,1,Linas Phillips
+s5705,1,Jeff Margolis
+s5706,1,Bauddhayan Mukherji
+s5707,1,María Jose Cuevas
+s5709,1,Oz Rodriguez
+s5710,1,Chris Sparling
+s5711,1,Qaushiq Mukherjee
+s5712,1,Jan Suter
+s5712,2,Raúl Campos Delgado
+s5713,1,Shannon Hartman
+s5713,2,Michelle Caputo
+s5714,1,Jerry Seinfeld
+s5715,1,Houda Benyamina
+s5718,1,Volker Weicker
+s5719,1,Manjeet Singh
+s5720,1,Jeff Wadlow
+s5722,1,Lorene Machado
+s5725,1,Marcus Raboy
+s5726,1,Kief Davidson
+s5726,2,Richard Ladkani
+s5727,1,Richard Mears
+s5734,1,Heidi Ewing
+s5734,2,Rachel Grady
+s5735,1,Moto Sakakibara
+s5736,1,Emilio Martínez Lázaro
+s5737,1,Robert Vince
+s5738,1,Osgood Perkins
+s5739,1,Werner Herzog
+s5740,1,Julien Rambaldi
+s5741,1,Yvan Attal
+s5743,1,Benjamin Weill
+s5744,1,Roger Gual
+s5746,1,Anthony Giordano
+s5747,1,Thomas Sorriaux
+s5748,1,Toshiyuki Kubooka
+s5749,1,Noriyuki Abe
+s5750,1,Noriyuki Abe
+s5751,1,Clovis Cornillac
+s5755,1,Kevin MacDonald
+s5756,1,Christopher Guest
+s5757,1,Jonathan Demme
+s5758,1,Ava DuVernay
+s5759,1,Dave Higby
+s5761,1,Richie Smyth
+s5762,1,Michael D. Black
+s5765,1,Riccardo Pilizzeri
+s5766,1,Guilherme Fontes
+s5768,1,Aamir Bashir
+s5771,1,Alejandro Fernández Almendras
+s5773,1,Álex de la Iglesia
+s5774,1,Ishi Rudell
+s5775,1,David Schalko
+s5777,1,Pieter Kuijpers
+s5779,1,Prashant Nair
+s5780,1,Paul Taublieb
+s5780,2,Jon Freeman
+s5781,1,Riccardo Milani
+s5783,1,Rod Blackhurst
+s5783,2,Brian McGinn
+s5784,1,Bonni Cohen
+s5784,2,Jon Shenk
+s5785,1,Bobcat Goldthwait
+s5793,1,Tony Elliott
+s5794,1,Troy Miller
+s5795,1,Louis C.K.
+s5796,1,Orlando von Einsiedel
+s5797,1,Dan Forrer
+s5798,1,Dan Krauss
+s5809,1,Jay Karas
+s5810,1,Christopher Louie
+s5811,1,Justin Krook
+s5814,1,Louis C.K.
+s5816,1,Michael Drumm
+s5817,1,Troy Miller
+s5818,1,Jay Karas
+s5819,1,Jay Chapman
+s5820,1,Alex Coletti
+s5821,1,Michael Drumm
+s5822,1,John Smithson
+s5825,1,Christopher Martin
+s5827,1,Tom Whitter
+s5829,1,Sian Heder
+s5831,1,Karl Mueller
+s5832,1,Joe Berlinger
+s5833,1,Allan Ungar
+s5834,1,Qaushiq Mukherjee
+s5835,1,Tensai Okamura
+s5836,1,Ryan Polito
+s5838,1,Hemant Gaba
+s5838,2,Pratim D. Gupta
+s5838,3,Sudhish Kamath
+s5838,4,Nalan Kumarasamy
+s5838,5,Anu Menon
+s5838,6,Sandeep Mohan
+s5838,7,Qaushiq Mukherjee
+s5838,8,Rajshree Ojha
+s5838,9,Raja Sen
+s5838,10,Abhinav Shiv Tiwari
+s5838,11,Suparn Verma
+s5840,1,Raúl Campos
+s5840,2,Jan Suter
+s5841,1,Rob Burnett
+s5842,1,Wilson Yip
+s5843,1,Bo Burnham
+s5843,2,Christopher Storer
+s5847,1,Steven Brill
+s5848,1,Jay Karas
+s5849,1,Ricky Gervais
+s5850,1,Jon Greenhalgh
+s5852,1,Felix Van Groeningen
+s5852,2,Felix van Groeningen
+s5853,1,Mike Flanagan
+s5855,1,G.J. Echternkamp
+s5858,1,Rodolphe Guenoden
+s5859,1,Jason Krawczyk
+s5860,1,Sam Wrench
+s5861,1,Sophie Robinson
+s5861,2,Lotje Sodderland
+s5862,1,John Lee
+s5865,1,Yuen Wo-Ping
+s5866,1,Mitch Schauer
+s5869,1,Lance Bangs
+s5873,1,Raúl Campos
+s5873,2,Jan Suter
+s5874,1,Wilson Yip
+s5875,1,Wilson Yip
+s5876,1,Jay Karas
+s5877,1,Alik Sakharov
+s5879,1,L. Frazier
+s5880,1,Frank Coraci
+s5881,1,Gary Howsam
+s5881,2,Mike Smith
+s5881,3,John Paul Tremblay
+s5881,4,Robb Wells
+s5882,1,Sofia Coppola
+s5884,1,Kristin Hanggi
+s5885,1,Rhys Thomas
+s5887,1,J. Davis
+s5888,1,Chris Buck
+s5888,2,Jennifer Lee
+s5888,3,Patrick Osborne
+s5888,4,Lauren MacMullan
+s5888,5,John Kahrs
+s5888,6,Nathan Greno
+s5888,7,Byron Howard
+s5888,8,Stevie Wermers
+s5888,9,Dean Wellins
+s5888,10,Kevin Deters
+s5888,11,Roger Allers
+s5888,12,Mike Gabriel
+s5888,13,Mark Henn
+s5889,1,Eli Roth
+s5890,1,Andrew Bujalski
+s5891,1,Adam Dubin
+s5892,1,Cary Joji Fukunaga
+s5893,1,Aaron Hann
+s5893,2,Mario Miscione
+s5894,1,Evgeny Afineevsky
+s5895,1,Jay Karas
+s5897,1,Morgan Neville
+s5898,1,Kip Andersen
+s5898,2,Keegan Kuhn
+s5899,1,Hannah Fidell
+s5900,1,Jay Karas
+s5902,1,Kristina Goolsby
+s5902,2,Ashley York
+s5904,1,Patrick Brice
+s5905,1,Phil Joanou
+s5906,1,Anthony Pierce
+s5907,1,Liz Garbus
+s5908,1,Jennifer Phang
+s5910,1,Luis Estrada
+s5911,1,Jill Bauer
+s5911,2,Ronna Gradus
+s5912,1,Lance Bangs
+s5913,1,Mike Fleiss
+s5914,1,Bill D'Elia
+s5916,1,Aziz Ansari
+s5917,1,David Sampliner
+s5918,1,John Asher
+s5922,1,Jay Karas
+s5925,1,Lance Bangs
+s5926,1,Orlando von Einsiedel
+s5927,1,Katy Chevigny
+s5927,2,Ross Kauffman
+s5928,1,Wyatt Cenac
+s5929,1,James Yukich
+s5930,1,Luis Lopez
+s5930,2,Clay Tweel
+s5931,1,Robert Nixon
+s5931,2,Fisher Stevens
+s5932,1,Chapman Way
+s5932,2,Maclain Way
+s5933,1,Werner Herzog
+s5935,1,Greg Whiteley
+s5936,1,Jehane Noujaim
+s5937,1,Jason Moore
+s5938,1,Josh Greenbaum
+s5939,1,Will Lovelace
+s5939,2,Dylan Southern
+s5942,1,Constance Marks
+s5943,1,Larry Elikann
+s5944,1,Robert Markowitz
+s5945,1,Eric Laneuville
+s5946,1,Joel Oliansky
+s5947,1,Roy Campanella II
+s5948,1,Arthur Allan Seidelman
+s5949,1,John Herzfeld
+s5950,1,Buzz Kulik
+s5951,1,Richard Michaels
+s5952,1,Linda Otto
+s5953,1,Roger Young
+s5954,1,Rob LaDuca
+s5954,2,Robert C. Ramirez
+s5955,1,Icíar Bollaín
+s5956,1,Joe Dante
+s5957,1,Ole Bornedal
+s5958,1,Sorin Dan Mihalcescu
+s5959,1,Shane Acker
+s5960,1,Robert Luketic
+s5961,1,Kevin Reynolds
+s5962,1,Shravan Kumar
+s5963,1,Vikram Bhatt
+s5964,1,Kunle Afolayan
+s5966,1,Paul Greengrass
+s5967,1,Swapnaneel Jayakar
+s5969,1,Vijay Milton
+s5970,1,Santwana Bardoloi
+s5971,1,Atanu Ghosh
+s5972,1,Lyric R. Cabral
+s5972,2,David Felix Sutcliffe
+s5973,1,Michael Margolis
+s5974,1,Michael Kennedy
+s5976,1,Óskar Thór Axelsson
+s5977,1,Ozan Açıktan
+s5978,1,Karyn Kusama
+s5980,1,Adam Deyoe
+s5981,1,Leif Tilden
+s5982,1,Roland Emmerich
+s5984,1,Melinda Janko
+s5986,1,Sam Upton
+s5988,1,Victor Zarcoff
+s5989,1,Daniel Stamm
+s5991,1,Daniel Lee
+s5992,1,Scott Hussion
+s5992,2,Seth Fuller
+s5993,1,Richard Donner
+s5994,1,Burr Steers
+s5995,1,David Marmor
+s5996,1,Raymond Wood
+s5997,1,Morgan Neville
+s5999,1,Hasraf Dulull
+s6000,1,Mike Mills
+s6001,1,Jon Lucas
+s6001,2,Scott Moore
+s6003,1,Joey Curtis
+s6004,1,Brian Smrz
+s6005,1,Nicanor Loreti
+s6006,1,Simon Napier-Bell
+s6007,1,Betty Thomas
+s6008,1,Nagesh Kukunoor
+s6009,1,Gaby Dellal
+s6010,1,Iman Brotoseno
+s6011,1,Shazia Javed
+s6012,1,Hani Hamdi
+s6013,1,Ruben Fleischer
+s6014,1,Maciej Dejczer
+s6015,1,Jack C. Newell
+s6016,1,Andrew Nackman
+s6017,1,Anggy Umbara
+s6018,1,Victor Levin
+s6019,1,Peter Segal
+s6020,1,Jonathan Levine
+s6021,1,Rizal Mantovani
+s6022,1,Toa Fraser
+s6023,1,Bharat Jain
+s6024,1,Trent Haaga
+s6025,1,Nizar Shafi
+s6026,1,Meenu Gaur
+s6026,2,Farjad Nabi
+s6028,1,Jon Lucas
+s6028,2,Scott Moore
+s6029,1,Padmakumar Narasimhamurthy
+s6030,1,John Asher
+s6031,1,Richard Attenborough
+s6032,1,Stanley Kubrick
+s6033,1,Stephen Gyllenhaal
+s6034,1,Tom Fassaert
+s6035,1,Mark Williams
+s6036,1,Remo D'Souza
+s6037,1,Roman Coppola
+s6039,1,Erik Nelson
+s6040,1,Michael Tiddes
+s6041,1,Teo Konuralp
+s6042,1,Jim Fall
+s6043,1,Andy Goddard
+s6044,1,Chris Bell
+s6046,1,Ahmad El-Badri
+s6047,1,J.C. Chandor
+s6048,1,Christopher S. Rech
+s6048,2,Brandon Kimber
+s6050,1,John Fortenberry
+s6051,1,Joram Lürsen
+s6052,1,Michael Lennox
+s6053,1,Kees Van Oostrum
+s6054,1,Michael Damian
+s6055,1,Henry Sarwer-Foner
+s6056,1,Ishaan Trivedi
+s6057,1,Asghar Farhadi
+s6058,1,Ethan Coen
+s6058,2,Joel Coen
+s6059,1,Maria Burton
+s6060,1,Natalie Portman
+s6061,1,Martin Lawrence
+s6062,1,Brian Robbins
+s6063,1,Adam Shankman
+s6064,1,Neeraj Pandey
+s6065,1,Gregory Caruso
+s6066,1,Ava DuVernay
+s6069,1,Rusty Nixon
+s6070,1,Oliver Daly
+s6071,1,Ömer Faruk Sorak
+s6072,1,Midhun Manuel Thomas
+s6073,1,Chandrakant Kulkarni
+s6074,1,Prakash Jha
+s6075,1,Nagesh Kukunoor
+s6076,1,Uttung Shelar
+s6077,1,Atanu Ghosh
+s6079,1,A. L. Vijay
+s6080,1,Jung-ah Im
+s6080,2,Seung-uk Jo
+s6081,1,Chad Van De Keere
+s6082,1,Chris Weitz
+s6082,2,Paul Weitz
+s6083,1,Daniela Goggi
+s6084,1,Alfonso Serrano Maturino
+s6085,1,Julien Christian Lutz
+s6086,1,Julie Taymor
+s6087,1,Mike McCoy
+s6087,2,Scott Waugh
+s6088,1,Mahsun Kırmızıgül
+s6089,1,Brett Donowho
+s6091,1,Thierry Donard
+s6092,1,Anne Fontaine
+s6093,1,Sandeep Chatterjee
+s6094,1,Kyle Rideout
+s6096,1,Bryce Wagoner
+s6097,1,Brittany Andrews
+s6098,1,Antonio Campos
+s6099,1,Nicolás López
+s6100,1,Terry Loane
+s6104,1,Shivam Nair
+s6105,1,Alison Klayman
+s6107,1,Biswajeet Bora
+s6108,1,Abbas Alibhai Burmawalla
+s6108,2,Mastan Alibhai Burmawalla
+s6110,1,Castille Landon
+s6111,1,Gervasio Iglesias
+s6111,2,Alexis Morante
+s6112,1,Martin Scorsese
+s6113,1,J. Michael Long
+s6114,1,Sean McNamara
+s6115,1,Susan Glatzer
+s6116,1,Eva Vives
+s6117,1,Don Bluth
+s6117,2,Gary Goldman
+s6117,3,Dan Kuenster
+s6118,1,Víctor García
+s6119,1,Charlie Vaughn
+s6120,1,Chris Blake
+s6121,1,Jonathan Levine
+s6122,1,Matthew Hope
+s6123,1,Vincent Perez
+s6124,1,Lee Tamahori
+s6125,1,Richard Rich
+s6126,1,Richard Rich
+s6128,1,Greg Kohs
+s6129,1,Trey Haley
+s6130,1,Atul Malhotra
+s6131,1,Manmohan Desai
+s6132,1,Khaled Youssef
+s6134,1,Charlie Siskel
+s6135,1,Michael Cuesta
+s6136,1,Sam Mendes
+s6137,1,Brendon Marotta
+s6139,1,Barak Goodman
+s6140,1,Sharon Grimberg
+s6141,1,Mark Zwonitzer
+s6142,1,Wilson Coneybeare
+s6143,1,Sarik Andreasyan
+s6144,1,Tony Kaye
+s6145,1,Andrea Arnold
+s6146,1,Nick Davis
+s6148,1,Mary Harron
+s6149,1,Jerry G. Angelo
+s6150,1,Asif Kapadia
+s6151,1,Karan Bali
+s6152,1,Don Bluth
+s6153,1,Phil Nibbelink
+s6153,2,Simon Wells
+s6154,1,Larry Latham
+s6155,1,Larry Latham
+s6156,1,Wael Ehsan
+s6158,1,Perry Lang
+s6159,1,Ismail Farouk
+s6159,2,Hazem Fouda
+s6160,1,Avinash Das
+s6161,1,Carlos Marques-Marcet
+s6163,1,Tim Blake Nelson
+s6164,1,Luis Mandoki
+s6165,1,Peter Segal
+s6166,1,Pan Nalin
+s6169,1,Sohail Tatari
+s6170,1,Paul Serafini
+s6171,1,Juan Zapata
+s6172,1,Peyton Reed
+s6173,1,Sherif Ismail
+s6174,1,Anirban Majumder
+s6176,1,Ken Barbet
+s6177,1,Manish Jha
+s6179,1,David Salzberg
+s6179,2,Christian Tureaud
+s6180,1,J.F. Musial
+s6180,2,Josh Vietze
+s6181,1,Gonzalo López-Gallego
+s6182,1,Christian Desmares
+s6182,2,Franck Ekinci
+s6183,1,Christopher Chambers
+s6184,1,Khaled El Halafawy
+s6185,1,Nia Dinata
+s6186,1,Jason Winer
+s6187,1,Sarah Smith
+s6188,1,John Erick Dowdle
+s6189,1,James L. Brooks
+s6190,1,John Murlowski
+s6191,1,Sung-soo Kim
+s6192,1,Mike Nicoll
+s6193,1,Jason Stone
+s6194,1,Mez Tharatorn
+s6196,1,David Morris
+s6196,2,Jacqui Morris
+s6197,1,Fabrizio Copano
+s6197,2,Augusto Matte
+s6198,1,Mike Rossiter
+s6200,1,Gabe Ibáñez
+s6201,1,Anthony Russo
+s6201,2,Joe Russo
+s6202,1,Levan Tsikurishvili
+s6203,1,Anthony D'Souza
+s6204,1,Ajay Bahl
+s6205,1,Çagan Irmak
+s6206,1,Alejandro G. Iñárritu
+s6207,1,Shikha Makan
+s6208,1,José Eduardo Belmonte
+s6209,1,Adam MacDonald
+s6210,1,Dave Patten
+s6211,1,Michael Petroni
+s6212,1,Michael Bay
+s6213,1,Michael Bay
+s6215,1,David Chirchirillo
+s6216,1,Salima Koroma
+s6218,1,Sumitra Bhave
+s6218,2,Sunil Sukthankar
+s6219,1,Justin Lee
+s6221,1,Simon Wells
+s6222,1,Phil Weinstein
+s6223,1,Phil Weinstein
+s6224,1,Haissam Hussain
+s6225,1,Burak Aksak
+s6226,1,Zoe Lister-Jones
+s6227,1,Aaron Nee
+s6227,2,Adam Nee
+s6228,1,Tanit Jitnukul
+s6230,1,Manop Janjarasskul
+s6231,1,Adisorn Tresirikasem
+s6232,1,Jordi Llompart
+s6233,1,Raja Menon
+s6234,1,Matthew Salleh
+s6235,1,Kyran Kelly
+s6236,1,Adam Wood
+s6237,1,Zeke Norton
+s6238,1,Karen J. Lloyd
+s6239,1,Andrew Tan
+s6239,2,Michael Goguen
+s6240,1,William Lau
+s6241,1,Ezekiel Norton
+s6242,1,Conrad Helten
+s6243,1,Ezekiel Norton
+s6244,1,Conrad Helten
+s6244,2,Ezekiel Norton
+s6244,3,Michael Goguen
+s6245,1,Kyle Newman
+s6246,1,Esteban Vidal
+s6247,1,Rajkumar Santoshi
+s6248,1,David Zucker
+s6249,1,Paul Verhoeven
+s6252,1,Dava Whisenant
+s6255,1,Hrishikesh Mukherjee
+s6256,1,Sagar Sarhadi
+s6257,1,Lilibet Foster
+s6258,1,Joshua Caldwell
+s6260,1,Volker Arzt
+s6260,2,Angelika Sigl
+s6261,1,Mel Smith
+s6267,1,Mike Judge
+s6268,1,Bruce W. Smith
+s6269,1,Agasyah Karim
+s6269,2,Khalid Kashogi
+s6270,1,Khaled El Halafawy
+s6271,1,Julian Jarrold
+s6272,1,Adam Shankman
+s6273,1,Fisher Stevens
+s6274,1,Keiko Yagi
+s6275,1,Katherine Fairfax Wright
+s6278,1,Rajeev Chaudhari
+s6279,1,Anthony Wonke
+s6281,1,April Mullen
+s6283,1,Adam Marino
+s6284,1,Joe Camp
+s6285,1,Joe Camp
+s6286,1,Hakan Algül
+s6288,1,Tamer Bassiouni
+s6289,1,Ted Braun
+s6290,1,Dharmesh Darshan
+s6291,1,Khaled Marei
+s6293,1,Sushrut Jain
+s6294,1,Majid Majidi
+s6297,1,Priyadarshan
+s6298,1,Rajiv Chilaka
+s6299,1,Priyadarshan
+s6300,1,Ram Gopal Varma
+s6301,1,Jasbir Bijendra Bhati
+s6303,1,Joey Kern
+s6304,1,Dennis Dugan
+s6306,1,Shawn Levy
+s6307,1,Scott Martin
+s6308,1,Kaspar Astrup Schröder
+s6309,1,Ron Oliver
+s6310,1,Nick Broomfield
+s6311,1,Shannon Hartman
+s6312,1,Stephen Daldry
+s6313,1,Vonda Harrell
+s6313,2,Daniel Camenisch
+s6314,1,Indrasis Acharya
+s6315,1,Gajendra Ahire
+s6315,2,Viju Mane
+s6315,3,Girish Mohite
+s6315,4,Ravi Jadhav
+s6316,1,Emanuel Hoss-Desmarais
+s6317,1,Marianna Palka
+s6318,1,Ham Tran
+s6320,1,Miguel Conde
+s6321,1,Supavitra Babul
+s6322,1,Mark Harris
+s6323,1,Ridley Scott
+s6325,1,Jose Manuel Colón
+s6326,1,Ryan Coogler
+s6327,1,Jesse Gustafson
+s6328,1,Craig Brewer
+s6329,1,Martin Hodara
+s6330,1,Gabriela Cowperthwaite
+s6331,1,Daniel Alfredson
+s6332,1,Ethan Hawke
+s6333,1,Ben Younger
+s6334,1,Deane Taylor
+s6335,1,July Hygreck
+s6337,1,Jean-François Richet
+s6338,1,Ted Demme
+s6339,1,Abdellatif Kechiche
+s6340,1,Woody Allen
+s6341,1,Lev L. Spiro
+s6343,1,Jeremy Saulnier
+s6344,1,Les Mayfield
+s6345,1,Derek Cianfrance
+s6346,1,Barry Avrich
+s6347,1,Jeremy Kenyon Lockyer Corbell
+s6349,1,Jay Surridge
+s6350,1,Elvira Lind
+s6351,1,Raj Kapoor
+s6352,1,Gabriel Clarke
+s6352,2,Torquil Jones
+s6353,1,Brendan Byrne
+s6354,1,Geoffrey Orthwein
+s6354,2,Andrew Sullivan
+s6355,1,Byron Howard
+s6355,2,Chris Williams
+s6356,1,Alexandra Dean
+s6357,1,Jelle de Jonge
+s6359,1,Arthur Penn
+s6360,1,Kaizad Gustad
+s6363,1,Gary Cohen
+s6363,2,Ross Hockrow
+s6364,1,Gayane Petrosyan
+s6366,1,Richard Sears
+s6367,1,Alê Abreu
+s6368,1,Chris Stokes
+s6370,1,Michael Doneger
+s6371,1,Sean McNamara
+s6372,1,Cecilia Peck
+s6373,1,Jody Lambert
+s6375,1,Sridhar Rangayan
+s6376,1,Simon Baker
+s6377,1,Rian Johnson
+s6378,1,Robert Adetuyi
+s6380,1,Antoine Fuqua
+s6381,1,Lu Yang
+s6383,1,Vivieno Caldinelli
+s6384,1,Vivieno Caldinelli
+s6385,1,Vivieno Caldinelli
+s6387,1,Mike Wiluan
+s6388,1,Andreas Johnsen
+s6389,1,David McCracken
+s6391,1,Steve Antin
+s6392,1,Jon Manning
+s6393,1,Lee Chang-dong
+s6395,1,Cary Murnion
+s6395,2,Jonathan Milott
+s6396,1,Daniel Mann
+s6397,1,Daniele Thompson
+s6398,1,Travis Zariwny
+s6400,1,Angga Dwimas Sasongko
+s6401,1,Néstor Sánchez Sotelo
+s6403,1,Asim Abbasi
+s6404,1,Madhur Bhandarkar
+s6406,1,Momoko Kamiya
+s6407,1,Momoko Kamiya
+s6409,1,Carlos Bolado
+s6410,1,Scott Marshall Smith
+s6411,1,Lisa Arnold
+s6413,1,Peter Sattler
+s6415,1,Harry Elfont
+s6415,2,Deborah Kaplan
+s6416,1,Bernard Rose
+s6418,1,Justin Pemberton
+s6419,1,Noushad
+s6420,1,Mark O'Connor
+s6422,1,Chito S. Roño
+s6423,1,Todd Haynes
+s6424,1,Brian De Palma
+s6425,1,Àlex Pastor
+s6425,2,David Pastor
+s6426,1,Matt Piedmont
+s6428,1,Martin Campbell
+s6429,1,Wong Jing
+s6430,1,Wong Jing
+s6432,1,Richard Brooks
+s6433,1,Shalini Kantayya
+s6434,1,Brad Peyton
+s6435,1,Aaron Hancox
+s6435,2,Michael McNamara
+s6436,1,Henrik Martin Dahlsbakken
+s6437,1,Shivendra Singh Dungarpur
+s6438,1,Nicholas Hytner
+s6439,1,Harry Baweja
+s6440,1,Aatmaram Dharne
+s6441,1,David Dhawan
+s6442,1,Umer Adil
+s6443,1,Arne Birkenstock
+s6444,1,Dianne Dreyer
+s6445,1,Garin Nugroho
+s6446,1,John Curran
+s6447,1,Tim Burton
+s6448,1,McG
+s6449,1,Charles A. Nichols
+s6449,2,Iwao Takamoto
+s6450,1,David Dhawan
+s6451,1,Kevin Smith
+s6453,1,Wong Jing
+s6453,2,Jason Kwan
+s6454,1,John Scheinfeld
+s6455,1,Gurvinder Singh
+s6459,1,Bradley Parker
+s6462,1,Sidheswar Shukla
+s6462,2,Asit Mohapatra
+s6463,1,Asit Mohapatra
+s6463,2,Shyamal Chaulia
+s6464,1,Shyamal Chaulia
+s6464,2,Asit Mohapatra
+s6465,1,Rajiv Chilaka
+s6465,2,Binayak Das
+s6466,1,Anuranjan Premji
+s6467,1,Mark Dindal
+s6468,1,Niyi Akinmolayan
+s6469,1,Tom Holland
+s6471,1,Tan Bing
+s6472,1,Luis Lopez
+s6473,1,Bedabrata Pain
+s6474,1,Ken Hughes
+s6475,1,Atom Egoyan
+s6476,1,Andrew Sandler
+s6477,1,Corbin Bernsen
+s6479,1,Marita Grabiak
+s6480,1,Gary Wheeler
+s6481,1,Joe Roth
+s6482,1,Marc Forster
+s6483,1,Israel Adrián Caetano
+s6485,1,Mohsin Ali
+s6486,1,Hrishikesh Mukherjee
+s6487,1,Paul Weitz
+s6489,1,Fernando Meirelles
+s6489,2,Katia Lund
+s6490,1,Pete Travis
+s6492,1,Nick Mead
+s6493,1,Louis Leterrier
+s6494,1,Gregory Hoblit
+s6495,1,Eric Stoltz
+s6497,1,Jack Starrett
+s6498,1,Frank Coraci
+s6500,1,Chris Perkel
+s6501,1,John Crowley
+s6502,1,Lilly Wachowski
+s6502,2,Lana Wachowski
+s6502,3,Tom Tykwer
+s6503,1,Olivier Assayas
+s6504,1,Matt Reeves
+s6511,1,Thomas Carter
+s6512,1,Les Mayfield
+s6513,1,Vishal Mishra
+s6516,1,Saurav Palodhi
+s6517,1,Florian Gallenberger
+s6518,1,Ketan Mehta
+s6519,1,Zack Whedon
+s6522,1,Robert Kenner
+s6523,1,Ram Gopal Varma
+s6524,1,Craig Goodwill
+s6526,1,Jesse Adang
+s6526,2,Syrine Boulanouar
+s6527,1,Stacie Passon
+s6528,1,Van M. Pham
+s6529,1,Gavin Fitzgerald
+s6530,1,Ozan Açıktan
+s6531,1,Ram Gopal Varma
+s6532,1,Abdul Aziz Hashad
+s6534,1,Stuart Rosenberg
+s6535,1,Jon Rosenbaum
+s6536,1,Ben Steele
+s6537,1,Henry Selick
+s6538,1,Jason Bourque
+s6540,1,Micah Bickham
+s6540,2,Galley Molina
+s6541,1,Paul Haggis
+s6542,1,Kranti Kanade
+s6544,1,Ang Lee
+s6545,1,Don Mancini
+s6546,1,Zachary Heinzerling
+s6547,1,Chandrakant Kanse
+s6548,1,Hasan Karacadağ
+s6549,1,Gary David Goldberg
+s6551,1,Steve Carr
+s6552,1,Amara Cash
+s6553,1,Pablo Parés
+s6554,1,Johnson Esthappan
+s6555,1,Raj Amit Kumar
+s6556,1,Jean-Marc Vallée
+s6558,1,Jeffrey Walker
+s6559,1,Philipp Eichholtz
+s6562,1,Brendan Toller
+s6563,1,Roger Donaldson
+s6565,1,Agnidev Chatterjee
+s6566,1,Alexandros Avranas
+s6567,1,Gilles Paquet-Brenner
+s6568,1,Prawal Raman
+s6570,1,Parveen Kumar
+s6571,1,Julie Dash
+s6574,1,Amman Abbasi
+s6575,1,Dylan Haegens
+s6575,2,Bas van Teylingen
+s6576,1,Noah Baumbach
+s6576,2,Jake Paltrow
+s6577,1,Tom Edmunds
+s6578,1,Tanveer Khan
+s6579,1,Danny J. Boyle
+s6580,1,Demetri Martin
+s6581,1,Tanuj Bhramar
+s6582,1,Chad Van De Keere
+s6583,1,Jason Priestley
+s6584,1,Neil LaBute
+s6585,1,Harrison Smith
+s6586,1,Clay Porter
+s6589,1,Anees Bazmee
+s6590,1,Ken Burns
+s6590,2,Artemis Joukowsky
+s6591,1,Dennis Iliadis
+s6592,1,Camilla Nielsson
+s6593,1,Christian Gudegast
+s6594,1,Ted Demme
+s6595,1,Frederick Cipoletti
+s6596,1,Sam Patton
+s6597,1,Mohamed Samy
+s6598,1,Christopher Smith
+s6599,1,Michael Feifer
+s6600,1,Saara Cantell
+s6601,1,Clay Staub
+s6603,1,Sumitra Bhave
+s6603,2,Sunil Sukthankar
+s6605,1,Indra Kumar
+s6606,1,Hark Tsui
+s6607,1,Ben Ryder
+s6609,1,Benoît Jacquot
+s6610,1,Lee Tamahori
+s6611,1,Kundan Shah
+s6613,1,Jay Roach
+s6615,1,Chia-Liang Liu
+s6616,1,Todd Standing
+s6617,1,Benjamin Arfmann
+s6618,1,Neill Blomkamp
+s6620,1,David Lean
+s6621,1,Paul Schrader
+s6622,1,Philip Marlatt
+s6623,1,Charles Martin Smith
+s6624,1,Brian De Palma
+s6625,1,Mahin Ibrahim
+s6625,2,Austin Kolodney
+s6625,3,Will Lowell
+s6625,4,David Beier
+s6625,5,Dave Dorsey
+s6625,6,Xu Zhang
+s6625,7,Alana Waksman
+s6625,8,Jon YonKondy
+s6625,9,Drue Metz
+s6625,10,Brandon Somerhalder
+s6626,1,Jared Hess
+s6627,1,Troy Nixey
+s6628,1,Thierry Donard
+s6629,1,Thierry Donard
+s6630,1,Thierry Donard
+s6631,1,Caradog W. James
+s6632,1,Daniel Gordon
+s6633,1,Mike Birbiglia
+s6634,1,Mike Newell
+s6635,1,Andrzej Bartkowiak
+s6637,1,Wong Jing
+s6638,1,John Patrick Shanley
+s6639,1,M.J. Isakson
+s6640,1,Bo Welch
+s6641,1,Scott Mosier
+s6641,2,Yarrow Cheney
+s6642,1,Rob Cohen
+s6643,1,Colin Teague
+s6644,1,Doug Lefler
+s6645,1,Patrik Syversen
+s6646,1,Rajiv Chilaka
+s6648,1,Greg MacGillivray
+s6649,1,Tristan Ferland Milewski
+s6650,1,Reiner Holzemer
+s6654,1,Afia Nathaniel
+s6655,1,Eeshwar Nivas
+s6656,1,Troy Miller
+s6657,1,Emma Hatherley
+s6658,1,Dave Green
+s6662,1,Anthony Lucero
+s6663,1,Will Gluck
+s6665,1,Ryan Murphy
+s6666,1,Bruce Gowers
+s6667,1,Ajithkumar
+s6668,1,Harjit Singh
+s6669,1,Sumitra Bhave
+s6669,2,Sunil Sukthankar
+s6670,1,Sriram Raghavan
+s6671,1,Philipp Stölzl
+s6676,1,Matías Gueilburt
+s6678,1,Justin Webster
+s6680,1,Federico Lemos
+s6681,1,Bassam Kurdali
+s6682,1,John Bridcut
+s6683,1,Sebastian Gutierrez
+s6684,1,Fabien Beziat
+s6684,2,Hugues Nancy
+s6685,1,Hugues Nancy
+s6685,2,Fabien Beziat
+s6686,1,Nils Tavernier
+s6687,1,Jon Spira
+s6688,1,Michael Thelin
+s6689,1,Riri Riza
+s6690,1,Neil Triffett
+s6692,1,Kim Nguyen
+s6693,1,Greg Coolidge
+s6695,1,Ajay Phansekar
+s6697,1,David Ayer
+s6699,1,Denis Villeneuve
+s6700,1,Jenny Carchman
+s6701,1,Jason James
+s6702,1,Robert Clouse
+s6703,1,Drake Doremus
+s6704,1,Kurt Wimmer
+s6705,1,Wojciech Marczewski
+s6706,1,Alejandro Doria
+s6707,1,Marcelo González
+s6709,1,Valeria Golino
+s6711,1,Tom Shadyac
+s6712,1,Paul W.S. Anderson
+s6713,1,Robi Michael
+s6714,1,Asghar Farhadi
+s6716,1,Ivan Reitman
+s6717,1,Alex Garland
+s6719,1,James Lee
+s6720,1,Stuart Baird
+s6721,1,Anders Sømme Hammer
+s6721,2,Marius Arnesen
+s6721,3,Klaus Erik Okstad
+s6721,4,Olav Njaastad
+s6722,1,Michael Whitton
+s6723,1,Andrzej Bartkowiak
+s6724,1,Joseph Mbah
+s6726,1,Hakan Algül
+s6727,1,Hakan Algül
+s6728,1,Hakan Algül
+s6730,1,Benny Fine
+s6731,1,Matt Toronto
+s6734,1,Sanjay Jadhav
+s6735,1,Chris Stokes
+s6736,1,Gregory Hoblit
+s6737,1,Sedat Kirtan
+s6737,2,Kubilay Sarikaya
+s6738,1,Hardik Mehta
+s6739,1,Keith L. Smith
+s6740,1,Nagraj Manjule
+s6741,1,Shadi Ali
+s6743,1,Ian Barber
+s6744,1,Terry Gilliam
+s6746,1,Peter Spirer
+s6747,1,Norman Jewison
+s6748,1,Biyi Bandele
+s6749,1,Luke Jurevicius
+s6750,1,Ari Levinson
+s6752,1,Tony Zierra
+s6753,1,Angga Dwimas Sasongko
+s6754,1,James Wong
+s6755,1,David R. Ellis
+s6756,1,James Wong
+s6757,1,Gianfranco Rosi
+s6758,1,Sabal Singh Shekawat
+s6759,1,Arthur Muhammad
+s6760,1,Steven C. Miller
+s6761,1,Nirpal Bhogal
+s6762,1,Keith Malloy
+s6763,1,Andrew Renzi
+s6765,1,Gerry Blaksley
+s6766,1,Cheh Chang
+s6768,1,Marc Abraham
+s6769,1,Khaled Marei
+s6770,1,Gregory Caruso
+s6772,1,Kang Cheng
+s6772,2,Shan Hua
+s6773,1,Asri Bendacha
+s6776,1,Juan Manuel Cotelo
+s6777,1,Tyler Perry
+s6778,1,Mark Helenowski
+s6778,2,Kevin Pang
+s6779,1,Dean Wright
+s6780,1,Mark Murphy
+s6781,1,Richard Miron
+s6782,1,Joe Camp
+s6784,1,Jon Carey
+s6784,2,Adam Darke
+s6785,1,Fred M. Wilcox
+s6787,1,Luis Ara
+s6788,1,Maya Zinshtein
+s6790,1,Lee Fulkerson
+s6791,1,Seth Gordon
+s6793,1,Mike Newell
+s6794,1,Gregory Hoblit
+s6795,1,Noah Baumbach
+s6797,1,Trudie Styler
+s6798,1,David Dobkin
+s6799,1,Simon Wincer
+s6800,1,Marc Levin
+s6801,1,Sameh Abdulaziz
+s6802,1,Wade Allain-Marcus
+s6802,2,Jesse Allain-Marcus
+s6803,1,Jude Okwudiafor Johnson
+s6805,1,Marcus Nispel
+s6806,1,Simon Verhoeven
+s6808,1,Mahmoud Karim
+s6809,1,Pierre Morel
+s6810,1,Heber Cannon
+s6811,1,Alastair Fothergill
+s6814,1,Courtney Hunt
+s6815,1,Sean Cisterna
+s6816,1,Bob Rose
+s6817,1,Le Van Kiet
+s6818,1,Adam Del Giudice
+s6819,1,Hoyt Yeatman
+s6820,1,Fellipe Barbosa
+s6822,1,Pavel Parkhomenko
+s6824,1,Lucky Kuswandi
+s6827,1,Martin Scorsese
+s6829,1,Ifa Isfansyah
+s6830,1,Rudy Soedjarwo
+s6831,1,Hiroshi Katagiri
+s6832,1,Manbhavan Singh
+s6833,1,P.K. Baaburaaj
+s6838,1,David Grossman
+s6839,1,Guy Vasilovich
+s6840,1,Nicholas Stoller
+s6841,1,Christopher Smith
+s6843,1,Peter Segal
+s6844,1,David Silberg
+s6845,1,Rajkumar Santoshi
+s6846,1,Rich Ragsdale
+s6847,1,Kazuchika Kise
+s6847,2,Masahiko Murata
+s6848,1,Mark Steven Johnson
+s6849,1,Kazuchika Kise
+s6851,1,Kazuchika Kise
+s6852,1,Partho Ghosh
+s6853,1,Riri Riza
+s6854,1,Vincente Minnelli
+s6854,2,Charles Walters
+s6855,1,Sally Potter
+s6856,1,Wenn V. Deramas
+s6857,1,Brett Whitcomb
+s6859,1,Harold Cronk
+s6860,1,Jedd Wider
+s6860,2,Todd Wider
+s6861,1,Gordon Chan
+s6862,1,Harold Cronk
+s6863,1,Michael Mason
+s6864,1,Francis Lee
+s6865,1,Hrishikesh Mukherjee
+s6866,1,Takuya Inaba
+s6867,1,Martin Campbell
+s6868,1,Sam de Jong
+s6870,1,Ivan Sen
+s6871,1,Rohit Shetty
+s6873,1,Mark Landre Gould
+s6874,1,Neslihan Yesilyurt
+s6875,1,Chris McCoy
+s6876,1,Andrew Niccol
+s6877,1,Wendy Jo Carlton
+s6878,1,Tarek Abdel Moaty
+s6879,1,George Clooney
+s6880,1,Henrik Ruben Genz
+s6881,1,Martin Scorsese
+s6882,1,Justin Chon
+s6883,1,Michael Dowse
+s6884,1,Ari Sandel
+s6885,1,Robert Altman
+s6887,1,Mathieu Kassovitz
+s6888,1,Ananth Narayan Mahadevan
+s6889,1,Clint Eastwood
+s6892,1,Indra Kumar
+s6893,1,Tanuj Chopra
+s6894,1,Randal Kleiser
+s6897,1,Jeremy Saulnier
+s6898,1,Abba T. Makama
+s6899,1,Nanette Burstein
+s6900,1,Eric Juhola
+s6901,1,Anjali Nayar
+s6903,1,James Woodroffe
+s6904,1,Esteban Vidal
+s6905,1,Sermiyan Midyat
+s6906,1,Sermiyan Midyat
+s6909,1,Ali Taner Baltacı
+s6910,1,Adam Shankman
+s6911,1,Shinji Aramaki
+s6911,2,Mamoru Oshii
+s6911,3,Hideki Futamura
+s6911,4,Toshiyuki Kanno
+s6911,5,Tomoki Kyoda
+s6911,6,Koichi Mashimo
+s6911,7,Yasushi Muraki
+s6911,8,Daisuke Nishio
+s6911,9,Frank O'Connor
+s6911,10,Koji Sawai
+s6911,11,Joseph Chou
+s6911,12,Hiroshi Yamazaki
+s6912,1,Ian Kirby
+s6913,1,Satish Kaushik
+s6914,1,John Irvin
+s6915,1,Akram Farouk
+s6916,1,Johnny Martin
+s6917,1,Joe Berlinger
+s6919,1,Tim Van Someren
+s6921,1,Joe Dietsch
+s6921,2,Louie Gibson
+s6922,1,Luis Javier M. Henaine
+s6925,1,Robert Osman
+s6925,2,Nathanael Wiseman
+s6926,1,Ilya Naishuller
+s6928,1,Jon Hurwitz
+s6928,2,Hayden Schlossberg
+s6929,1,Danny Leiner
+s6930,1,Daniel Raim
+s6932,1,Ron Oliver
+s6933,1,Ah Loong
+s6934,1,Ron Davis
+s6935,1,Justin Bare
+s6935,2,Matthew Miele
+s6937,1,David Dhawan
+s6939,1,Jon Schnitzer
+s6940,1,Brant Sersen
+s6941,1,Eddie Martin
+s6943,1,Andrew C. Erin
+s6944,1,Steven Soderbergh
+s6945,1,Davis Guggenheim
+s6946,1,Quinn Lasher
+s6947,1,Elle Callahan
+s6948,1,Ana Kokkinos
+s6949,1,Kelly Noonan
+s6950,1,David Mirkin
+s6951,1,Chris Sivertson
+s6953,1,Huang Jianming
+s6955,1,Tom Gianas
+s6955,2,Ross R. Shuman
+s6957,1,David Mackenzie
+s6958,1,Guillermo del Toro
+s6959,1,Spike Jonze
+s6960,1,Christel Gibson
+s6961,1,Prakash Mehra
+s6962,1,Rod Blackhurst
+s6963,1,Corey Yuen
+s6965,1,Timothy Woodward Jr.
+s6967,1,Shawn Arranha
+s6968,1,Liu Jie
+s6969,1,Scott Hicks
+s6973,1,Lucy van Beek
+s6974,1,Jennifer Lynch
+s6976,1,Vishnu Govindhan
+s6978,1,Andy Tennant
+s6979,1,Daniel Kontur
+s6980,1,Daniel Ablin
+s6981,1,Asim Raza
+s6983,1,Ali Taner Baltacı
+s6983,2,Cem Yılmaz
+s6984,1,Neil Armfield
+s6985,1,Anthony Scott Burns
+s6985,2,Nicholas McCarthy
+s6985,3,Adam Egypt Mortimer
+s6985,4,Gary Shore
+s6985,5,Kevin Smith
+s6985,6,Sarah Adina Smith
+s6985,7,Scott Stewart
+s6985,8,Kevin Kolsch
+s6985,9,Dennis Widmyer
+s6986,1,Will Allen
+s6987,1,Note Chern-Yim
+s6988,1,Note Chern-Yim
+s6989,1,Rakshith Thirthahalli
+s6990,1,Anindya Chatterjee
+s6991,1,Bille Woodruff
+s6992,1,Bille Woodruff
+s6993,1,Mike Disa
+s6994,1,Sudip Bandyopadhyay
+s6995,1,Jack C. Newell
+s6996,1,Brodje Wemboendja
+s6998,1,Alexandre Aja
+s7000,1,Ayush Raina
+s7001,1,Marty Stalker
+s7002,1,Federico Lemos
+s7003,1,Scott Cooper
+s7004,1,Michael Polish
+s7005,1,Max McGill
+s7006,1,Akiva Schaffer
+s7008,1,Janusz Majewski
+s7009,1,Genndy Tartakovsky
+s7010,1,Mark Tonderai
+s7011,1,Sandy Chronopoulos
+s7012,1,Ziga Virc
+s7013,1,Tom O'Dell
+s7014,1,Ron Howard
+s7015,1,Ken Marino
+s7016,1,Lionel C. Martin
+s7017,1,Jerry Rothwell
+s7019,1,Jocelyn Moorhouse
+s7020,1,Cal Saville
+s7021,1,Amar Gupte
+s7022,1,Sam Liu
+s7022,2,Frank Paur
+s7023,1,Sooraj R. Barjatya
+s7024,1,Raj Kanwar
+s7026,1,Drew Casson
+s7027,1,Keoni Waxman
+s7028,1,Jonathan Mostow
+s7031,1,Matt Kugelman
+s7032,1,Matt Kugelman
+s7033,1,Craig Brewer
+s7035,1,Gabriel Grieco
+s7036,1,Onir
+s7037,1,Benjamin Turner
+s7037,2,Gabe Turner
+s7038,1,Mary Mazzio
+s7039,1,Laura VanZee Taylor
+s7041,1,Feng Xiaogang
+s7042,1,Adam Sjöberg
+s7043,1,Ross Boyask
+s7044,1,Chuck Russell
+s7045,1,Douglas McGrath
+s7046,1,Maria Demeshkina Peek
+s7047,1,Mez Tharatorn
+s7048,1,Ken Loach
+s7049,1,Brett Haley
+s7050,1,Steve Race
+s7052,1,Brett Harvey
+s7053,1,Law Wing-cheong
+s7054,1,Sachin
+s7056,1,Tony Leondis
+s7057,1,Jay Chapman
+s7058,1,Karey Kirkpatrick
+s7059,1,Walerian Borowczyk
+s7061,1,Taron Lexton
+s7062,1,Johannes Roberts
+s7063,1,Aytaç Ağırlar
+s7064,1,Eric Zaragosa
+s7065,1,Suman Mukhopadhyay
+s7066,1,Jonathan Baker
+s7067,1,Elizabeth Chai Vasarhelyi
+s7068,1,Brad Bird
+s7069,1,Sanjeev Gupta
+s7071,1,Steven Spielberg
+s7072,1,Steven Spielberg
+s7073,1,Steven Spielberg
+s7074,1,Steven Spielberg
+s7075,1,John Stewart Muller
+s7076,1,Jacob Kornbluth
+s7077,1,Luca Vullo
+s7078,1,Quentin Tarantino
+s7079,1,Iain Softley
+s7080,1,K. Subhash
+s7085,1,Eugenio Derbez
+s7087,1,Michael Gallagher
+s7088,1,Patricia Rozema
+s7089,1,Toshiya Shinohara
+s7090,1,Toshiya Shinohara
+s7091,1,Toshiya Shinohara
+s7092,1,Clint Eastwood
+s7093,1,Charles Officer
+s7094,1,John Trengove
+s7095,1,Nagesh Kukunoor
+s7096,1,Kedar Shinde
+s7097,1,Jacob Schwab
+s7098,1,Leo Riley
+s7100,1,V. K. Prakash
+s7103,1,Manish Tiwary
+s7104,1,Andy Tennant
+s7105,1,Ismail Farouk
+s7106,1,Maria Ripoll
+s7107,1,Hani Hamdi
+s7108,1,Zatella Beatty
+s7109,1,Young Jun Lee
+s7110,1,Shirish Kunder
+s7111,1,Mathias Malzieu
+s7111,2,Stéphane Berla
+s7112,1,Harvey Glazer
+s7112,2,Stuart Stone
+s7113,1,Stuart Orme
+s7114,1,Quentin Tarantino
+s7115,1,Dustin Nguyen
+s7116,1,Madhur Bhandarkar
+s7118,1,Girish Malik
+s7119,1,Nila Madhab Panda
+s7120,1,Azfar Jafri
+s7122,1,Kevin Smith
+s7123,1,Janusz Majewski
+s7125,1,Vlad Yudin
+s7127,1,Clint Eastwood
+s7128,1,Gerry Hoban
+s7129,1,C. Fitz
+s7131,1,Joe Boyd
+s7133,1,David Gelb
+s7134,1,Radhu Karmakar
+s7135,1,John Edginton
+s7136,1,Ashim Ahluwalia
+s7137,1,Andrew Stanton
+s7138,1,Ahishor Solomon
+s7140,1,Bill Oliver
+s7141,1,Toby Haynes
+s7142,1,Amardeep Singh Gill
+s7145,1,David Dhawan
+s7146,1,John Schultz
+s7147,1,Susannah Heath-Eves
+s7148,1,Nora Ephron
+s7150,1,Salim Akil
+s7151,1,Phil Morrison
+s7152,1,Lana Wachowski
+s7152,2,Lilly Wachowski
+s7153,1,Roger Kumble
+s7154,1,Johnnie To
+s7155,1,Jon M. Chu
+s7157,1,Kathryn Bigelow
+s7159,1,Sanjay Gupta
+s7160,1,Kranti Redkar
+s7161,1,Tinnu Anand
+s7162,1,Jijo Pancode
+s7163,1,Pa. Ranjith
+s7164,1,Buta Singh
+s7165,1,Roger Allers
+s7165,2,Gaëtan Brizzi
+s7165,3,Paul Brizzi
+s7165,4,Joan C. Gratz
+s7165,5,Mohammed Saeed Harib
+s7165,6,Tomm Moore
+s7165,7,Nina Paley
+s7165,8,Bill Plympton
+s7165,9,Joann Sfar
+s7165,10,Michael Socha
+s7166,1,Pooja Bhatt
+s7167,1,Rupert Jones
+s7168,1,Dhilip Kumar
+s7170,1,Satish Kaushik
+s7171,1,James Mangold
+s7172,1,Sai Paranjape
+s7173,1,Alphonso J. Wesson
+s7174,1,Vineeth Anil
+s7175,1,Chandrakant Kulkarni
+s7176,1,Ken Burns
+s7177,1,Ken Burns
+s7179,1,Leslie Small
+s7179,2,Tim Story
+s7180,1,Leslie Small
+s7180,2,Tim Story
+s7181,1,Shannon Hartman
+s7182,1,Lori Kaye
+s7184,1,Subhash Ghai
+s7187,1,Dibakar Banerjee
+s7189,1,Hrishikesh Mukherjee
+s7190,1,Surya S.J.
+s7190,2,Sunil Kumar Agrawal
+s7191,1,Sudipto Roy
+s7192,1,Dimitri Logothetis
+s7193,1,John Stockwell
+s7194,1,Noah Baumbach
+s7195,1,Paul Soriano
+s7196,1,Daniel Alfredson
+s7198,1,Quentin Tarantino
+s7199,1,Quentin Tarantino
+s7200,1,Steven Gomez
+s7201,1,Frédéric Tonolli
+s7202,1,Paul Tanter
+s7203,1,Jonathan Hensleigh
+s7204,1,Stephen Chiodo
+s7205,1,Robert Luketic
+s7206,1,Attila Till
+s7207,1,Paul Katis
+s7208,1,Felix Thompson
+s7209,1,Jeffrey W. Byrd
+s7210,1,Steve Greenwood
+s7211,1,Peter Farrelly
+s7211,2,Bobby Farrelly
+s7212,1,Deniz Gamze Ergüven
+s7213,1,Abbas Alibhai Burmawalla
+s7213,2,Mastan Alibhai Burmawalla
+s7214,1,Gary Fleder
+s7217,1,Woo Ming Jin
+s7219,1,Eli Roth
+s7220,1,Frank Capra
+s7220,2,Joris Ivens
+s7221,1,Alex Proyas
+s7222,1,Jonathan Taylor
+s7224,1,Joachim Rønning
+s7224,2,Espen Sandberg
+s7225,1,Gulzar
+s7226,1,Hans Petter Moland
+s7228,1,Munjal Shroff
+s7228,2,Tilak Shetty
+s7229,1,Munjal Shroff
+s7229,2,Tilak Shetty
+s7230,1,Tilak Shetty
+s7231,1,Tilak Shetty
+s7232,1,Tilak Shetty
+s7234,1,Munjal Shroff
+s7234,2,Tilak Shetty
+s7235,1,Trey Edward Shults
+s7237,1,Oliver Blackburn
+s7238,1,William H. Macy
+s7239,1,Remy Kohli
+s7240,1,Stephen Chow
+s7241,1,Andrés Couturier
+s7242,1,Tim Johnson
+s7243,1,Stanley Tong
+s7244,1,Suresh Pillai
+s7245,1,Nick Broomfield
+s7247,1,Yusuf Pirhasan
+s7248,1,Kundan Shah
+s7249,1,Devin Chanda
+s7250,1,Samir Karnik
+s7251,1,Leandro Mark
+s7251,2,Nicolás Silbert
+s7252,1,Daniel Lindsay
+s7252,2,T.J. Martin
+s7253,1,Luis Valdez
+s7254,1,Giulio Base
+s7259,1,Alejandro Lozano
+s7260,1,Syed Ahmad Afzal
+s7261,1,Sopon Sukdapisit
+s7262,1,Chris Nahon
+s7263,1,M. Night Shyamalan
+s7266,1,Mahesh Manjrekar
+s7268,1,R. Ellis Frazier
+s7270,1,Jaki Bradley
+s7271,1,Kazuaki Kiriya
+s7272,1,Massy Tadjedin
+s7273,1,Damien Piscarel
+s7273,2,Florent Bodin
+s7274,1,Emmanuel Amara
+s7275,1,Anand Tucker
+s7276,1,Roy Allen Smith
+s7277,1,Ron Myrick
+s7278,1,Ron Myrick
+s7279,1,Ron Myrick
+s7281,1,B.N. Shajeer Sha
+s7282,1,Vic Armstrong
+s7283,1,Zack Snyder
+s7284,1,Yang Lei
+s7285,1,Chia-Liang Liu
+s7287,1,Scott Stewart
+s7289,1,Andrew Tan
+s7289,2,Stephen Murray
+s7290,1,Anders Falck
+s7290,2,Stinus Morell Vithner
+s7293,1,Mario Cambi
+s7294,1,Pascal Blanchard
+s7294,2,Sonia Dauger
+s7294,3,David Dietz
+s7295,1,John Huston
+s7296,1,Onur Ünlü
+s7297,1,Jenna Laurenzo
+s7299,1,Jeff Baena
+s7300,1,Ron Davis
+s7303,1,Justin McConnell
+s7304,1,Johnnie To
+s7305,1,Kevin Peeples
+s7306,1,Alfonso Arau
+s7307,1,Charles Stone III
+s7309,1,Steven Spielberg
+s7310,1,Karim El Sobky
+s7311,1,Ellen Weissbrod
+s7312,1,Hua Shan
+s7314,1,Tim Bartley
+s7315,1,Robyn Butler
+s7316,1,Ira Sachs
+s7317,1,Steve Brill
+s7318,1,Prakash Satam
+s7320,1,Prakash Satam
+s7321,1,Zach Clark
+s7323,1,Nick Gomez
+s7324,1,Werner Herzog
+s7327,1,Guy Ritchie
+s7328,1,Steven Knight
+s7329,1,James Mather
+s7329,2,Steve Saint Leger
+s7330,1,Fernando Sariñana
+s7330,2,José Luis Gutiérrez
+s7331,1,Michael Anderson
+s7333,1,Stanley Kubrick
+s7334,1,Jakob Verbruggen
+s7335,1,Jennifer Baichwal
+s7335,2,Nicholas de Pencier
+s7336,1,Sze Yu Lau
+s7337,1,David Wnendt
+s7338,1,Parambrata Chatterjee
+s7340,1,Ignacio López Escrivá
+s7341,1,Alessandro Angulo
+s7342,1,Sarah Moshman
+s7345,1,Charneice Fox
+s7346,1,Pang Ho-cheung
+s7347,1,Saandeep Patel
+s7348,1,Stephen Chow
+s7351,1,Steven Fine
+s7352,1,Ahmad Samir Farag
+s7353,1,Sridhar Jetty
+s7355,1,Christian Ditter
+s7356,1,Alma Har'el
+s7357,1,Katherine Brooks
+s7358,1,Johnnie To
+s7359,1,Ana Quiroga
+s7361,1,Radhika Rao
+s7361,2,Vinay Sapru
+s7362,1,Prabhuraj
+s7363,1,Ticoy Rodriguez
+s7364,1,Jayan Vannery
+s7365,1,Pratim D. Gupta
+s7366,1,Dylan C. Brown
+s7367,1,Debaloy Dey
+s7368,1,George Miller
+s7370,1,Callie Khouri
+s7370,2,Jesse V. Johnson
+s7371,1,Jim Monaco
+s7372,1,Chun Wong
+s7373,1,Nishikant Kamat
+s7374,1,Ben Patterson
+s7375,1,Aaron Burns
+s7376,1,Iginio Straffi
+s7378,1,Luc Vinciguerra
+s7379,1,Thierry Donard
+s7380,1,Benjamin Ree
+s7381,1,Amaan Khan
+s7385,1,Li Pei-Chuan
+s7387,1,David Dhawan
+s7388,1,Sooraj R. Barjatya
+s7389,1,Sameer Vidwans
+s7390,1,Michael Winnick
+s7391,1,Keanu Reeves
+s7392,1,Ben Palmer
+s7394,1,Shyam Benegal
+s7395,1,Tathagata Banerjee
+s7396,1,David Gordon Green
+s7397,1,John Upchurch
+s7398,1,Tom O'Brien
+s7399,1,Michael Roberts
+s7400,1,Patricia Rozema
+s7401,1,Rahat Kazmi
+s7402,1,Nicholas Kharkongor
+s7403,1,Clive Tonge
+s7404,1,Steven C. Miller
+s7406,1,Nathan Landeg
+s7408,1,Pulkit
+s7410,1,Everardo Gout
+s7411,1,Chia-Liang Liu
+s7412,1,David Raynr
+s7413,1,David Batty
+s7414,1,Deepika Narayan Bhardwaj
+s7415,1,Eric Drath
+s7416,1,Leo Riley
+s7416,2,Eric Radomski
+s7417,1,Hiromasa Yonebayashi
+s7418,1,Rob Marshall
+s7420,1,Shekhar Kapur
+s7421,1,Ui-seok Jo
+s7422,1,Pablo D'Alo Abba
+s7423,1,Sudesh Manjrekar
+s7423,2,Atul Kale
+s7424,1,Daniel Noah
+s7425,1,Philip Yung
+s7426,1,Hassan Hegazy
+s7426,2,Shady Ali
+s7427,1,Bob Hercules
+s7427,2,Rita Coburn Whack
+s7428,1,Samuel D. Pollard
+s7429,1,Sachin
+s7430,1,Jesús Magaña Vázquez
+s7431,1,Nathan Morlando
+s7432,1,Martin Scorsese
+s7433,1,Mina Shum
+s7434,1,Jacek Koprowicz
+s7435,1,Paul Berczeller
+s7435,2,Mark Radice
+s7438,1,Binu Ulahhannan
+s7440,1,Bob Odenkirk
+s7441,1,Shin-yeon Won
+s7442,1,Janet Tobias
+s7442,2,Claus Wehlisch
+s7443,1,Barry Sonnenfeld
+s7444,1,Barry Sonnenfeld
+s7445,1,John Barnard
+s7446,1,Gareth Evans
+s7449,1,Toka McBaror
+s7451,1,Santosh Manjrekar
+s7452,1,Bharat Nalluri
+s7453,1,Steve Carr
+s7455,1,Jeff Nichols
+s7457,1,Gus Van Sant
+s7459,1,Anil Thomas
+s7461,1,Gavin O'Connor
+s7462,1,Tarsem Singh
+s7463,1,Rakeysh Omprakash Mehra
+s7465,1,Keiichi Hara
+s7466,1,Liv Ullmann
+s7467,1,Kenny Young
+s7468,1,Jennifer Siebel Newsom
+s7470,1,Barbara Kopple
+s7471,1,Julia Hart
+s7472,1,David Fairhead
+s7473,1,David Blair
+s7474,1,Osman Ali
+s7475,1,Anna Boden
+s7475,2,Ryan Fleck
+s7476,1,Munish Bhardwaj
+s7477,1,Ted Geoghegan
+s7478,1,William Monahan
+s7479,1,Kunle Afolayan
+s7480,1,Aaron Sorkin
+s7482,1,Mike Newell
+s7483,1,Martin Rosete
+s7485,1,Brett Ratner
+s7487,1,Robert Vince
+s7488,1,Ahmed El Gendy
+s7489,1,Holger Tappe
+s7490,1,Steve Sacks
+s7491,1,William Lau
+s7492,1,Steve Ball
+s7492,2,Andrew Duncan
+s7493,1,William Lau
+s7493,2,Sylvain Blais
+s7494,1,Dustin McKenzie
+s7495,1,Victor Dal Chele
+s7495,2,Alfred Gimeno
+s7496,1,William Lau
+s7497,1,Mike Fetterly
+s7497,2,Steve Sacks
+s7498,1,William Lau
+s7499,1,Dan Fraga
+s7499,2,William Lau
+s7500,1,Audu Paden
+s7500,2,Eric Radomski
+s7501,1,Dustin McKenzie
+s7501,2,Andrew Duncan
+s7501,3,Audu Paden
+s7502,1,Dustin McKenzie
+s7502,2,Steve Sacks
+s7504,1,Robert Luketic
+s7505,1,Rachel Bell
+s7507,1,Duncan Jones
+s7508,1,Barry Jenkins
+s7509,1,Antoine Bardou-Jacquet
+s7510,1,Jami
+s7511,1,Chad Hartigan
+s7512,1,Michael Mayer
+s7513,1,Avadhoot Gupte
+s7514,1,Suhas Kadav
+s7515,1,Jennifer Peedom
+s7516,1,Peter Farrelly
+s7516,2,Will Graham
+s7516,3,Steve Carr
+s7516,4,Griffin Dunne
+s7516,5,Steve Brill
+s7516,6,James Duffy
+s7516,7,Jonathan van Tulleken
+s7516,8,Elizabeth Banks
+s7516,9,Patrik Forsberg
+s7516,10,Brett Ratner
+s7516,11,Rusty Cundieff
+s7516,12,James Gunn
+s7517,1,Bruce Beresford
+s7518,1,Steve Brill
+s7519,1,Tomer Heymann
+s7520,1,Anthony Chan
+s7521,1,Craig Gillespie
+s7523,1,Wael Ihsan
+s7524,1,Jeff Nichols
+s7525,1,David Dhawan
+s7526,1,Alexandre Heboyan
+s7526,2,Benoît Philippon
+s7527,1,James Bobin
+s7528,1,Jeremy Saulnier
+s7531,1,Lewis Milestone
+s7531,2,Carol Reed
+s7532,1,Bruce McDonald
+s7533,1,Onir
+s7534,1,Waymon Boone
+s7535,1,Ismail Farouk
+s7536,1,Dash Shaw
+s7537,1,Nathaniel Warsh
+s7538,1,Alessandro Pepe
+s7540,1,Claude Barras
+s7542,1,Ishi Rudell
+s7542,2,Jayson Thiessen
+s7543,1,Jayson Thiessen
+s7543,2,Ishi Rudell
+s7544,1,Wenn V. Deramas
+s7545,1,Siu-hung Chung
+s7545,2,Wong Jing
+s7546,1,John Dower
+s7547,1,Nick Cassavetes
+s7549,1,Atsajun Sattakovit
+s7550,1,Simon Curtis
+s7551,1,Moataz El Tony
+s7553,1,Sabu Varghese
+s7554,1,Jared Hess
+s7555,1,Krishna Agazzi
+s7555,2,Filippo Gastaldi
+s7556,1,Dennis Bartok
+s7557,1,Ben Bowie
+s7557,2,Geoff Luck
+s7558,1,Prakash Mehra
+s7559,1,Heidi Saman
+s7560,1,Masahiko Murata
+s7561,1,Natalia Valdebenito
+s7562,1,Sonia Kennebeck
+s7563,1,Gene Quintano
+s7564,1,Greg MacGillivray
+s7565,1,Jon Turteltaub
+s7566,1,Mahesh Manjrekar
+s7567,1,Roman Atwood
+s7567,2,Ben Pluimer
+s7568,1,Chad L. Scheifele
+s7576,1,George Stevens
+s7578,1,Pablo Larraín
+s7579,1,Josh Webber
+s7580,1,Dennie Gordon
+s7581,1,Kim A. Snyder
+s7582,1,Lee Tamahori
+s7583,1,Arun Vaidyanathan
+s7584,1,Jordana Spiro
+s7585,1,Kelly Reichardt
+s7586,1,Dan Gilroy
+s7588,1,George C. Wolfe
+s7591,1,Anees Bazmee
+s7592,1,Nicolás López
+s7593,1,Scott Hicks
+s7595,1,Anthony Bell
+s7596,1,Tim Maltby
+s7597,1,Richard Finn
+s7597,2,Tim Maltby
+s7599,1,Kiki Goshay
+s7599,2,Jacqueline Monetta
+s7601,1,Rushmore DeNooyer
+s7602,1,Martin Gorst
+s7603,1,Giulia Clark
+s7604,1,Sarah Holt
+s7605,1,Terri Randall
+s7606,1,Doug Hamilton
+s7607,1,Martin Gorst
+s7608,1,Peter Fison
+s7609,1,Graham Townsley
+s7610,1,Paula Apsell
+s7610,2,Kirk Wolfinger
+s7612,1,Oliver Twinch
+s7613,1,Oliver Twinch
+s7614,1,Llewellyn M. Smith
+s7615,1,Daniel McCabe
+s7616,1,Peter Yost
+s7617,1,Tom Stubberfield
+s7618,1,Noel Dockstader
+s7618,2,Quinn Kanaly
+s7619,1,Gail Willumsen
+s7620,1,Sacha Gervasi
+s7621,1,Lesli Linka Glatter
+s7622,1,Peter Pardini
+s7623,1,Sam Taylor-Johnson
+s7626,1,Dana Doron
+s7626,2,Uriel Sinai
+s7627,1,Enrico Bisi
+s7631,1,Lars von Trier
+s7632,1,Lars von Trier
+s7634,1,Mat Whitecross
+s7635,1,Gillian Robespierre
+s7636,1,Jacques Perrin
+s7636,2,Jacques Cluzaud
+s7637,1,Luke Sparke
+s7638,1,Lewis Milestone
+s7639,1,Steven Soderbergh
+s7640,1,Steven Soderbergh
+s7642,1,Nacho G. Velilla
+s7643,1,Shawn Crahan
+s7644,1,Poj Arnon
+s7645,1,Poj Arnon
+s7646,1,Poj Arnon
+s7648,1,Barak Goodman
+s7649,1,Oliver Stone
+s7651,1,Mohamed Samy
+s7652,1,Clarence Yiu-leung Fok
+s7653,1,Heitor Dhalia
+s7654,1,Pradip Kurbah
+s7655,1,Matt Askem
+s7656,1,Charlie Lightening
+s7657,1,Charlie Lightening
+s7658,1,Matt Askem
+s7659,1,Simon Rumley
+s7660,1,Sergio Leone
+s7661,1,Banjong Pisanthanakun
+s7662,1,Morgan Spurlock
+s7664,1,Tim Rouhana
+s7665,1,Noah Moskin
+s7666,1,Jasmine D'Souza
+s7668,1,Nicolas Winding Refn
+s7669,1,Bill Guttentag
+s7669,2,Michael Ware
+s7670,1,Roger Allers
+s7670,2,Jill Culton
+s7671,1,John H. Lee
+s7673,1,Dante Lam
+s7674,1,Tiller Russell
+s7677,1,Dante Lam
+s7678,1,Logan Kibens
+s7679,1,Chia Tang
+s7680,1,Peter McDonnell
+s7681,1,Kiran Narayanan
+s7682,1,Ben C. Lucas
+s7683,1,Jayaraj Rajasekharan Nair
+s7684,1,Mark Franchetti
+s7684,2,Andrew Meier
+s7685,1,Anthony Scott Burns
+s7687,1,Adam Collins
+s7687,2,Luke Radford
+s7688,1,Paul Spurrier
+s7689,1,Kundan Shah
+s7691,1,Richard LaGravenese
+s7692,1,Chandran Narikode
+s7693,1,Jorge Granier
+s7695,1,Piti Jaturaphat
+s7696,1,Charles Stone III
+s7697,1,Amber Tamblyn
+s7698,1,Alex Law
+s7700,1,Cosima Spender
+s7701,1,Fernando González Molina
+s7702,1,David Fincher
+s7703,1,Bhagyaraj
+s7704,1,Rebecca Addelman
+s7705,1,Oren Peli
+s7707,1,Subhash Ghai
+s7708,1,Gafoor Y. Elliyaas
+s7709,1,Jennie Livingston
+s7712,1,Kevin Hooks
+s7713,1,Nikhil Advani
+s7714,1,Jeremy Kenyon Lockyer Corbell
+s7715,1,Phillip Noyce
+s7716,1,Kıvanç Baruönü
+s7717,1,Steve Carr
+s7718,1,Dileep Narayanan
+s7720,1,Paritosh Painter
+s7721,1,Banjong Pisanthanakun
+s7723,1,Paul Reubens
+s7723,2,Wayne Orr
+s7724,1,Mohd Khairul Azri Bin Md Noor
+s7725,1,Mark Palansky
+s7727,1,J.C. Falcón
+s7728,1,C.J. Wallis
+s7729,1,James Foley
+s7731,1,Olivier Assayas
+s7732,1,Tony Stone
+s7733,1,Will Gluck
+s7734,1,Karan Lalit Butani
+s7735,1,Jean-Loup Felicioli
+s7735,2,Alain Gagnol
+s7736,1,Jonathan Demme
+s7737,1,Ajay Bhuyan
+s7737,2,Kunal Kohli
+s7738,1,Banjong Pisanthanakun
+s7738,2,Paween Purikitpanya
+s7738,3,Songyos Sugmakanan
+s7738,4,Parkpoom Wongpoom
+s7738,5,Visute Poolvoralaks
+s7739,1,Kunle Afolayan
+s7740,1,Abhishek Saxena
+s7741,1,Dana Nachman
+s7741,2,Don Hardy Jr.
+s7742,1,Christopher Nolen
+s7743,1,Gajendra Ahire
+s7744,1,Oscar Micheaux
+s7744,2,Spencer Williams
+s7744,3,Richard E. Norman
+s7744,4,Richard Maurice
+s7745,1,Mahesh Manjrekar
+s7746,1,Israel Adrián Caetano
+s7746,2,Bruno Stagnaro
+s7747,1,Christophe Honoré
+s7749,1,Alastair Fothergill
+s7750,1,Sam Liu
+s7751,1,Rebecca Zlotowski
+s7752,1,Oliver Stone
+s7753,1,Daniel Mann
+s7753,2,Joseph Sargent
+s7754,1,Jean-Simon Chartier
+s7755,1,Wim Wenders
+s7756,1,Robert Altman
+s7758,1,Gabe Klinger
+s7759,1,Steve McLean
+s7779,1,Charlie Haskell
+s7779,2,Koichi Sakamoto
+s7789,1,James Barr
+s7790,1,Ashish R. Shukla
+s7791,1,Frank Capra
+s7792,1,Satish Rajwade
+s7793,1,Chris Bell
+s7793,2,Josh Alexander
+s7793,3,Greg Young
+s7794,1,Gregory Hoblit
+s7795,1,Wong Jing
+s7796,1,Bhavik Thakore
+s7797,1,Stephen Cone
+s7798,1,Christopher Nolen
+s7800,1,Barry Avrich
+s7802,1,Rajkumar Santoshi
+s7803,1,Quentin Tarantino
+s7804,1,Anurag Singh
+s7805,1,Luis Prieto
+s7806,1,Luv Ranjan
+s7808,1,Michael Tolajian
+s7810,1,Marc Forster
+s7812,1,Werner Herzog
+s7815,1,Richard Correll
+s7817,1,Andy Fickman
+s7818,1,Jonathan Demme
+s7819,1,Raphael Erichsen
+s7820,1,Hari Viswanath
+s7821,1,Martin Scorsese
+s7822,1,Manish Gupta
+s7823,1,Jeremy Coon
+s7823,2,Tim Skousen
+s7824,1,Ding Sheng
+s7825,1,Dharmesh Darshan
+s7826,1,Basu Chatterjee
+s7827,1,Phil Johnston
+s7827,2,Rich Moore
+s7828,1,Raj Kapoor
+s7830,1,Eric Khoo
+s7831,1,Sanjay Dayma
+s7832,1,Kim Sung-hoon
+s7833,1,Girish Joshi
+s7834,1,Amir Mohiuddin
+s7835,1,Morgan Spurlock
+s7837,1,Husam El-Gohari
+s7838,1,Anees Bazmee
+s7840,1,Nicholas Ray
+s7842,1,Michael James Regan
+s7844,1,Craig Anderson
+s7845,1,John Milius
+s7846,1,Amitava Bhattacharya
+s7847,1,Marina Willer
+s7849,1,Clementine Malpas
+s7849,2,Leslie Knott
+s7850,1,Mohamed Samy
+s7852,1,Andy Capper
+s7853,1,Shamyl Othman
+s7854,1,Atom Egoyan
+s7855,1,Allen Coulter
+s7856,1,Mark Palansky
+s7858,1,Paul W.S. Anderson
+s7859,1,René Pérez Joglar
+s7860,1,Linda Saffire
+s7860,2,Adam Schlesinger
+s7861,1,Chia-Liang Liu
+s7862,1,Vijay Jayapal
+s7864,1,Andrew Lau Wai-Keung
+s7864,2,Andrew Loo
+s7865,1,Jani Lachauer
+s7865,2,Jakob Schuh
+s7866,1,Sam Mendes
+s7867,1,Fernando Frías De La Parra
+s7869,1,Jon Avnet
+s7870,1,Makarand Mane
+s7872,1,Devaki Singh
+s7872,2,Luke Kenny
+s7874,1,Ashok Nanda
+s7875,1,Amit Rai
+s7876,1,Ishaya Bako
+s7877,1,Pierfrancesco Diliberto
+s7878,1,Nicholas Winter
+s7880,1,John G. Avildsen
+s7881,1,Sylvester Stallone
+s7882,1,Sylvester Stallone
+s7883,1,Sylvester Stallone
+s7884,1,John G. Avildsen
+s7885,1,G.J. Echternkamp
+s7886,1,Sameh Abdulaziz
+s7887,1,Nancy Schwartzman
+s7888,1,Mitch Dickman
+s7889,1,Navaniat Singh
+s7890,1,Lenny Abrahamson
+s7891,1,Matthew Atkinson
+s7892,1,Max Lang
+s7892,2,Jani Lachauer
+s7894,1,Shweta Basu Prasad
+s7895,1,Roman Polanski
+s7896,1,John Dahl
+s7897,1,Jay Chandrasekhar
+s7899,1,Atanu Mukherjee
+s7900,1,R. Ellis Frazier
+s7901,1,Stanley Tong
+s7902,1,Rob Reiner
+s7903,1,Jeeva
+s7904,1,Garry Marshall
+s7905,1,David L. Cunningham
+s7906,1,Chris Stokes
+s7908,1,Robert Vince
+s7910,1,Dave Higby
+s7911,1,Dharmendra Suresh Desai
+s7912,1,Alex Infascelli
+s7913,1,Clark Johnson
+s7914,1,Raman Kumar
+s7915,1,Gianfranco Rosi
+s7916,1,Hakan Yonat
+s7917,1,Michael Seater
+s7918,1,Balu Mahendra
+s7919,1,Ehtesham Uddin
+s7920,1,Kireet Khurana
+s7920,2,Padmakumar Narasimhamurthy
+s7921,1,Colin Trevorrow
+s7922,1,Pratim D. Gupta
+s7923,1,Nagraj Manjule
+s7924,1,Sanjay Soorkar
+s7925,1,Mohamed Hamdy
+s7926,1,Partha Chakraborty
+s7927,1,K. Gopinathan
+s7928,1,Amr Arafa
+s7929,1,Bruce MacDonald
+s7929,2,Gabriel Sabloff
+s7930,1,Anirban Majumder
+s7931,1,John Huston
+s7932,1,Rajeev Patil
+s7933,1,Raj Kapoor
+s7934,1,Glenn Miller
+s7935,1,Luc Vinciguerra
+s7936,1,Gilles Paquet-Brenner
+s7937,1,Rohit Jugraj
+s7938,1,Rohit Jugraj
+s7939,1,Gajendra Ahire
+s7940,1,Venugopan
+s7941,1,Kamal Sahani
+s7942,1,V. Scott Balcerek
+s7944,1,Aditya Sarpotdar
+s7945,1,Raj N. Sippy
+s7946,1,Damon Cardasis
+s7947,1,Jesse V. Johnson
+s7948,1,Mahmoud Karim
+s7950,1,John Lee Hancock
+s7951,1,Jeffrey G. Hunt
+s7952,1,Lynn Shelton
+s7953,1,Kevan Peterson
+s7955,1,Dino Risi
+s7956,1,Keenen Ivory Wayans
+s7957,1,Malcolm D. Lee
+s7958,1,Steven Spielberg
+s7959,1,Spike Lee
+s7960,1,Hiroshi Aoyama
+s7960,2,Kazumi Fukushima
+s7960,3,Jim Stenstrum
+s7961,1,Edgar Wright
+s7962,1,Wes Craven
+s7963,1,Wes Craven
+s7964,1,John Stockwell
+s7965,1,Steven Zaillian
+s7966,1,Malik Bendjelloul
+s7967,1,Dominic Sena
+s7968,1,Jay Chou
+s7970,1,Billy Ray
+s7971,1,Kasia Uscinska
+s7972,1,Susannah Ward
+s7973,1,Sam Taplin
+s7974,1,Kasia Uscinska
+s7975,1,Vicky Matthews
+s7976,1,Susannah Ward
+s7977,1,Sam Taplin
+s7978,1,Vicky Matthews
+s7979,1,Vicky Matthews
+s7979,2,Gareth Sacala
+s7980,1,Louise Wardle
+s7981,1,Ozan Açıktan
+s7982,1,Asif Kapadia
+s7984,1,Kenneth Müller
+s7986,1,Mike Gunther
+s7987,1,Michael Patrick King
+s7988,1,Michael Patrick King
+s7989,1,Sylvie Verheyde
+s7990,1,Antonio Serrano
+s7991,1,Max Martini
+s7993,1,Sudesh Manjrekar
+s7995,1,Krishna Vamshi
+s7996,1,Dibakar Banerjee
+s7997,1,Gurudev Bhalla
+s7998,1,Herman Yau
+s7999,1,David R. Ellis
+s8000,1,Samar Khan
+s8002,1,Måns Mårlind
+s8002,2,Björn Stein
+s8004,1,Guy Ritchie
+s8005,1,Ram Gopal Varma
+s8006,1,Raymond McGrath
+s8007,1,Adele K. Thomas
+s8007,2,Richard Bailey
+s8008,1,Richard Bailey
+s8009,1,Jitendra Tiwari
+s8009,2,Pranav Singh
+s8010,1,Destin Daniel Cretton
+s8011,1,Robert Rodriguez
+s8012,1,Barney Clay
+s8013,1,Adarsh Eshwarappa
+s8014,1,Banjong Pisanthanakun
+s8014,2,Parkpoom Wongpoom
+s8015,1,Fabio Grassadonia
+s8015,2,Antonio Piazza
+s8017,1,Vivek Wagh
+s8018,1,Timothy Woodward Jr.
+s8019,1,M.J. Bassett
+s8020,1,Jason Cohen
+s8024,1,Anil Sharma
+s8025,1,Raditya Dika
+s8026,1,Robert Kouba
+s8027,1,Dorian Fernández-Moris
+s8028,1,Gregg Bishop
+s8029,1,Corey Grant
+s8030,1,Ekachai Uekrongtham
+s8033,1,Renny Harlin
+s8034,1,Ringo Lam
+s8035,1,Fredric Lean
+s8036,1,Colin Strause
+s8036,2,Greg Strause
+s8037,1,Leslye Headland
+s8038,1,Joe Nussbaum
+s8039,1,Billy Bob Thornton
+s8040,1,Phillip Noyce
+s8042,1,John Maclean
+s8043,1,Joe Dante
+s8044,1,Noam Murro
+s8046,1,Alex Winter
+s8047,1,Fred Olen Ray
+s8048,1,Imtiaz Ali
+s8049,1,Jonathan Ignatius Green
+s8050,1,Hanung Bramantyo
+s8051,1,Alfonso Cuarón
+s8052,1,Ron Howard
+s8053,1,Ron Howard
+s8054,1,Michael J. Bassett
+s8055,1,Ian MacAllister-McDonald
+s8056,1,Nancy Meyers
+s8057,1,Julius Avery
+s8058,1,Jeffrey C. Bell
+s8060,1,Sean McNamara
+s8061,1,David Allensworth
+s8061,2,Monière
+s8062,1,Jerry Rothwell
+s8062,2,Reuben Atlas
+s8064,1,Sam O'Steen
+s8066,1,Dan Harris
+s8067,1,Mark Sloper
+s8068,1,Sam Raimi
+s8069,1,Peter Ramsey
+s8069,2,Rodney Rothman
+s8069,3,Bob Persichetti
+s8070,1,David Fairhead
+s8070,2,Anthony Palmer
+s8072,1,Tom McCarthy
+s8073,1,Harmony Korine
+s8074,1,Storm Saulter
+s8075,1,Robert Rodriguez
+s8076,1,Robert Rodriguez
+s8077,1,Robert Rodriguez
+s8078,1,Javier Ruiz Caldera
+s8079,1,Darren Lynn Bousman
+s8080,1,Christopher Ray
+s8081,1,Adam Alleca
+s8082,1,Alison E. Rose
+s8083,1,Rian Johnson
+s8085,1,David Mackenzie
+s8087,1,Ola Flyum
+s8087,2,David Hebditch
+s8088,1,Adam McKay
+s8089,1,Wael Ihsan
+s8090,1,Akiva Goldsman
+s8091,1,Arjun Gourisaria
+s8091,2,Moinak Biswas
+s8092,1,Chatchai Katenut
+s8092,2,Manussa Vorasingha
+s8092,3,Tanwarin Sukkhapisit
+s8092,4,Poj Arnon
+s8093,1,Jon J. Whelan
+s8096,1,Brad Anderson
+s8097,1,Alex Holmes
+s8099,1,Raj B. Shetty
+s8100,1,James Sweeney
+s8101,1,Rowan Athale
+s8102,1,Marc Forster
+s8104,1,Baz Luhrmann
+s8105,1,Ester Gould
+s8105,2,Reijer Zwaan
+s8106,1,Ivan Reitman
+s8107,1,Andrew Bergman
+s8109,1,Afonso Poyart
+s8111,1,Rob Minkoff
+s8112,1,J.M. Berrios
+s8113,1,Stefano Sollima
+s8114,1,Chayanop Boonprakob
+s8115,1,Zakariya
+s8116,1,Benny Fredman
+s8117,1,Saul Dibb
+s8119,1,Joseph Cross
+s8120,1,Kasper Barfoed
+s8121,1,Partho Sen-Gupta
+s8123,1,Sumit Das
+s8124,1,Kevin Phillips
+s8125,1,Indra Kumar
+s8127,1,Greg Mottola
+s8128,1,Gordon Parks
+s8129,1,Bryan Singer
+s8131,1,Bruce McCulloch
+s8132,1,Angga Dwimas Sasongko
+s8134,1,Matthew Cooke
+s8135,1,Anthony Caronna
+s8135,2,Alexander Smith
+s8136,1,Matt Wechsler
+s8137,1,Basu Chatterjee
+s8139,1,Tim Burton
+s8140,1,Jamie M. Dagg
+s8141,1,Dan Kwan
+s8141,2,Daniel Scheinert
+s8142,1,Derek Yee
+s8143,1,Cheh Chang
+s8145,1,Subhash Ghai
+s8146,1,Santosh Sivan
+s8147,1,Michael Dowse
+s8150,1,Navneet Behal
+s8151,1,Julien Seri
+s8152,1,Chris Buck
+s8152,2,Kevin Lima
+s8153,1,Brian Smith
+s8154,1,Sameh Abdulaziz
+s8155,1,Ryu Jung-woo
+s8156,1,Sonia Lowman
+s8157,1,Leena Yadav
+s8158,1,John Carchietta
+s8159,1,Kevin Munroe
+s8160,1,Michael Pressman
+s8161,1,Steve Barron
+s8162,1,Farah Khan
+s8163,1,Einar Gabbassov
+s8164,1,Natalia Garagiola
+s8165,1,Jevons Au
+s8165,2,Zune Kwok
+s8165,3,Chow Kwun-wai
+s8165,4,Ng Ka-Leung
+s8165,5,Wong Fei-Pang
+s8167,1,Jonathan Mostow
+s8168,1,McG
+s8169,1,Yann Arthus-Bertrand
+s8169,2,Michael Pitiot
+s8170,1,Damien Leone
+s8171,1,Sukhbir Singh
+s8172,1,Priyadarshan
+s8173,1,Dheeraj Berry
+s8177,1,Nate Adams
+s8177,2,Adam Carolla
+s8178,1,Mitzi Vanessa Arreola
+s8178,2,Amir Galvan Cervera
+s8179,1,Matthew Shoychet
+s8180,1,Pamela Romanowsky
+s8182,1,Geoff Anderson
+s8184,1,Robert Rodriguez
+s8185,1,Steven Spielberg
+s8186,1,Esteban Sapir
+s8187,1,Jee-woon Kim
+s8188,1,Rob Reiner
+s8189,1,Andrew Douglas
+s8191,1,Thurop Van Orman
+s8191,2,John Rice
+s8192,1,Denis Hennelly
+s8192,2,Casey Suchan
+s8193,1,Sameh Abdulaziz
+s8195,1,Federico Veiroj
+s8196,1,Jonathan Sobol
+s8197,1,Christian Duguay
+s8198,1,Walter Hill
+s8199,1,André Øvredal
+s8201,1,Kurt Voelker
+s8202,1,Elliot Hegarty
+s8203,1,Keith Fulton
+s8203,2,Louis Pepe
+s8204,1,Johnnie To
+s8205,1,Brian M. Conley
+s8205,2,Nathan Ives
+s8206,1,John Ford
+s8208,1,Estela Renner
+s8211,1,Tommy Avallone
+s8212,1,Rolfe Kanefsky
+s8213,1,Osgood Perkins
+s8214,1,Philippe Falardeau
+s8215,1,Alastair Fothergill
+s8216,1,Kevin Ford
+s8216,2,Smriti Keshari
+s8216,3,Eric Schlosser
+s8218,1,Albert Hughes
+s8218,2,Allen Hughes
+s8219,1,Olivier Loustau
+s8220,1,Andy Tennant
+s8221,1,Richard Kelly
+s8222,1,William Brent Bell
+s8223,1,Mark Herman
+s8224,1,Neil Jordan
+s8225,1,Ken Kushner
+s8226,1,Nora Twomey
+s8227,1,Peyton Reed
+s8228,1,Kunle Afolayan
+s8229,1,Terry Gilliam
+s8230,1,Rob Reiner
+s8231,1,Husam El-Gohari
+s8233,1,Stacy Title
+s8234,1,Graham Phillips
+s8234,2,Parker Phillips
+s8235,1,Ofir Raul Graizer
+s8236,1,Bumpy
+s8237,1,Atom Egoyan
+s8238,1,Elliot Silverstein
+s8239,1,Sean Menard
+s8240,1,Jon Gunn
+s8241,1,Tarek Al Eryan
+s8242,1,Kunle Afolayan
+s8243,1,Craig Moss
+s8245,1,Magdy Al-Hawwary
+s8246,1,Antonio Chavarrías
+s8247,1,David Pablos
+s8248,1,John Stephenson
+s8249,1,Michael Buster
+s8250,1,Norman Jewison
+s8252,1,John Wells
+s8253,1,Harvey Lowry
+s8254,1,Bob Nelson
+s8255,1,Ari Folman
+s8256,1,Amr Arafa
+s8257,1,Andrew Fleming
+s8259,1,Kirk De Micco
+s8259,2,Chris Sanders
+s8260,1,Alex Proyas
+s8261,1,Marek Piwowski
+s8262,1,Neil Jordan
+s8264,1,Jarrad Paul
+s8264,2,Andrew Mogel
+s8265,1,Satish Manwar
+s8266,1,Ifa Isfansyah
+s8267,1,Frank Oz
+s8267,2,Jim Henson
+s8268,1,Tariq Khan
+s8270,1,Simon Stone
+s8271,1,Peter Mortimer
+s8271,2,Josh Lowell
+s8273,1,Martin Scorsese
+s8274,1,Cecilia Atán
+s8274,2,Valeria Pivato
+s8275,1,Blair Hayes
+s8276,1,William Friedkin
+s8277,1,William Brent Bell
+s8279,1,Stephanie Soechtig
+s8279,2,Jeremy Seifert
+s8280,1,Alistair Legrand
+s8281,1,Riri Riza
+s8282,1,Bette Gordon
+s8284,1,Kieran Darcy-Smith
+s8285,1,Jay Chandrasekhar
+s8286,1,Robert Berlinger
+s8287,1,Paul Andrew Williams
+s8289,1,James Ponsoldt
+s8290,1,Justin Benson
+s8290,2,Aaron Moorhead
+s8291,1,Sam Raimi
+s8292,1,David Leveaux
+s8293,1,Nicolas Pesce
+s8294,1,Michael Samuels
+s8295,1,David Sington
+s8296,1,Jenée LaMarque
+s8297,1,David O. Russell
+s8298,1,Kunle Afolayan
+s8299,1,David R. Ellis
+s8300,1,Coerte Voorhees
+s8300,2,John Voorhees
+s8301,1,Rodrigo Van Der Put
+s8302,1,Hugh WIlson
+s8303,1,Mark Tonderai
+s8304,1,Cheh Chang
+s8305,1,Brian Levant
+s8306,1,Brian Levant
+s8307,1,Meng Hua Ho
+s8308,1,Rob Minkoff
+s8309,1,Peter Nicks
+s8310,1,Martin Campbell
+s8311,1,Oliver Frampton
+s8313,1,John Lee Hancock
+s8314,1,Toa Fraser
+s8315,1,Scott Walker
+s8318,1,Nia Dinata
+s8319,1,Mario Mattei
+s8320,1,Cody Stokes
+s8321,1,David Fincher
+s8323,1,Doron Paz
+s8323,2,Yoav Paz
+s8324,1,Paul Shoulberg
+s8325,1,Kasra Farahani
+s8326,1,Neal Brennan
+s8327,1,David Batty
+s8328,1,David Batty
+s8329,1,David Batty
+s8330,1,David Batty
+s8333,1,Shakti Samanta
+s8334,1,John Dahl
+s8336,1,Michel Gondry
+s8338,1,Michael G. Kehoe
+s8339,1,Mickey Liddell
+s8340,1,Paco Arango
+s8341,1,Maya Gallus
+s8342,1,Tate Taylor
+s8343,1,Chad Archibald
+s8344,1,Zoe Berriatúa
+s8345,1,Mark Columbus
+s8345,2,Lauren Hoekstra
+s8345,3,Sarah Kruchowski
+s8345,4,Ryan Moody
+s8345,5,Simon Savelyev
+s8345,6,Vanita Shastry
+s8345,7,Shadae Lamar Smith
+s8345,8,Jeremy David White
+s8346,1,Gonzalo López-Gallego
+s8347,1,Note Chern-Yim
+s8349,1,Damani Baker
+s8351,1,Rudradeep Bhattacharjee
+s8352,1,Rob W. King
+s8353,1,Lasse Hallström
+s8355,1,Rob Cohen
+s8356,1,Vlad Yudin
+s8357,1,Terry Gilliam
+s8359,1,Isaac Ezban
+s8360,1,Philip Einstein Lipski
+s8360,2,Jørgen Lerdam
+s8360,3,Amalie Næsby Fick
+s8361,1,Brad Bird
+s8362,1,Frank Oz
+s8363,1,Steven Soderbergh
+s8364,1,Femi Oyeniran
+s8364,2,Kalvadour Peterson
+s8365,1,Femi Oyeniran
+s8365,2,Nicky Slimting Walker
+s8366,1,Ricky Gervais
+s8366,2,Matthew Robinson
+s8368,1,Karyn Kusama
+s8370,1,Phyllida Lloyd
+s8371,1,Benjamin Cohen
+s8371,2,Nicolas Cotto
+s8373,1,Robin Swicord
+s8375,1,Riri Riza
+s8376,1,Karen Moncrieff
+s8378,1,Tom Hooper
+s8381,1,Alejandro Agresti
+s8382,1,Timothy Reckart
+s8383,1,Pieter-Jan De Pue
+s8384,1,Gillian Armstrong
+s8385,1,Daniel Stamm
+s8386,1,Sean Penn
+s8387,1,Rodrigo Van Der Put
+s8388,1,Mark Craig
+s8389,1,Dennis Scholl
+s8389,2,Kareem Tabsch
+s8390,1,Rob Smat
+s8391,1,Peter Spirer
+s8392,1,Manish Jha
+s8394,1,Jeff Baena
+s8395,1,Blake Harris
+s8395,2,Chris Bouchard
+s8396,1,Mark Osborne
+s8397,1,Florian Henckel von Donnersmarck
+s8399,1,Yorgos Lanthimos
+s8400,1,Brian O'Malley
+s8401,1,Jay Lyons
+s8402,1,Robert Aldrich
+s8403,1,Fred Durst
+s8404,1,Joshua Oppenheimer
+s8405,1,Peter Jackson
+s8406,1,Peter Jackson
+s8407,1,Marco Schnabel
+s8408,1,Robert Cannan
+s8408,2,Ross Adam
+s8409,1,Stanisław Różewicz
+s8410,1,Johnny To
+s8411,1,Robert Tate
+s8413,1,John Mikulak
+s8413,2,Joshua Brown
+s8414,1,Martin Campbell
+s8415,1,Lilly Wachowski
+s8415,2,Lana Wachowski
+s8416,1,Lilly Wachowski
+s8416,2,Lana Wachowski
+s8417,1,Lilly Wachowski
+s8417,2,Lana Wachowski
+s8418,1,Ken Burns
+s8418,2,Christopher Loren Ewers
+s8418,3,Erik Ewers
+s8419,1,Park In-je
+s8420,1,William Wyler
+s8421,1,Grant Heslov
+s8426,1,Mads Matthiesen
+s8427,1,Bryan Bertino
+s8428,1,John Banas
+s8431,1,James Bobin
+s8433,1,Michael Radford
+s8434,1,David Zucker
+s8435,1,David Zucker
+s8436,1,Barry Levinson
+s8437,1,Stuart Heisler
+s8439,1,Carly Stone
+s8441,1,Stefan Aust
+s8441,2,Dirk Laabs
+s8442,1,Lasse Hallström
+s8442,2,Joe Johnston
+s8444,1,Charlie McDowell
+s8445,1,Wenn V. Deramas
+s8446,1,Adam McKay
+s8447,1,John Duigan
+s8448,1,Ben A. Williams
+s8449,1,Mimi Leder
+s8450,1,Alan J. Pakula
+s8451,1,Jean-Pierre Devillers
+s8452,1,Stephen Chbosky
+s8453,1,Joel Schumacher
+s8454,1,Philipp Stölzl
+s8455,1,Shawn Levy
+s8456,1,Peggy Holmes
+s8457,1,Bryan Buckley
+s8458,1,Peter Lord
+s8458,2,Jeff Newitt
+s8459,1,Derek Cianfrance
+s8460,1,Keerthi
+s8461,1,Ahmad El-Badri
+s8462,1,Robert Zemeckis
+s8463,1,Randall Lobb
+s8463,2,Robert McCallum
+s8464,1,Chan-sang Lim
+s8465,1,Brian A. Miller
+s8466,1,Martha Coolidge
+s8467,1,Ron Clements
+s8467,2,John Musker
+s8468,1,Na Hyeon
+s8469,1,John Papola
+s8470,1,Gabriele Muccino
+s8471,1,Grant Korgan
+s8471,2,Brian Niles
+s8473,1,Riri Riza
+s8474,1,Francis Ford Coppola
+s8476,1,Miriam Chandy Menacherry
+s8478,1,Kevin Derek
+s8479,1,Shaina Allen
+s8480,1,Heber Cannon
+s8480,2,Mariah Moore
+s8480,3,Marston Sawyers
+s8481,1,Alison MacLean
+s8482,1,Ahmed Al-Badry
+s8484,1,Steve Barker
+s8485,1,Dejan Zečević
+s8486,1,Hadi El Bagoury
+s8487,1,Gore Verbinski
+s8488,1,Lone Scherfig
+s8489,1,N.D. Wilson
+s8490,1,Curtis Hanson
+s8492,1,Paul Dugdale
+s8493,1,Christian E. Christiansen
+s8494,1,David Michôd
+s8495,1,Bruce Robinson
+s8496,1,Austin Stark
+s8497,1,Kristian Levring
+s8498,1,Wayne Blair
+s8499,1,Frank Oz
+s8500,1,Gus Van Sant
+s8501,1,Stephen Amezdroz
+s8502,1,Chris Renaud
+s8503,1,Tiller Russell
+s8505,1,Abhishek Sharma
+s8506,1,Giancarlo Esposito
+s8507,1,Dino Risi
+s8508,1,William Eubank
+s8508,2,Will Eubank
+s8509,1,Isaac Ezban
+s8510,1,Sunil Soraya
+s8512,1,David Fincher
+s8513,1,Peter Chelsom
+s8514,1,James Ponsoldt
+s8515,1,Krzysztof Zanussi
+s8516,1,Brian Levant
+s8517,1,Thomas Meadmore
+s8518,1,Kyle Patrick Alvarez
+s8521,1,Steven R. Monroe
+s8522,1,Cosmo Feilding-Mellen
+s8523,1,Stephan Rick
+s8525,1,Will Lockhart
+s8525,2,Cole D. Pruitt
+s8526,1,Tony Scott
+s8527,1,Anthony Minghella
+s8528,1,Tobe Hooper
+s8529,1,Mohammed El-Tahawy
+s8529,2,Mohamed Mostafa
+s8530,1,Lena Khan
+s8531,1,Leanne Gater
+s8532,1,Simon Wells
+s8533,1,Robert Schwentke
+s8535,1,Brendan Malloy
+s8535,2,Emmett Malloy
+s8536,1,David Koepp
+s8537,1,Michael Winterbottom
+s8538,1,Ben Brewer
+s8538,2,Alex Brewer
+s8539,1,David Briggs
+s8541,1,Kevin Donovan
+s8543,1,Robert Luketic
+s8544,1,Poj Arnon
+s8547,1,Jean-Pierre Dardenne
+s8547,2,Luc Dardenne
+s8548,1,Errol Morris
+s8549,1,Mark Neveldine
+s8550,1,Ken Burns
+s8550,2,Lynn Novick
+s8551,1,Ossama Abu El Atta
+s8551,2,Tarek Al Eryan
+s8553,1,Russell Crowe
+s8554,1,Jay Russell
+s8555,1,Frank Coraci
+s8556,1,Chito S. Roño
+s8557,1,Niyi Akinmolayan
+s8559,1,Robert Eggers
+s8560,1,Kyle Rankin
+s8562,1,Neil Rawles
+s8563,1,Emil Ben-Shimon
+s8564,1,Laurent Cantet
+s8565,1,Michael Apted
+s8566,1,Victoria Bromley
+s8567,1,George Mendeluk
+s8569,1,Peter Foott
+s8570,1,Sze Yu Lau
+s8571,1,Peter Svatek
+s8572,1,Saheed Arafath
+s8573,1,Charlotte Zwerin
+s8574,1,David Shisgall
+s8577,1,Derek Hui
+s8578,1,Wim Bonte
+s8579,1,Raam Reddy
+s8580,1,Bin Bunluerit
+s8581,1,Taika Waititi
+s8582,1,Sam Liu
+s8583,1,Benjamin Ross
+s8584,1,Stephen Hopkins
+s8585,1,Johnnie To
+s8586,1,Mohamed Hamdy
+s8587,1,Jordan Ross
+s8588,1,William Wyler
+s8588,2,John Sturges
+s8590,1,Li Jun
+s8591,1,Aditya Kripalani
+s8592,1,Sameer Vidwans
+s8595,1,Steve Loter
+s8596,1,Sonny Marler
+s8598,1,Edward Ellis
+s8598,2,Flor Salcedo
+s8598,3,Aaron Woolf
+s8599,1,Beeban Kidron
+s8600,1,Michael Cumming
+s8602,1,Kyoko Miyake
+s8603,1,Phil Roman
+s8604,1,Roger Spottiswoode
+s8607,1,Buddhadev Dasgupta
+s8608,1,Maria Ripoll
+s8609,1,Warren P. Sonoda
+s8611,1,Daniel Benmayor
+s8612,1,Madhur Bhandarkar
+s8613,1,Sukum Maetawanitch
+s8614,1,Sang-ho Yeon
+s8615,1,Danny Boyle
+s8616,1,Jeffrey Nachmanoff
+s8617,1,Wally Pfister
+s8618,1,Stephen Daldry
+s8619,1,Richard Bates Jr.
+s8620,1,Sam Hobkinson
+s8621,1,Jon Reiner
+s8621,2,Brad Rothschild
+s8622,1,Ron Underwood
+s8623,1,S.S. Wilson
+s8624,1,Brent Maddock
+s8625,1,S.S. Wilson
+s8626,1,Don Michael Paul
+s8627,1,Don Michael Paul
+s8628,1,Adam Smith
+s8629,1,Shyam Benegal
+s8630,1,Mukul Anand
+s8631,1,Jitender Pawar
+s8632,1,Nicholas Zeig-Owens
+s8633,1,Shaul Schwarz
+s8633,2,Christina Clusiau
+s8635,1,Tekin Girgin
+s8636,1,Henry Hathaway
+s8637,1,Preston A. Whitmore II
+s8638,1,Jay Roach
+s8639,1,Eli Craig
+s8640,1,Chandrakant Kulkarni
+s8641,1,Frank Capra
+s8641,2,John Huston
+s8641,3,Hugh Stewart
+s8641,4,Roy Boulting
+s8641,5,Anthony Veiller
+s8642,1,David Soren
+s8643,1,Kevin Smith
+s8644,1,Hidetaka Inazuka
+s8646,1,Buz Wallick
+s8649,1,Gary Young
+s8650,1,Kim Nguyen
+s8651,1,Susan Lambert
+s8651,2,Stefan Moore
+s8652,1,James Toback
+s8653,1,Anurag Kashyap
+s8655,1,Benedict Andrews
+s8656,1,Paul Feig
+s8657,1,Michael Mazzola
+s8658,1,Chris Burkard
+s8659,1,Jonathan Glazer
+s8660,1,Erik Canuel
+s8661,1,John Ford
+s8662,1,Paul Andrew Williams
+s8663,1,Sanjay Patel
+s8664,1,Sherif Mandour
+s8665,1,Jason Reitman
+s8666,1,Pradeep Verma
+s8667,1,Mohamed Hamdy
+s8668,1,Mario Van Peebles
+s8669,1,James McTeigue
+s8671,1,Pete Travis
+s8672,1,Ram Gopal Varma
+s8673,1,Ashu Trikha
+s8674,1,Amanda Micheli
+s8675,1,Gurinder Chadha
+s8676,1,Brandon Dickerson
+s8677,1,David L.G. Hughes
+s8678,1,Harvey Lilley
+s8679,1,Gary Michael Schultz
+s8681,1,P.T. Kunju Muhammad
+s8682,1,Ganesh Kadam
+s8683,1,Yılmaz Erdoğan
+s8684,1,Kushal Srivastava
+s8686,1,Ed Lilly
+s8687,1,Bilal Lashari
+s8688,1,Param Gill
+s8689,1,Anu Menon
+s8690,1,Rob McKittrick
+s8692,1,Robin Swicord
+s8693,1,Marc Francis
+s8693,2,Max Pugh
+s8694,1,Alex Smith
+s8694,2,Andrew J. Smith
+s8695,1,Philip G. Atwell
+s8696,1,Faraz Haider
+s8697,1,Steven Spielberg
+s8698,1,John Michael McDonagh
+s8699,1,Hadi El Bagoury
+s8700,1,Jack Zagha Kababie
+s8702,1,Marina Zenovich
+s8703,1,Tiffanie Hsu
+s8704,1,Max Joseph
+s8705,1,Chris Stokes
+s8706,1,David Serrano
+s8707,1,Jeremiah Zagar
+s8708,1,Greg MacGillivray
+s8709,1,Alejandro Agresti
+s8710,1,Antoni Krauze
+s8712,1,Chi Fat Chan
+s8714,1,Ashish R. Mohan
+s8715,1,Stephen Donnelly
+s8715,2,Olly Reid
+s8715,3,Jun Falkenstein
+s8716,1,Abel Ferrara
+s8717,1,Trevor Ryan
+s8718,1,Stanisław Różewicz
+s8719,1,Michael Fahey
+s8720,1,Huang Lei
+s8723,1,Robert Zemeckis
+s8724,1,Rebecca Harrison
+s8725,1,Josh Mendoza
+s8726,1,Rudy Soedjarwo
+s8726,2,Riri Riza
+s8728,1,Ritu Sarin
+s8728,2,Tenzing Sonam
+s8729,1,Heidi Brandenburg
+s8729,2,Mathew Orzel
+s8730,1,Marek Kanievska
+s8731,1,Scott Zabielski
+s8732,1,Noah Baumbach
+s8733,1,Paul Raschid
+s8734,1,Benjamin Turner
+s8735,1,Drew Stone
+s8736,1,Martin Scorsese
+s8738,1,Milla Harrison-Hansley
+s8738,2,Alicky Sussman
+s8739,1,Dhruv Dhawan
+s8740,1,Frank Capra
+s8740,2,Anatole Litvak
+s8743,1,Barry Sonnenfeld
+s8744,1,Paul Dano
+s8745,1,Morgan Matthews
+s8746,1,Mel Stuart
+s8747,1,Pascale Lamche
+s8749,1,John Duigan
+s8751,1,Debra Granik
+s8752,1,Zach Braff
+s8753,1,Theo Davies
+s8754,1,Adrian Murray
+s8755,1,Bart Freundlich
+s8757,1,Barak Goodman
+s8758,1,Oliver Stone
+s8760,1,Storm Theunissen
+s8761,1,David Guy Levy
+s8762,1,Yasir Nawaz
+s8763,1,Mikhil Musale
+s8764,1,John Huston
+s8765,1,Lawrence Kasdan
+s8766,1,Jovanka Vuckovic
+s8766,2,Annie Clark
+s8766,3,Roxanne Benjamin
+s8766,4,Karyn Kusama
+s8767,1,Rob Cohen
+s8768,1,Lee Tamahori
+s8769,1,Alfonso Cuarón
+s8770,1,N. Chandra
+s8771,1,Subhash Ghai
+s8772,1,Ksshitij Chaudhary
+s8773,1,Sangeeth Sivan
+s8774,1,Kedar Shinde
+s8775,1,Abu Bakr Shawky
+s8777,1,Christian De Vita
+s8778,1,Saratswadee Wongsomphet
+s8779,1,Saratswadee Wongsomphet
+s8780,1,Kirati Nakintanon
+s8782,1,Mark Risley
+s8783,1,Kevin Smith
+s8787,1,James Brown
+s8788,1,Kenny Young
+s8789,1,Ivona Juka
+s8790,1,Cathy Garcia-Molina
+s8791,1,Dennis Dugan
+s8792,1,Jason Reitman
+s8793,1,Mu Chu
+s8794,1,Raja Gosnell
+s8795,1,Mohamed Diab
+s8799,1,Chandra Prakash Dwivedi
+s8800,1,Avadhoot Gupte
+s8802,1,Majid Al Ansari
+s8803,1,David Fincher
+s8805,1,Ruben Fleischer
+s8806,1,Peter Hewitt
+s8807,1,Mozez Singh
