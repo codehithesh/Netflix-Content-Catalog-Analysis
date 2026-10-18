@@ -4,7 +4,7 @@
 A Tableau and SQL look at Netflix's media records.
 
 ## Executive Summary
-Most of Netflix's catalog is movies, at 69.6% Movies versus 30.4% TV Shows. But among titles added from 2018 to 2021, TV Shows make up 46.8%. That suggests Netflix is leaning more on serialized content to keep people watching and subscribed, while still holding a big library of movies to attract new viewers. The growth plan should balance both, depend less on any single country, and offer more localized content.
+Most of Netflix's catalog is movies, at 69.6% Movies versus 30.4% TV Shows. But among titles added from 2018 to 2021, TV Shows make up 46.8%. That suggests Netflix is leaning more on serialized content to keep people watching and subscribed, while still holding a big library of movies to attract new viewers. The growth plan should balance both, depend less on any single country, and offer more localized content. Check [Netflix Dashboard](https://public.tableau.com/app/profile/hithesh.v1025/viz/NetflixTimingTalent/d3TimingTalent).
 
 ## Watch Video Presentation
 
@@ -138,4 +138,4 @@ The goal is to dig into this dataset and give Netflix's leadership data-backed a
 * Run all cells in order from the notebook menu (`Cell` -> `Run All` or `Run All Above`).
 * Make sure the required Python packages are installed before you run the notebook.
 * Import data in Tableau and start plotting OR check `assets/tableau/NetflixTimingTalent.twbx`
-* Dashboard link: [Netflix Dashboard](https://public.tableau.com/app/profile/hithesh.v1025/viz/NetflixContentMixTrends/d1ContentMixTrends)
+* Dashboard link: [Netflix Dashboard](https://public.tableau.com/app/profile/hithesh.v1025/viz/NetflixTimingTalent/d3TimingTalent)
