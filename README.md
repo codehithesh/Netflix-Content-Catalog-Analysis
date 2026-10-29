@@ -6,12 +6,6 @@ A Tableau and SQL look at Netflix's media records.
 ## Executive Summary
 Most of Netflix's catalog is movies, at 69.6% Movies versus 30.4% TV Shows. But among titles added from 2018 to 2021, TV Shows make up 46.8%. That suggests Netflix is leaning more on serialized content to keep people watching and subscribed, while still holding a big library of movies to attract new viewers. The growth plan should balance both, depend less on any single country, and offer more localized content. Check [Netflix Dashboard](https://public.tableau.com/app/profile/hithesh.v1025/viz/NetflixTimingTalent/d3TimingTalent).
 
-## Watch Video Presentation
-
-<a href="https://www.youtube.com/watch?v=c316uVDjDFY" target="_blank">
-  <img src="https://img.youtube.com/vi/c316uVDjDFY/hqdefault.jpg" alt="Watch Video on YouTube" width="400" />
-</a>
-
 ## About Business
 Netflix is one of the biggest media and video streaming platforms in the world. By mid-2021 it had over 222 million subscribers and a library of over 10,000 movies and TV shows. The dataset lists everything available on the platform, along with the cast, directors, ratings, release year, duration, genres, and country of origin for each title.
 
